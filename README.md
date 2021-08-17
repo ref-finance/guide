@@ -1,4 +1,4 @@
 # Initial page
 
-Initial page
+Initial Page
 
