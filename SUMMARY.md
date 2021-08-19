@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Ref.Finance](README.md)
+* [Home](README.md)
 * [Roadmap](roadmap.md)
 
 ## ANNOUNCEMENTS
