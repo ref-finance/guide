@@ -1,23 +1,40 @@
+---
+description: Welcome to Ref Finance guide documentation site.
+---
+
 # Home
-
-The project is currently in the testing phases.
-
-Welcome to Ref Finance guide documentation site.
 
 ## What is Ref Finance?
 
+### community project
+
+Ref is first and foremost a community project. A [DAO](https://v2.sputnik.fund/#/ref-finance.sputnik-dao.near) has been created to allow the community to direct the project. The DAO will be responsible for managing the treasury initially, and shortly thereafter, managing upgrades of the protocol.
+
+### DeFi protocols
+
 **Ref Finance** is a collection of DeFi protocols powered by smart contracts on [NEAR Protocol](https://near.org) that enable trading, earning by providing liquidity and other financial use cases in the future.
 
-Highlights:
 
-* Permission-less AMM pools for any NEAR's Fungible Tokens.
-* Trading across multiple pools in one transaction.
-* _1bps_ referral fee on trading to pay the UI.
-* **Coming:** _4bps_ exchange fee to split between $REF token holders.
-* **Coming v2:** constant weighted product AMM pool type.
-* **Coming v3:** combining AMM with an order book via limit orders.
-* **Coming v4:** lend / borrow.
-* **Coming in the distant future:** internal balances privacy: hide the balance of each user, removing ability to link two trades to the same user.
+
+**Official website**: [https://ref.finance/](https://ref.finance/)
+
+Do you have ideas for Ref or the $REF token? Let us know!
+
+| Social Media | Address |
+| :--- | :--- |
+| forum | [gov.ref.finance](https://gov.ref.finance/) |
+| Discord | [https://discord.gg/SJBGcfMxJz](https://discord.gg/SJBGcfMxJz) |
+| Twitter | [https://twitter.com/finance\_ref](https://twitter.com/finance_ref) |
+| Medium | [https://ref-finance.medium.com/](https://ref-finance.medium.com/) |
+| Telegram channel | [https://ref.finance/](https://ref.finance/) |
+
+_\[1\] The latest data can be viewed at_  
+
+_\[2\] The codebase can be viewed at_  
+
+_\[3\] Try to swap in testnet_  
+
+
 
 ## Community
 

@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [Roadmap](roadmap.md)
+* [GOVERNANCE](governance.md)
 
 ## ANNOUNCEMENTS
 
@@ -10,12 +11,18 @@
 
 ## PRODUCTS
 
+* [NEAR Account](products/near-account.md)
 * [Wallet](products/wallet.md)
 * [Deposit](products/deposit.md)
 * [Swap](products/swap.md)
+* [Pools](products/pools.md)
 * [Farms](products/farms.md)
 
 ## DEVELOPERS
 
 * [Bug Bounty](developers/bug-bounty.md)
+
+---
+
+* [TOKENOMICS](tokenomics.md)
 
