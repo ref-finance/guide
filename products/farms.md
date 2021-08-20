@@ -12,7 +12,9 @@ After successfully adding liquidity on Ref Finance, now you can stake you LP Tok
 
 3. Approve the transaction..
 
-4. Claim your rewards token.![](https://miro.medium.com/max/1400/0*5hK0w8c--styofvS.jpg)
+4. Claim your rewards token.
+
+![](https://miro.medium.com/max/1400/0*5hK0w8c--styofvS.jpg)
 
 You can choose “Withdraw” to stop staking LP Token to farm anytime you want.
 

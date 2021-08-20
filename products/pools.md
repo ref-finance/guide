@@ -4,11 +4,17 @@
 
 1. Open Ref Finance Pools.
 
-2. Find the pool you want to add tokens, you can try the search bar function as it will make your process easier.![](https://miro.medium.com/max/1400/0*EYnSZVsb0CmdFpvo.jpg)
+2. Find the pool you want to add tokens, you can try the search bar function as it will make your process easier.
 
-3. After choosing the suitable pool, click on “Add Liquidity”.![](https://miro.medium.com/max/1400/0*UEpt8igAEQT3506P.jpg)
+![](https://miro.medium.com/max/1400/0*EYnSZVsb0CmdFpvo.jpg)
 
-4. Enter the number you want.![](https://miro.medium.com/max/1400/0*vwvIcDOpZvLExuKC.jpg)
+3. After choosing the suitable pool, click on “Add Liquidity”.
+
+![](https://miro.medium.com/max/1400/0*UEpt8igAEQT3506P.jpg)
+
+4. Enter the number you want.
+
+![](https://miro.medium.com/max/1400/0*vwvIcDOpZvLExuKC.jpg)
 
 5. Select “Add Liquidity”, and you are finished!
 
@@ -27,5 +33,7 @@ There are 2 ways where you can remove your liquidity:
 
 ![](https://miro.medium.com/max/1400/0*K8vQ2mdBRt56FK44.jpg)
 
-2. Select Pools → View liquidity → Remove.![](https://miro.medium.com/max/1400/0*SOOZEIkWvgtPoZ9U.jpg)
+2. Select Pools → View liquidity → Remove.
+
+![](https://miro.medium.com/max/1400/0*SOOZEIkWvgtPoZ9U.jpg)
 
