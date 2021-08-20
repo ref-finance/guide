@@ -1,65 +1,64 @@
 # TOKENOMICS
 
-## Distribution <a id="f851"></a>
+## Distribution
 
-**Total Supply:** 100,000,000
+_Ref Finance is a community-led project, and we want the distribution to reflect that. We propose that nearly the entire supply \(minimum 65%, as high as 85%\) be distributed directly to participants based on their interactions with the protocol._
 
-**5% - Airdrops**
+![](.gitbook/assets/image%20%281%29.png)
+
+**Total Supply:** 100,000,000 REF
+
+**5% - Airdrops-**5,000,000 $REF
 
 * 3% - Early users
 * 2% - Strategic airdrop
 
-**60% - Liquidity Incentives**
+**60% - Liquidity Incentives-**60,000,000 $REF
 
 * 25% first year
 * 18.3% second year
 * 11.67% third year
 * 5% fourth year
 
-**35% - Treasury**
+**35% - Treasury-**35,000,000 $REF
 
 * 10% Development Fund
 * 2.5% Skyward sale
 * 2.5% Liquidity for $REF pairs \(REF &lt;&gt; NEAR, REF &lt;&gt; USDC\)
 * 20% Future community-building activities \(further airdrops, strategic partnerships, etc\)
 
-Ref Finance is a community-led project, and we want the distribution to reflect that. We propose that nearly the entire supply \(minimum 65%, as high as 85%\) be distributed directly to participants based on their interactions with the protocol.
+## The $REF Token
 
-**Airdrops**
+Since the DAO has recently voted to create a $REF token, we’ve outlined the breakdown and use cases below. Users can find details from that vote on [gov.ref.finance](https://gov.ref.finance/). In total, there will be 100,000,000 $REF tokens in total supply.
 
-Early, active users of Ref Finance will receive an airdrop of 3% of the total supply. These tokens will be locked for a total of 6 months. The first 50% will unlock after 3 months, with an additional 50% unlocking after 6 months.
+## **Airdrops**
 
-Prior to the sale, we will post the full airdrop recipient list, along with instructions for claiming your airdrop!
+Being a community governed project, our airdrops…
 
-**Liquidity Incentives**
+## **Fee Management**
 
-$REF will be a primary reward token for LPs using the Ref Finance multi-token yield farming mechanism. Over four years, 60% of $REF will be distributed via farming.
+Ref takes a fee of 0.05% per swap. Out of that, 0.04% gets allocated to the liquidity providers, with an additional 0.01% used to reward referrals. Being built on NEAR, Ref users will enjoy lightning fast transaction speeds with negligible fees for all Ethereum assets through our Rainbow Bridge!
 
-We will release the initial batch of incentivized pairs shortly. After the initial batch, the DAO will be responsible for choosing which pairs to incentivize with $REF rewards.
+## **Liquidity Incentives**
 
-Projects will be able to submit proposals to gov.ref.finance to have their pairs receive $REF rewards. This creates synergy with Skyward, as projects can apply to have their token whitelisted and rewarded on Ref prior to the sale as part of their due diligence by the community.
+With our farming features soon to be deployed, we are allocating a total of 60,000,000 $REF for liquidity incentives. The $REF token will be the primary reward for users who deposit liquidity and utilize their LP tokens in our farms. Initial pairs will be decided by the Ref Team, with the DAO being in charge shortly after of voting on which new pairs should be added to be eligible for incentives. The structure will be broken down over 4 years to ensure a smooth and gradual release of $REF while rewarding initial users:
 
-Additionally, the DAO can adopt an oTokens-style approach, where projects must stake $REF in order to make a proposal to receive liquidity incentives.
+Year 1: 25%  
+Year 2: 18.3%  
+Year 3: 11.67%  
+Year 4: 5%
 
-## **Utility** <a id="0d75"></a>
+## **Treasury**
 
-We expect the $REF token to be used the following ways:
+Another 35,000,000 $REF will be allocated to the treasury, which will be managed by the Ref Finance team. The treasury is further divided into a development fund \(10%\) for upcoming projects who will develop natively on NEAR and launch through Ref. An additional 25% will be allocated towards future community related activities, events and partnerships.
 
-**Governance**
+## **Governance**
 
-Currently, the Ref DAO is made up of a council and a community board. One of the first proposals post-airdrop and Skyward sale will be to add token holders as a third role.
+Currently, the Ref DAO is made up of a council plus a community board. One of the first proposals post the airdrop and Skyward sale will be to add token holders as a third role for governance.
 
-$REF holders will be able to stake their $REF to vote on proposals, similar to the council and community board. This will include treasury management decisions, liquidity incentives, and \(eventually\) even protocol upgrades.
+These $REF holders will be able to stake their $REF to vote on proposals, similar to the council and community board. Proposals can be submitted on [gov.ref.finance](https://gov.ref.finance/) and voters will oversee decisions including treasury management, liquidity incentives, and \(eventually\) even protocol upgrades.
 
-**Fee Management**
+\*\*\*\*
 
-Ref currently takes a protocol fee of 0.5% from swaps. This fee can be adjusted by the DAO.
-
-The revenue from this fee resides with the protocol currently, which means the DAO itself. The DAO can choose to direct these funds to $REF holders, either through direct redemption or via buybacks of $REF.
-
-As the protocol evolves and progresses along its roadmap, the opportunity for fees may increase.
-
-**Community and Ecosystem Development**
-
-To grow the Ref community, we need an army of content creators, developers, designers, moderators, memelords, and more. The $REF token is a great way to align incentives with these groups, and will likely be distributed by the DAO to these incredibly valuable contributors.
+\*\*\*\*
 

@@ -25,4 +25,5 @@
 ---
 
 * [TOKENOMICS](tokenomics.md)
+* [Contact us](contact-us.md)
 
