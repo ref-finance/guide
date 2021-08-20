@@ -36,8 +36,3 @@ _\[3\] Try to swap in testnet_
 
 
 
-## Community
-
-* [Telegram](https://t.me/ref_finance)
-* [Twitter](https://twitter.com/finance_ref)
-
