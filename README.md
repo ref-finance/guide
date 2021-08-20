@@ -28,11 +28,9 @@ Do you have ideas for Ref or the $REF token? Let us know!
 | Medium | [https://ref-finance.medium.com/](https://ref-finance.medium.com/) |
 | Telegram channel | [https://ref.finance/](https://ref.finance/) |
 
-_\[1\] The latest data can be viewed at_  
+_\[1\] The codebase can be viewed at_  [_https://github.com/ref-finance/_](https://github.com/ref-finance/)\_\_
 
-_\[2\] The codebase can be viewed at_  
-
-_\[3\] Try to swap in testnet_  
+_\[2\] Try to swap in testnet  please contact us_
 
 
 
