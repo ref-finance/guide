@@ -8,11 +8,17 @@ There are some occasions that you don’t see the token you own appear in your d
 
 ![](https://miro.medium.com/max/1400/0*bPRykjY42Tp-Ls-_.jpg)
 
-2. Choose “Add Token”.![](https://miro.medium.com/max/1400/0*65jf3V5TDK0dSRYA.jpg)
+2. Choose “Add Token”.
 
-3. Enter your ERC-20 Token Address. If you don’t know how to find it, you can check [coingecko.com](https://www.coingecko.com/).![](https://miro.medium.com/max/1400/0*mbeISuKPij6VHsUp.jpg)
+![](https://miro.medium.com/max/1400/0*65jf3V5TDK0dSRYA.jpg)
 
-4. Now, this token should be appear on Ref Finance’s List.![](https://miro.medium.com/max/1400/0*sjs9ZTQsFTuvS4Xv.jpg)
+3. Enter your ERC-20 Token Address. If you don’t know how to find it, you can check [coingecko.com](https://www.coingecko.com/).
+
+![](https://miro.medium.com/max/1400/0*mbeISuKPij6VHsUp.jpg)
+
+4. Now, this token should be appear on Ref Finance’s List.
+
+![](https://miro.medium.com/max/1400/0*sjs9ZTQsFTuvS4Xv.jpg)
 
 ## Depositing <a id="5eb0"></a>
 
@@ -29,7 +35,9 @@ In order to swap or add liquidity on Ref Finance, you will have to deposit NEAR 
 
 ![](https://miro.medium.com/max/1400/0*oR8SqtAEDzqaYktQ.jpg)
 
-And wallah, you are all set, 20 NEAR has successfully been transferred to Ref Finance balance.![](https://miro.medium.com/max/1400/0*zGVqhcA2-qVXjKlS.jpg)
+And wallah, you are all set, 20 NEAR has successfully been transferred to Ref Finance balance.
+
+![](https://miro.medium.com/max/1400/0*zGVqhcA2-qVXjKlS.jpg)
 
 ## Withdraw <a id="89aa"></a>
 
@@ -37,9 +45,15 @@ And wallah, you are all set, 20 NEAR has successfully been transferred to Ref Fi
 
 ![](https://miro.medium.com/max/1400/0*QdPk6HINcY6rqjMW.jpg)
 
-2. Select a token you want to withdraw.![](https://miro.medium.com/max/1400/0*TIvoXdTfoGE5dR0H.jpg)
+2. Select a token you want to withdraw.
 
-3. Choose “Withdraw” and Allow the transaction.![](https://miro.medium.com/max/1400/0*kdI_oFYHBJGOuRBU.jpg)
+![](https://miro.medium.com/max/1400/0*TIvoXdTfoGE5dR0H.jpg)
 
-4. You have successfully withdrawn the token from Ref Finance. The token will take place at your NEAR Wallet, you can check it [here](https://wallet.near.org/).![](https://miro.medium.com/max/1400/0*Uy26fF5d2HVlFq83.jpg)
+3. Choose “Withdraw” and Allow the transaction.
+
+![](https://miro.medium.com/max/1400/0*kdI_oFYHBJGOuRBU.jpg)
+
+4. You have successfully withdrawn the token from Ref Finance. The token will take place at your NEAR Wallet, you can check it [here](https://wallet.near.org/).
+
+![](https://miro.medium.com/max/1400/0*Uy26fF5d2HVlFq83.jpg)
 
