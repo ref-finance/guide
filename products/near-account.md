@@ -4,11 +4,15 @@
 
 ## Step 1: Access wallet.near.org to create NEAR Account <a id="a94d"></a>
 
-This is your home page. **If you already have a NEAR Account then you can switch to the User Guide part**. But if not then below is the process of how to create a NEAR Wallet Account. Let’s click “Create account”.![](https://miro.medium.com/max/1400/0*0HLGPD1z18U8nJRQ.jpg)
+This is your home page. **If you already have a NEAR Account then you can switch to the User Guide part**. But if not then below is the process of how to create a NEAR Wallet Account. Let’s click “Create account”.
+
+![](https://miro.medium.com/max/1400/0*0HLGPD1z18U8nJRQ.jpg)
 
 ## Step 2: Account ID <a id="71ab"></a>
 
-This is the place where you can choose your own name account, try to make a good one since you can not change that name after you finish. Some rules that you should follow:![](https://miro.medium.com/max/1400/0*VeBDAtf1bGjF9OgV.jpg)
+This is the place where you can choose your own name account, try to make a good one since you can not change that name after you finish. Some rules that you should follow:
+
+![](https://miro.medium.com/max/1400/0*VeBDAtf1bGjF9OgV.jpg)
 
 Your account ID can contain any of the following:
 
@@ -24,13 +28,17 @@ Your account ID CANNOT contain:
 
 Remember that no one can get it if you aren’t allowed to \(you can sell it and buy another name account in a marketplace\).
 
-After that just agree with all the Terms & Conditions to continue.![](https://miro.medium.com/max/1400/0*z9bEtDJVyZry6c80.jpg)
+After that just agree with all the Terms & Conditions to continue.
+
+![](https://miro.medium.com/max/1400/0*z9bEtDJVyZry6c80.jpg)
 
 ## Step 3: Choosing Security Method <a id="ba36"></a>
 
 This one is important as you need to choose your secured method. Luckily, you can change this after you create an account, but right now you should select the most secure \(i.e: Recovery Phrase or Ledger Nano S or X\). You can add two other methods after you finish creating an account.
 
-Now just choose the Recovery Phrase.![](https://miro.medium.com/max/1400/0*hsDcGeJoROt7tvtY.jpg)
+Now just choose the Recovery Phrase.
+
+![](https://miro.medium.com/max/1400/0*hsDcGeJoROt7tvtY.jpg)
 
 ## Step 4: Backup your Recovery Phrase \(Seed Phrase\) <a id="0049"></a>
 
@@ -57,7 +65,9 @@ On the screen is the temporary address \(don’t save it\). Now you can buy NEAR
 
 But if you accidentally closed the window even though it told you not to do that, you can go back to [wallet.near.org](https://wallet.near.org/) and it will have you logged in with that as your address. You will still be able to receive NEAR from that address, it just won’t be a real NEAR Account. If this happens, you won’t be able to upgrade and you will have to start over again with a new account and seed phrase.
 
-That is done, you have successfully created your NEAR Account and the screen should be like this.![](https://miro.medium.com/max/1400/0*u4rFt5jzrP1ZdXkz.jpg)
+That is done, you have successfully created your NEAR Account and the screen should be like this.
+
+![](https://miro.medium.com/max/1400/0*u4rFt5jzrP1ZdXkz.jpg)
 
 Make sure you are following us on [Twitter](https://twitter.com/finance_ref) for the latest news and announcements, and do make sure you join our [Discord](http://discord.gg/PgNZgbeEGT) or [Telegram](https://t.me/ref_finance) for deeper levels of engagement with our Team and Community.  
 

@@ -26,7 +26,9 @@ To login to the DAO:
 2. Click “Sign In” in the upper right hand corner
 3. Confirm the transaction in your NEAR Wallet
 
-Next, you will see the active proposals you can vote on:![](https://miro.medium.com/max/1400/1*ECl8X3NZNPdvSFlY5fYSog.png)
+Next, you will see the active proposals you can vote on:
+
+![](https://miro.medium.com/max/1400/1*ECl8X3NZNPdvSFlY5fYSog.png)
 
 To vote “Yes”, select the green thumbs up button.
 
