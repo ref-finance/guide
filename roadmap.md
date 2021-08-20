@@ -51,7 +51,7 @@ _Let's build the greatest swap!_
 * [ ] An orderbook style DEX. 
 * [ ] A lending service we will add.
 
-## easer
+## Teaser
 
 ![](https://miro.medium.com/max/1400/0*xTWvl9t7iwfpvYLY)
 
