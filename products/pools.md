@@ -2,9 +2,8 @@
 
 ## Add Liquidity <a id="7e90"></a>
 
-1. Open Ref Finance Pools.
-
-2. Find the pool you want to add tokens, you can try the search bar function as it will make your process easier.
+1.Open Ref Finance Pools.  
+2.Find the pool you want to add tokens, you can try the search bar function as it will make your process easier.
 
 ![](https://miro.medium.com/max/1400/0*EYnSZVsb0CmdFpvo.jpg)
 
@@ -29,7 +28,7 @@
 
 There are 2 ways where you can remove your liquidity:
 
-1. Select Pools → View Pools and choose the pool you want to remove liquidity. Then select Remove liquidity.
+1.Select Pools → View Pools and choose the pool you want to remove liquidity. Then select Remove liquidity.
 
 ![](https://miro.medium.com/max/1400/0*K8vQ2mdBRt56FK44.jpg)
 
