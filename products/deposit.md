@@ -45,9 +45,19 @@ And wallah, you are all set, 20 NEAR has successfully been transferred to Ref Fi
 
 ### **Some wNEAR need to be deposited**
 
-**matters needing attention:** 
+Note: Because the new version goes online, the wNEAR already in the ref wallet needs to be deposited to display the balance.And then you can transfer wNEAR to NEAR through withdraw.
 
-Because the new version goes online, the wNEAR already in the ref wallet needs to be deposited to display the balance.
+Wallet interface:wNEAR not in the balance.
+
+![](../.gitbook/assets/image%20%282%29.png)
+
+1.Enter the amount you owned .
+
+2.Click 'Deposit'
+
+3.wNEAR will be displayed .
+
+![](../.gitbook/assets/image%20%284%29.png)
 
 
 
@@ -59,7 +69,9 @@ Because the new version goes online, the wNEAR already in the ref wallet needs t
 
 2. Select a token you want to withdraw.
 
-![](https://miro.medium.com/max/1400/0*TIvoXdTfoGE5dR0H.jpg)
+![other tokens](https://miro.medium.com/max/1400/0*TIvoXdTfoGE5dR0H.jpg)
+
+![wNEAR](../.gitbook/assets/image%20%285%29.png)
 
 3. Choose “Withdraw” and Allow the transaction.
 
@@ -68,4 +80,6 @@ Because the new version goes online, the wNEAR already in the ref wallet needs t
 4. You have successfully withdrawn the token from Ref Finance. The token will take place at your NEAR Wallet, you can check it [here](https://wallet.near.org/).
 
 ![](https://miro.medium.com/max/1400/0*Uy26fF5d2HVlFq83.jpg)
+
+
 
