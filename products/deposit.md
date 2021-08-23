@@ -1,6 +1,6 @@
 # Deposit
 
-## dd a token that can be eposited
+## Add a token that can be deposited
 
 There are some occasions that you don’t see the token you own appear in your dashboard. In this case you can follow this instruction to add a new token to deposit or swapping:
 
