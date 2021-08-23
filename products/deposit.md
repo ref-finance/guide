@@ -61,7 +61,7 @@ Wallet interface:wNEAR not in the balance.
 
 
 
-## Withdraw to get NEAR. <a id="89aa"></a>
+## Withdraw to get NEAR <a id="89aa"></a>
 
 1. At Deposit window, choose “Withdraw”.
 
