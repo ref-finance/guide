@@ -1,6 +1,6 @@
 # Deposit
 
-## Add Token <a id="1af1"></a>
+## dd a token that can be eposited
 
 There are some occasions that you don’t see the token you own appear in your dashboard. In this case you can follow this instruction to add a new token to deposit or swapping:
 
@@ -20,9 +20,13 @@ There are some occasions that you don’t see the token you own appear in your d
 
 ![](https://miro.medium.com/max/1400/0*sjs9ZTQsFTuvS4Xv.jpg)
 
-## Depositing <a id="5eb0"></a>
+## Deposit to get wNEAR and nToken <a id="5eb0"></a>
 
 In order to swap or add liquidity on Ref Finance, you will have to deposit NEAR from your NEAR Wallet first.
+
+**wNEAR**: NEAR token stored in ref account.
+
+**nToken**: Other token stored in ref account.
 
 1. In the Menu, choose Deposit.
 
@@ -39,7 +43,15 @@ And wallah, you are all set, 20 NEAR has successfully been transferred to Ref Fi
 
 ![](https://miro.medium.com/max/1400/0*zGVqhcA2-qVXjKlS.jpg)
 
-## Withdraw <a id="89aa"></a>
+### **Some wNEAR need to be deposited**
+
+**matters needing attention:** 
+
+Because the new version goes online, the wNEAR already in the ref wallet needs to be deposited to display the balance.
+
+
+
+## Withdraw to get NEAR. <a id="89aa"></a>
 
 1. At Deposit window, choose “Withdraw”.
 
