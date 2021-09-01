@@ -11,12 +11,16 @@
 
 ## PRODUCTS
 
-* [NEAR Account](products/near-account.md)
-* [Wallet](products/wallet.md)
-* [Deposit](products/deposit.md)
-* [Swap](products/swap.md)
-* [Pools](products/pools.md)
-* [Farms](products/farms.md)
+* [Getting Started](products/getting-started/README.md)
+  * [NEAR Account](products/getting-started/near-account.md)
+  * [Transfer ERC-20 Assets using Rainbow Bridge](products/getting-started/transfer-erc-20-assets-using-rainbow-bridge.md)
+* [Exchange](products/exchange/README.md)
+  * [Connect your NEAR Wallet](products/exchange/wallet.md)
+  * [Deposit](products/exchange/deposit.md)
+  * [Swap](products/exchange/swap.md)
+  * [Pools](products/exchange/pools.md)
+* [Farming](products/farms.md)
+* [Staking](products/staking.md)
 
 ## DEVELOPERS
 
