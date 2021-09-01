@@ -1,45 +1,93 @@
-# TOKENOMICS
+---
+description: >-
+  Ref Finance is a project with 100% community-led, that’s why REF Token is a
+  governance token representing the right to vote for any major changes of the
+  protocol.
+---
 
-## Distribution
+# Tokenomics
+
+## **Key Metrics**
 
 _Ref Finance is a community-led project, and we want the distribution to reflect that. We propose that nearly the entire supply \(minimum 65%, as high as 85%\) be distributed directly to participants based on their interactions with the protocol._
 
+* **Token name: Ref Finance**
+* **Ticker: REF**
+* **Blockchain: NEAR Protocol**
+* **Token Standard: NEP-141**
+* **Contract: v2.ref-finance.near**
+* **Total Supply: 100,000,000**
+* **Initial Supply: 2,500,000 via Skyward Finance Token Sales**
+
+## **Token Allocation**
+
 ![](.gitbook/assets/image%20%281%29.png)
 
-**Total Supply:** 100,000,000 REF
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Categories</th>
+      <th style="text-align:left">Allocation</th>
+      <th style="text-align:left">Vesting</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Liquidity Incentives</td>
+      <td style="text-align:left">60%</td>
+      <td style="text-align:left">
+        <p>25% first year</p>
+        <p>18.3% second year</p>
+        <p>11.67% third year</p>
+        <p>5% fourth year</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Future community-building activities</td>
+      <td style="text-align:left">20%</td>
+      <td style="text-align:left">TBD</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Developer Fund:</td>
+      <td style="text-align:left">10%</td>
+      <td style="text-align:left">4 years linear vesting</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Skyward sale &amp; community give back</td>
+      <td style="text-align:left">2,5%</td>
+      <td style="text-align:left">1 week due to Skyward Sales mechanism</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Liquidity for $REF pairs</td>
+      <td style="text-align:left">2,5%</td>
+      <td style="text-align:left">100% TGE</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Early users airdrop</td>
+      <td style="text-align:left">3%</td>
+      <td style="text-align:left">3 months vesting with 3 months cliff</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Strategic airdrop</td>
+      <td style="text-align:left">2%</td>
+      <td style="text-align:left">TBD</td>
+    </tr>
+  </tbody>
+</table>
 
-**5% - Airdrops-**5,000,000 $REF
+## **Token Release Schedule**
 
-* 3% - Early users
-* 2% - Strategic airdrop
+![](https://lh3.googleusercontent.com/8fHygQmnIh6cwJbConT9yqgEQivirq74tID6dDKjdmPTqifMJF1EiHfms2V1FhYmqG4J05WV_GXrpDqm8FiY2D5WLF4eTzVBLMhFxJtLuYG5YJUG2BuC2AVZKLzadw7wn3OX6-kZ=s0)
 
-**60% - Liquidity Incentives-**60,000,000 $REF
+Important notes: Major changes of $REF tokenomics can be proposed/voted through via DAO members in the working progress
 
-* 25% first year
-* 18.3% second year
-* 11.67% third year
-* 5% fourth year
+## **Token use case**
 
-**35% - Treasury-**35,000,000 $REF
-
-* 10% Development Fund
-* 2.5% Skyward sale
-* 2.5% Liquidity for $REF pairs \(REF &lt;&gt; NEAR, REF &lt;&gt; USDC\)
-* 20% Future community-building activities \(further airdrops, strategic partnerships, etc\)
-
-## The $REF Token
-
-Since the DAO has recently voted to create a $REF token, we’ve outlined the breakdown and use cases below. Users can find details from that vote on [gov.ref.finance](https://gov.ref.finance/). In total, there will be 100,000,000 $REF tokens in total supply.
-
-## **Airdrops**
-
-Being a community governed project, our airdrops…
-
-## **Fee Management**
+### **Fee Management**
 
 Ref takes a fee of 0.05% per swap. Out of that, 0.04% gets allocated to the liquidity providers, with an additional 0.01% used to reward referrals. Being built on NEAR, Ref users will enjoy lightning fast transaction speeds with negligible fees for all Ethereum assets through our Rainbow Bridge!
 
-## **Liquidity Incentives**
+### **Liquidity Incentives**
 
 With our farming features soon to be deployed, we are allocating a total of 60,000,000 $REF for liquidity incentives. The $REF token will be the primary reward for users who deposit liquidity and utilize their LP tokens in our farms. Initial pairs will be decided by the Ref Team, with the DAO being in charge shortly after of voting on which new pairs should be added to be eligible for incentives. The structure will be broken down over 4 years to ensure a smooth and gradual release of $REF while rewarding initial users:
 
@@ -48,11 +96,11 @@ Year 2: 18.3%
 Year 3: 11.67%  
 Year 4: 5%
 
-## **Treasury**
+### **Treasury**
 
 Another 35,000,000 $REF will be allocated to the treasury, which will be managed by the Ref Finance team. The treasury is further divided into a development fund \(10%\) for upcoming projects who will develop natively on NEAR and launch through Ref. An additional 25% will be allocated towards future community related activities, events and partnerships.
 
-## **Governance**
+### **Governance**
 
 Currently, the Ref DAO is made up of a council plus a community board. One of the first proposals post the airdrop and Skyward sale will be to add token holders as a third role for governance.
 

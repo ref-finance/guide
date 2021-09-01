@@ -1,4 +1,11 @@
-# GOVERNANCE
+---
+description: >-
+  In the long term, we envision REF Holder to be a community governed protocol,
+  such as a DAO. $REF is a governance token that will allow holders to vote on
+  community proposals.
+---
+
+# Governance
 
 ## Initial DAO Structure <a id="9a14"></a>
 

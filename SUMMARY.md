@@ -2,7 +2,7 @@
 
 * [Home](README.md)
 * [Roadmap](roadmap.md)
-* [GOVERNANCE](governance.md)
+* [Governance](governance.md)
 
 ## ANNOUNCEMENTS
 
@@ -28,6 +28,6 @@
 
 ---
 
-* [TOKENOMICS](tokenomics.md)
+* [Tokenomics](tokenomics.md)
 * [Contact us](contact-us.md)
 

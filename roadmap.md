@@ -21,6 +21,10 @@ _Let's build the greatest swap!_
 * **Coming v4:** lend / borrow.
 * **Coming in the distant future:** internal balances privacy: hide the balance of each user, removing ability to link two trades to the same user.
 
+![](https://lh5.googleusercontent.com/JHbqXHWilks4T69s-OHSiBctzLPgZly3UpKf3yDg_08TxsbL6RUL3vPXpX1bHHBQGacVQggEOiPolvckuTeLPjBm4744WolG9XVYDEO3C1oXWsmdGXQPmpEpnMuCxjru22UTMKqS=s0)
+
+
+
 ## 2021 Roadmap
 
 ### **2021Q3**
