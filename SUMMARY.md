@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [Roadmap](roadmap.md)
+* [Tokenomics](tokenomics.md)
 * [Governance](governance.md)
 
 ## ANNOUNCEMENTS
@@ -24,10 +25,10 @@
 
 ## DEVELOPERS
 
+* [Contracts](developers/contracts.md)
 * [Bug Bounty](developers/bug-bounty.md)
 
 ---
 
-* [Tokenomics](tokenomics.md)
 * [Contact us](contact-us.md)
 
