@@ -12,5 +12,5 @@ When you make a token swap \(trade\) on the exchange you will pay a customizable
 
 ![](https://lh3.googleusercontent.com/kjSVOZvrVtL-Oa85d55mm49PEkBu76RQB12F6gizvieWW3XEs22vdBNGuKBWIrzbPmUC8p36vFAGuXcBlgnS_4P_Ajhp-Mx6xdpMLMQkxx_rb3lovoFKMZCz5KWhB_HqtvBOqkzX=s0)
 
-![](https://lh3.googleusercontent.com/kjSVOZvrVtL-Oa85d55mm49PEkBu76RQB12F6gizvieWW3XEs22vdBNGuKBWIrzbPmUC8p36vFAGuXcBlgnS_4P_Ajhp-Mx6xdpMLMQkxx_rb3lovoFKMZCz5KWhB_HqtvBOqkzX=s0)
+
 
