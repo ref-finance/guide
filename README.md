@@ -33,7 +33,7 @@ Ref Finance helps users to earn $REF tokens \(or maybe others NEP-141 Token\) by
 
 You can stake your $REF Tokens to earn more and more $REF over times, distributed via protocol fees.
 
-\*\*\*\*
+## Community & Official Channels
 
 **Official website**: [https://ref.finance/](https://ref.finance/)
 
