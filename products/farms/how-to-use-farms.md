@@ -1,4 +1,4 @@
-# Farming
+# How to use Farms
 
 ## Farming
 

@@ -20,7 +20,8 @@
   * [Deposit](products/exchange/deposit.md)
   * [Swap](products/exchange/swap.md)
   * [Pools](products/exchange/pools.md)
-* [Farming](products/farms.md)
+* [Farming](products/farms/README.md)
+  * [How to use Farms](products/farms/how-to-use-farms.md)
 * [Staking](products/staking.md)
 
 ## DEVELOPERS
