@@ -4,19 +4,19 @@
 
 There are some occasions that you don’t see the token you own appear in your dashboard. In this case you can follow this instruction to add a new token to deposit or swapping:
 
-### Step 1：Select “wNEAR” like this image.
+Step 1：Select “wNEAR” like this image.
 
 ![](https://miro.medium.com/max/1400/0*bPRykjY42Tp-Ls-_.jpg)
 
-### Step 2：Choose “Add Token”.
+Step 2：Choose “Add Token”.
 
 ![](https://miro.medium.com/max/1400/0*65jf3V5TDK0dSRYA.jpg)
 
-### Step 3：Enter your ERC-20 Token Address. If you don’t know how to find it, you can check [coingecko.com](https://www.coingecko.com/).
+Step 3：Enter your ERC-20 Token Address. If you don’t know how to find it, you can check [coingecko.com](https://www.coingecko.com/).
 
 ![](https://miro.medium.com/max/1400/0*mbeISuKPij6VHsUp.jpg)
 
-### Step 4：Now, this token should be appear on Ref Finance’s List.
+Step 4：Now, this token should be appear on Ref Finance’s List.
 
 ![](https://miro.medium.com/max/1400/0*sjs9ZTQsFTuvS4Xv.jpg)
 
@@ -28,18 +28,18 @@ In order to swap or add liquidity on Ref Finance, you will have to deposit NEAR 
 
 **nToken**: Other token stored in ref account.
 
-### Step 1：In the Menu, choose Deposit.
+Step 1：In the Menu, choose Deposit.
 
 ![](https://miro.medium.com/max/1400/0*UCfrJWFxjCEkIKDN.jpg)
 
-### Step 2： Enter the amount you want to deposit, the fee apply for the transaction is list on the screen, around 0.00084N.
+Step 2： Enter the amount you want to deposit, the fee apply for the transaction is list on the screen, around 0.00084N.
 
 * Here you can check the details code for the transactions if you want, it makes sure that that transaction is made correctly.
 * Click Allow to continue.
 
 ![](https://miro.medium.com/max/1400/0*oR8SqtAEDzqaYktQ.jpg)
 
-### Step 3：And wallah, you are all set, 20 NEAR has successfully been transferred to Ref Finance balance.
+Step 3：And wallah, you are all set, 20 NEAR has successfully been transferred to Ref Finance balance.
 
 ![](https://miro.medium.com/max/1400/0*zGVqhcA2-qVXjKlS.jpg)
 
@@ -51,11 +51,11 @@ Wallet interface:wNEAR not in the balance.
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
-### Step 1：Enter the amount you owned .
+Step 1：Enter the amount you owned .
 
-### Step 2：Click 'Deposit'
+Step 2：Click 'Deposit'
 
-### Step 3：wNEAR will be displayed .
+Step 3：wNEAR will be displayed .
 
 ![](../../.gitbook/assets/image%20%284%29.png)
 
@@ -63,21 +63,21 @@ Wallet interface:wNEAR not in the balance.
 
 ## Withdraw to get NEAR <a id="89aa"></a>
 
-### Step 1：At Deposit window, choose “Withdraw”.
+Step 1：At Deposit window, choose “Withdraw”.
 
 ![](https://miro.medium.com/max/1400/0*QdPk6HINcY6rqjMW.jpg)
 
-### Step 2：Select a token you want to withdraw.
+Step 2：Select a token you want to withdraw.
 
 ![other tokens](https://miro.medium.com/max/1400/0*TIvoXdTfoGE5dR0H.jpg)
 
 ![wNEAR](../../.gitbook/assets/image%20%285%29.png)
 
-### Step 3：Choose “Withdraw” and Allow the transaction.
+Step 3：Choose “Withdraw” and Allow the transaction.
 
 ![](https://miro.medium.com/max/1400/0*kdI_oFYHBJGOuRBU.jpg)
 
-### Step 4：You have successfully withdrawn the token from Ref Finance. The token will take place at your NEAR Wallet, you can check it [here](https://wallet.near.org/).
+Step 4：You have successfully withdrawn the token from Ref Finance. The token will take place at your NEAR Wallet, you can check it [here](https://wallet.near.org/).
 
 ![](https://miro.medium.com/max/1400/0*Uy26fF5d2HVlFq83.jpg)
 

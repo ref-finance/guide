@@ -2,7 +2,7 @@
 
 ## Account Generation using NEAR Wallet
 
-### Step 1: Access wallet.near.org to create NEAR Account
+### **Step 1: Access wallet.near.org to create NEAR Account**
 
 This is your home page. **If you already have a NEAR Account then you can switch to the User Guide part**. But if not then below is the process of how to create a NEAR Wallet Account. Let’s click “Create account”.
 
