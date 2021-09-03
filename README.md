@@ -45,7 +45,7 @@ Do you have ideas for Ref or the $REF token? Let us know!
 | Discord | [https://discord.gg/SJBGcfMxJz](https://discord.gg/SJBGcfMxJz) |
 | Twitter | [https://twitter.com/finance\_ref](https://twitter.com/finance_ref) |
 | Medium | [https://ref-finance.medium.com/](https://ref-finance.medium.com/) |
-| Telegram channel | [https://ref.finance/](https://ref.finance/) |
+| Telegram channel | [https://t.me/ref\_finance](https://t.me/ref_finance) |
 
 _\[1\] The codebase can be viewed at_  [_https://github.com/ref-finance/_](https://github.com/ref-finance/)\_\_
 
