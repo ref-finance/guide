@@ -18,6 +18,24 @@ Step 4：Enter the number you want.
 
 Step 5：Select “Add Liquidity”, and you are finished!
 
+#### Note：
+
+If the balance of one of the token pairs is insufficient, an error reporting interface will appear.
+
+![](../../.gitbook/assets/jie-ping-20210904-shang-wu-11.55.19.png)
+
+The text prompt 'failed to redirect to sign transaction' pops up.
+
+![](../../.gitbook/assets/la-la-la-.png)
+
+Then the interface directly skips to the near account transfer.
+
+![](../../.gitbook/assets/jie-ping-20210904-xia-wu-12.07.50.png)
+
+‘Transaction cancelled' displayed.
+
+![](../../.gitbook/assets/jie-ping-20210904-xia-wu-12.32.40.png)
+
 ## Find your Liquidity Token <a id="f614"></a>
 
 Step 1：Select pools.
