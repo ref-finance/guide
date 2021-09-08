@@ -8,7 +8,7 @@ description: Welcome to Ref Finance guide documentation site.
 
 ### Community project
 
-Ref Finance is built as one of the core projects in the Defi Ecosystem on NEAR Protocol.Its  main objective is to bring together many core components of Defi, namely: Decentralized Exchange \(DEX\), Lending Protocol, a synthetic asset issuer etc,... into a single, synchronous Defi Platform.
+Ref Finance is built as one of the core projects in the Defi Ecosystem on NEAR Protocol. Its main objective is to bring together many core components of Defi, namely: Decentralized Exchange \(DEX\), Lending Protocol, a synthetic asset issuer etc,... into a single, synchronous Defi Platform.
 
 Ref is first and foremost a community project. A [DAO](https://v2.sputnik.fund/#/ref-finance.sputnik-dao.near) has been created to allow the community to direct the project. The DAO will be responsible for managing the treasury initially, and shortly thereafter, managing upgrades of the protocol.
 
