@@ -26,7 +26,7 @@ In order to swap or add liquidity on Ref Finance, you will have to deposit NEAR 
 
 **wNEAR**: NEAR token stored in ref account.
 
-**nToken**: Other token stored in ref account.
+**nToken**: Other tokens transferred from Ethereum and stored in ref account.
 
 Step 1：In the Menu, choose Deposit.
 
