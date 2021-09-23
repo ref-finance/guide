@@ -1,26 +1,54 @@
-# Ref.Finance
+---
+description: Welcome to Ref Finance guide documentation site.
+---
 
-The project is currently in the testing phases.
-
-Welcome to Ref Finance guide documentation site.
+# Home
 
 ## What is Ref Finance?
 
-**Ref Finance** is a collection of DeFi protocols powered by smart contracts on [NEAR Protocol](https://near.org) that enable trading, earning by providing liquidity and other financial use cases in the future.
+Ref Finance is one of the core projects in the DeFi ecosystem on [NEAR Protocol](https://near.org). Its main objective is to bring together the core components of DeFi, namely, decentralized exchange \(DEX\), lending protocol, synthetic asset issuer, and so on, into a single, synchronous DeFi platform. Leveraging NEAR’s 1-2 second finality, low costs, as well as its user-friendly and interoperable infrastructure, Ref aims to bring DeFi one step closer to the people.
 
-Highlights:
+### Community Project
 
-* Permission-less AMM pools for any NEAR's Fungible Tokens.
-* Trading across multiple pools in one transaction.
-* _1bps_ referral fee on trading to pay the UI.
-* **Coming:** _4bps_ exchange fee to split between $REF token holders.
-* **Coming v2:** constant weighted product AMM pool type.
-* **Coming v3:** combining AMM with an order book via limit orders.
-* **Coming v4:** lend / borrow.
-* **Coming in the distant future:** internal balances privacy: hide the balance of each user, removing ability to link two trades to the same user.
+Ref is first and foremost a community project. A [DAO](https://v2.sputnik.fund/#/ref-finance.sputnik-dao.near) has been created to allow the community to direct its course. The DAO will be responsible for managing the treasury initially, and shortly thereafter, managing upgrades of the protocol.
 
-## Community
+### **AMM DEX** 
 
-* [Telegram](https://t.me/ref_finance)
-* [Twitter](https://twitter.com/finance_ref)
+Ref Finance is a collection of DeFi protocols, powered by smart contracts on NEAR, that enable trading and earning by providing liquidity and other financial use cases in the future. Currently, its main product is the automated market maker decentralized exchange \(AMM DEX\).
+
+
+
+## **Features**
+
+### Swapping
+
+Ref Finance's AMM DEX enables permissionsless and automated trading between any native NEAR or bridged token through liquidity pools managed by smart contracts. 
+
+### **Farming**
+
+On Ref Finance, liquidity providers can earn $REF tokens \(or other NEP-141 tokens\) by staking their liquidity provider \(LP\) tokens.   
+
+### **Staking**
+
+Users can stake their $REF tokens to earn more and more $REF over time, distributed via protocol fees.
+
+## Community & Official Channels
+
+**Official website**: [https://ref.finance/](https://ref.finance/)
+
+Do you have ideas for Ref or the $REF token? Let us know!
+
+| Social Media | Address |
+| :--- | :--- |
+| Governance Forum | [gov.ref.finance](https://gov.ref.finance/) |
+| Discord | [https://discord.gg/SJBGcfMxJz](https://discord.gg/SJBGcfMxJz) |
+| Twitter | [https://twitter.com/finance\_ref](https://twitter.com/finance_ref) |
+| Medium | [https://ref-finance.medium.com/](https://ref-finance.medium.com/) |
+| Telegram | [https://t.me/ref\_finance](https://t.me/ref_finance) |
+
+_\[1\] The codebase can be viewed at_  [_https://github.com/ref-finance/_](https://github.com/ref-finance/)\_\_
+
+_\[2\] To try Ref Finance on testnet, please contact us._
+
+
 
