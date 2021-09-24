@@ -7,7 +7,6 @@
 
 ## ANNOUNCEMENTS
 
-* [Airdrop Round 1](announcements/airdrop-round-1.md)
 * [Product Feedback](announcements/product-feedback.md)
 
 ## PRODUCTS
