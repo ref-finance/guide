@@ -18,7 +18,7 @@ c. After success, the amount of wNAER is displayed in Near wallet
 
 #### **Step 2 : Select Balance-Near wallet**
 
-****![](<../../.gitbook/assets/image (11).png>)****
+****![](<../../.gitbook/assets/image (11) (1).png>)****
 
 #### _Step 3 : Select token in Near wallet and click ‘Swap’_
 
@@ -26,5 +26,16 @@ c. After success, the amount of wNAER is displayed in Near wallet
 
 #### Step 4 : Return Swap-out token directly to the NEAR wallet
 
+### Swap-out tokens with problematic transactions are returned to the REF account or to the lost and found account
 
+Swap-out tokens with problematic transactions are returned to the REF account or to the lost and found account.
 
+![](<../../.gitbook/assets/image (10).png>)
+
+In the case of a lost and found account, the user can initiate a claim to the REF and retrieve it through the DAO process.
+
+### Specify ‘Referral ’for swap
+
+Referral: The account id that helps the user with swap, as specified by the user, is eligible for an intermediary fee. The fee is paid in the corresponding lp-token.
+
+Note: The Referral needs to be registered as a liquidity provider on the corresponding pool, otherwise the intermediary will not receive the intermediary fee even if the instant swap transaction is successful.
