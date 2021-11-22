@@ -6,7 +6,7 @@ description: Let's build the greatest swap!
 
 We hope that Ref.finance will be a fully autonomous community project, so it's not a timeline, it's a to-do list, and we'll divide the to-do list by stages. Once the community and voting system improved, the work sequence and subsequent development within the stage will be decided by the community autonomy.
 
-Ref will grow from a single product \(an automated market maker\) into a first-of-its-kind suite of products running on a synchronous shard.
+Ref will grow from a single product (an automated market maker) into a first-of-its-kind suite of products running on a synchronous shard.
 
 _Let's build the greatest swap!_
 
@@ -21,7 +21,7 @@ _Let's build the greatest swap!_
 * **Coming v4:** lend / borrow.
 * **Coming in the distant future:** internal balances privacy: hide the balance of each user, removing ability to link two trades to the same user.
 
-![](https://lh5.googleusercontent.com/JHbqXHWilks4T69s-OHSiBctzLPgZly3UpKf3yDg_08TxsbL6RUL3vPXpX1bHHBQGacVQggEOiPolvckuTeLPjBm4744WolG9XVYDEO3C1oXWsmdGXQPmpEpnMuCxjru22UTMKqS=s0)
+![](https://lh5.googleusercontent.com/JHbqXHWilks4T69s-OHSiBctzLPgZly3UpKf3yDg\_08TxsbL6RUL3vPXpX1bHHBQGacVQggEOiPolvckuTeLPjBm4744WolG9XVYDEO3C1oXWsmdGXQPmpEpnMuCxjru22UTMKqS=s0)
 
 
 
@@ -29,7 +29,7 @@ _Let's build the greatest swap!_
 
 ### **2021Q3**
 
-![](https://miro.medium.com/max/1400/1*BWjRiAekAVUeicvbgWKquQ.png)
+![](https://miro.medium.com/max/1400/1\*BWjRiAekAVUeicvbgWKquQ.png)
 
 * [ ] Website and dApp will receive a new facelift .
 * [ ] AMM will also see drastic updates with the new design & UI/UX update.
@@ -39,25 +39,25 @@ _Let's build the greatest swap!_
 
 ### **2021Q4**
 
-![](https://miro.medium.com/max/1400/0*t5xO7BRvdDCiQFgR)
+![](https://miro.medium.com/max/1400/0\*t5xO7BRvdDCiQFgR)
 
-* [ ] To be better integrated with other ecosystems and welcome more users. 
-* [ ] We will be adding support for current Metamask users to do direct depositing into Ref.Finance to even further entrench our deep relationship with Ethereum. 
+* [ ] To be better integrated with other ecosystems and welcome more users.&#x20;
+* [ ] We will be adding support for current Metamask users to do direct depositing into Ref.Finance to even further entrench our deep relationship with Ethereum.&#x20;
 * [ ] We aim to build an indexing service for Ref.Finance
 * [ ] To integrate with one of the current fiat-on-ramp services that supports $NEAR to allow direct deposit from users who are using their credit cards.
 
 ## 2022 Roadmap
 
-![](https://miro.medium.com/max/1400/0*WMMYPXadADo9zaS-)
+![](https://miro.medium.com/max/1400/0\*WMMYPXadADo9zaS-)
 
-* [ ] Build a pool-based stablecoin or stableswap pool depending on the community 
-* [ ] Better and more active LP management toolsdemand. 
-* [ ] An orderbook style DEX. 
+* [ ] Build a pool-based stablecoin or stableswap pool depending on the community&#x20;
+* [ ] Better and more active LP management toolsdemand.&#x20;
+* [ ] An orderbook style DEX.&#x20;
 * [ ] A lending service we will add.
 
 ## Teaser
 
-![](https://miro.medium.com/max/1400/0*xTWvl9t7iwfpvYLY)
+![](https://miro.medium.com/max/1400/0\*xTWvl9t7iwfpvYLY)
 
 Ref.Finance is also positioned to innovate and redefine current DeFi experiences. We believe the relationship between projects and users should be more interactive on the DeFi platform beside simple farming and trading. For example, an ad-board is a feature designed and implemented by existing community members from NEAR that fit into the current creator based culture to re-define how the DeFi experience on NEAR should be.
 
@@ -65,6 +65,4 @@ In conclusion, we hope you can see the vast amount of plans we have in store for
 
 
 
-  
-
-
+\

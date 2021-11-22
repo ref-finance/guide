@@ -18,6 +18,7 @@
   * [Connect your NEAR Wallet](products/exchange/wallet.md)
   * [Deposit](products/exchange/deposit.md)
   * [Swap](products/exchange/swap.md)
+  * [Instant Swap](products/exchange/instant-swap.md)
   * [Pools](products/exchange/pools.md)
 * [Farming](products/farms/README.md)
   * [How to use Farms](products/farms/how-to-use-farms.md)
@@ -28,7 +29,6 @@
 * [Contracts](developers/contracts.md)
 * [Bug Bounty](developers/bug-bounty.md)
 
----
+***
 
 * [Contact us](contact-us.md)
-
