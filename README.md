@@ -46,7 +46,7 @@ Do you have ideas for Ref or the $REF token? Let us know!
 | Medium           | [https://ref-finance.medium.com/](https://ref-finance.medium.com)    |
 | Telegram         | [https://t.me/ref\_finance](https://t.me/ref\_finance)               |
 
-_\[1] The codebase can be viewed at  _[_https://github.com/ref-finance/_](https://github.com/ref-finance/)__
+_\[1] The codebase can be viewed at_  [_https://github.com/ref-finance/_](https://github.com/ref-finance/)__
 
 _\[2] To try Ref Finance on testnet, please contact us._
 

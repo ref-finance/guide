@@ -23,6 +23,11 @@
 * [Farming](products/farms/README.md)
   * [How to use Farms](products/farms/how-to-use-farms.md)
 * [Staking](products/staking.md)
+* [🥳 StableSwap](products/stableswap/README.md)
+  * [How to perform StableSwap?](products/stableswap/how-to-perform-stableswap.md)
+  * [How to swap from one stable to another?](products/stableswap/how-to-swap-from-one-stable-to-another.md)
+  * [How to add liquidity to the Sauce Pool](products/stableswap/how-to-add-liquidity-to-the-sauce-pool.md)
+  * [How to remove liquidity from the SAUCE Pool?](products/stableswap/how-to-remove-liquidity-from-the-sauce-pool.md)
 
 ## DEVELOPERS
 
