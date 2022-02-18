@@ -29,35 +29,49 @@ _Let's build the greatest swap!_
 
 ### **2021Q3**
 
-![](https://miro.medium.com/max/1400/1\*BWjRiAekAVUeicvbgWKquQ.png)
+![](.gitbook/assets/1\_BWjRiAekAVUeicvbgWKquQ.png)
 
-* [ ] Website and dApp will receive a new facelift .
-* [ ] AMM will also see drastic updates with the new design & UI/UX update.
-* [ ] An airdrop section will be added that will allow all qualified $REF airdrop recipients to check and claim their airdrop vesting schedule and balances.
-* [ ] An instant swap function that allows you to swap assets without depositing and a smart route cross pool swap feature.
-* [ ] Farming  the most anticipated feature on Ref.Finance,  we started by allocating 20,000 NEAR to reward early farmers to participate in our beta $REF / $NEAR farm.
+* [x] Website and dApp will receive a new facelift .
+* [x] AMM will also see drastic updates with the new design & UI/UX update.
+* [x] An airdrop section will be added that will allow all qualified $REF airdrop recipients to check and claim their airdrop vesting schedule and balances.
+* [x] An instant swap function that allows you to swap assets without depositing and a smart route cross pool swap feature.
+* [x] Farming  the most anticipated feature on Ref.Finance,  we started by allocating 20,000 NEAR to reward early farmers to participate in our beta $REF / $NEAR farm.
 
 ### **2021Q4**
 
-![](https://miro.medium.com/max/1400/0\*t5xO7BRvdDCiQFgR)
+![](.gitbook/assets/0\_t5xO7BRvdDCiQFgR.png)
 
-* [ ] To be better integrated with other ecosystems and welcome more users.&#x20;
+* [x] To be better integrated with other ecosystems and welcome more users.&#x20;
 * [ ] We will be adding support for current Metamask users to do direct depositing into Ref.Finance to even further entrench our deep relationship with Ethereum.&#x20;
-* [ ] We aim to build an indexing service for Ref.Finance
+* [x] We aim to build an indexing service for Ref.Finance
 * [ ] To integrate with one of the current fiat-on-ramp services that supports $NEAR to allow direct deposit from users who are using their credit cards.
 
 ## 2022 Roadmap
 
-![](https://miro.medium.com/max/1400/0\*WMMYPXadADo9zaS-)
+![](.gitbook/assets/1\_hpd\_BI40\_yNgEZoxdnZ5Zw.jpeg)
 
-* [ ] Build a pool-based stablecoin or stableswap pool depending on the community&#x20;
-* [ ] Better and more active LP management toolsdemand.&#x20;
-* [ ] An orderbook style DEX.&#x20;
-* [ ] A lending service we will add.
+### Q1 2022
 
-## Teaser
+* [x] Parallel Swap
+* [x] Single-side Staking for xREF
+* [ ] Smart Routing
+* [ ] Multi-wallet Integration
+* [ ] Liquidity Aggregation (NEAR x Aurora)
 
-![](https://miro.medium.com/max/1400/0\*xTWvl9t7iwfpvYLY)
+### Q2 2022
+
+* [ ] Auto Compounding
+* [ ] Zap Function
+* [ ] Liquidity Management Dashboard
+* [ ] Referendum
+* [ ] Enhanced Ref Analytics
+
+### H2 2022
+
+* [ ] Central Limit Orderbook Integration
+* [ ] Concentrated Liquidity&#x20;
+* [ ] Cross-chain smart contract calls
+* [ ] All-in-one DAO
 
 Ref.Finance is also positioned to innovate and redefine current DeFi experiences. We believe the relationship between projects and users should be more interactive on the DeFi platform beside simple farming and trading. For example, an ad-board is a feature designed and implemented by existing community members from NEAR that fit into the current creator based culture to re-define how the DeFi experience on NEAR should be.
 

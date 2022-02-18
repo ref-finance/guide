@@ -23,19 +23,31 @@ _Ref Finance is a community-led project, and we want the distribution to reflect
 
 ![](<.gitbook/assets/image (1).png>)
 
-| Categories                           | Allocation | Vesting                                                                                    |
-| ------------------------------------ | ---------- | ------------------------------------------------------------------------------------------ |
-| Liquidity Incentives                 | 60%        | <p>25% first year</p><p>18.3% second year</p><p>11.67% third year</p><p>5% fourth year</p> |
-| Future community-building activities | 20%        | TBD                                                                                        |
-| Developer Fund:                      | 10%        | 4 years linear vesting                                                                     |
-| Skyward sale & community give back   | 2,5%       | 1 week due to Skyward Sales mechanism                                                      |
-| Liquidity for $REF pairs             | 2,5%       | 100% TGE                                                                                   |
-| Early users airdrop                  | 3%         | 3 months vesting with 3 months cliff                                                       |
-| Strategic airdrop                    | 2%         | TBD                                                                                        |
+| **Categories**                       | **Allocation** | **Vesting**                                                                                |
+| ------------------------------------ | -------------- | ------------------------------------------------------------------------------------------ |
+| Liquidity Incentives                 | 60%            | <p>25% first year</p><p>18.3% second year</p><p>11.67% third year</p><p>5% fourth year</p> |
+| Future community-building activities | 20%            | TBD                                                                                        |
+| Developer Fund:                      | 10%            | 4 years linear vesting                                                                     |
+| Skyward sale & community give back   | 2,5%           | 1 week due to Skyward Sales mechanism                                                      |
+| Liquidity for $REF pairs             | 2,5%           | 100% TGE                                                                                   |
+| Early users airdrop                  | 3%             | 3 months vesting with 3 months cliff                                                       |
+| Strategic airdrop                    | 2%             | TBD                                                                                        |
 
 ## **Token Release Schedule**
 
-![](https://lh3.googleusercontent.com/8fHygQmnIh6cwJbConT9yqgEQivirq74tID6dDKjdmPTqifMJF1EiHfms2V1FhYmqG4J05WV\_GXrpDqm8FiY2D5WLF4eTzVBLMhFxJtLuYG5YJUG2BuC2AVZKLzadw7wn3OX6-kZ=s0)
+**60% Liquidity Incentives**
+
+* 25% first year
+* 18.3% second year
+* 11.67% third year
+* 5% fourth year
+
+**10% Developer Fund:** 4 years linear vesting
+
+**3% - early users:** 3 months vesting with 3 months cliff
+
+**2,5% Skyward Sale** - vesting 1 week due to Skyward Sales mechanism\
+
 
 Important notes: Major changes of $REF tokenomics can be proposed/voted through via DAO members in the working progress
 
