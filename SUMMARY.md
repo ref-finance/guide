@@ -1,9 +1,10 @@
 # Table of contents
 
-* [Home](README.md)
-* [Roadmap](roadmap.md)
+* [Introduction](README.md)
+* [Genesis](roadmap.md)
 * [Tokenomics](tokenomics.md)
 * [Governance](governance.md)
+* [Community](community.md)
 
 ## ANNOUNCEMENTS
 
