@@ -5,16 +5,15 @@
 * [Tokenomics](tokenomics.md)
 * [Governance](governance.md)
 * [Community](community.md)
+* [Getting Started](getting-started/README.md)
+  * [Setup Wallet](getting-started/near-account.md)
+  * [Using the Rainbow Bridge](getting-started/transfer-erc-20-assets-using-rainbow-bridge.md)
+  * [Using the Platform](getting-started/using-the-platform.md)
+  * [Buy REF Token](getting-started/buy-ref-token.md)
+  * [Staying Safe](getting-started/staying-safe.md)
 
-## ANNOUNCEMENTS
+## Ref Finance <a href="#products" id="products"></a>
 
-* [Product Feedback](announcements/product-feedback.md)
-
-## PRODUCTS
-
-* [Getting Started](products/getting-started/README.md)
-  * [NEAR Account](products/getting-started/near-account.md)
-  * [Transfer ERC-20 Assets using Rainbow Bridge](products/getting-started/transfer-erc-20-assets-using-rainbow-bridge.md)
 * [Exchange](products/exchange/README.md)
   * [Connect your NEAR Wallet](products/exchange/wallet.md)
   * [Deposit](products/exchange/deposit.md)

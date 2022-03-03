@@ -22,6 +22,10 @@ In addition to the advantages of being built on top of NEAR, Ref Finance provide
 
 Trade tokens with our automated market maker (AMM) exchange
 
+**💰 Pool**
+
+Provide liquidity and earn revenue from swap fee
+
 **🌾 Farm**
 
 Stake LP tokens into farms and earn rewards **** in return
