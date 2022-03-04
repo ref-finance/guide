@@ -20,5 +20,5 @@ Early well-known contributors are:
   * Referencedev: https://github.com/referencedev
   * Mikedotexe: https://github.com/mikedotexe
 * Business, Strategy and Product
-  * ve$RUST at Proximity Labs
-  * Kendall at Proximity Labs
+  * ve$RUST at Proximity Labs (ex NEAR core team)
+  * Kendall at Proximity Labs (ex NEAR core team

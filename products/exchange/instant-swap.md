@@ -22,7 +22,7 @@ c. After success, the amount of wNAER is displayed in Near wallet
 
 #### _Step 3 : Select token in Near wallet and click ‘Swap’_
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 #### Step 4 : Return Swap-out token directly to the NEAR wallet
 

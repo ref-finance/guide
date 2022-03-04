@@ -14,10 +14,11 @@
 
 ## Ref Finance <a href="#products" id="products"></a>
 
+* [Overview](products/overview.md)
+* [Trading](products/swap.md)
 * [Exchange](products/exchange/README.md)
   * [Connect your NEAR Wallet](products/exchange/wallet.md)
   * [Deposit](products/exchange/deposit.md)
-  * [Swap](products/exchange/swap.md)
   * [Instant Swap](products/exchange/instant-swap.md)
   * [Pools](products/exchange/pools.md)
 * [Farming](products/farms/README.md)

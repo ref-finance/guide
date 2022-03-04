@@ -14,7 +14,7 @@ In addition to the advantages of being built on top of NEAR, Ref Finance provide
 
 * Multiple pools in one contract
 * Atomic transactions
-* Customizable pool fee
+* Customisable pool fee
 
 ## Features
 
