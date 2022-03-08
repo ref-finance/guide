@@ -1,4 +1,5 @@
 # Bug Bounty
 
-The Ref.finance bug bounty program is focused around our smart contracts, websites, and apps with a primary interest in the prevention of loss of user funds, either by direct draining of locked funds or social engineering attacks by redirecting users or forcing them to sign a transaction.
+The bug bounty program is a discretionary rewards program for the Ref Finance community to encourage and reward those who are helping to improve the platform. It is not a competition.&#x20;
 
+The rewards are at the sole discretion of the Ref Finance DAO (v2.ref-finance.near).

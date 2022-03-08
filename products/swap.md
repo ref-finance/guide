@@ -1,31 +1,45 @@
 # Trading
 
-The Ref Finance AMM DEX is inspired by Uniswap, the best AMM Product on Ethereum, but built on NEAR Protocol to serve both NEAR and non-NEAR Ecosystem users. Each liquidity pool contains a balance of two tokens, following the basic algorithm x \* y = k on every AMM Protocol. Users enjoy instant token swaps without the need for an order book, whereas liquidity providers could supply the liquidity of the two tokens in a pool to earn a fee.\
+The Swap and StableSwap tabs, are where you can trade one token for another. It is a user-friendly swap interface, just select the two tokens you wish to exchange.&#x20;
 
+![All prices are fictional](<../.gitbook/assets/Screenshot 2022-03-04 at 14.14.37.png>)
 
-When you make a token swap (trade) on the exchange you will pay a customizable trading fee (from 0.2% - 0.6%), which is broken down as follows:\
+The liquidity provided comes from Liquidity Providers (LPs) who stake their tokens in the associated 'Pools'. In exchange, they get LP (Liquidity Provider) tokens, which can also be staked to earn REF and other tokens in the 'Farms'.
 
+When you trade (swap) on Ref Finance you will pay the pool fee (trading fee), which is broken down as follows:
 
-* Basis fee: Chosen by Liquidity Pool Creators, with 3 options is 0.15%, 0.25% and 0.55%
-* 0.04% is transferred to Treasury DAO to facilitate future development of the project
-* 0.01% counts as a referral fee for swaps, currently earned by every projects building application or building UI on top of Ref Finance.
+![](<../.gitbook/assets/Mind Map(3).jpg>)
 
+For traders, the fee is always taken on the amount paid in. The Protocol and Referral fees translate into LP shares.
 
+## Start Trading
 
+First, make sure that you are connected to Ref Finance with your wallet.
 
+### Step 1: Choose the pair you want to swap first, for example, wNEAR to nDAI
 
+![](<../.gitbook/assets/Screen Shot 2022-03-04 at 22.27.24.png>)
 
+### Step 2: Check and adjust (if needed) your Transaction Settings
 
-Step 1：Choose the pair you want to swap first, for example wNEAR to nDAI.
+![](<../.gitbook/assets/Screen Shot 2022-03-07 at 17.49.49.png>)
 
-![](https://miro.medium.com/max/1400/0\*ZsIUvfF7oRp7Cn\_Q.jpg)
+![](<../.gitbook/assets/Screen Shot 2022-03-04 at 22.34.11.png>)
 
-Step 2：Enter the amount you want to swap, the slippage is automatically set at 0.5%, you can increase the slippage in some urgent situation. Click Swap.
+### Step 3: Enter the amount you want to swap
 
-![](https://miro.medium.com/max/1400/0\*PYpiywEzQUBpGN6P.jpg)
+![](<../.gitbook/assets/Screen Shot 2022-03-04 at 22.24.22.png>)
 
-Step 3： Choose “Allow”. You can see more details about the transaction in “More Information” Part.
+### Step 4: Click on Details, and verify the elements of the transaction
 
-![](https://miro.medium.com/max/1400/0\*-wqSJGvkR5jzyqjV.jpg)
+![](<../.gitbook/assets/Screen Shot 2022-03-04 at 22.26.04.png>)
 
-Step 4：And that is done. You have successfully swapping on Ref Finance.
+### Step 5: Swap
+
+![](<../.gitbook/assets/Screen Shot 2022-03-04 at 22.29.31.png>)
+
+### Step 6: Approve the transaction (i.e. using NEAR wallet)
+
+![](<../.gitbook/assets/Screen Shot 2022-03-04 at 22.30.50.png>)
+
+Happy trading!

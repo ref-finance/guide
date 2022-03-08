@@ -16,25 +16,17 @@
 
 * [Overview](products/overview.md)
 * [Trading](products/swap.md)
-* [Exchange](products/exchange/README.md)
-  * [Connect your NEAR Wallet](products/exchange/wallet.md)
-  * [Deposit](products/exchange/deposit.md)
-  * [Instant Swap](products/exchange/instant-swap.md)
-  * [Pools](products/exchange/pools.md)
-* [Farming](products/farms/README.md)
-  * [How to use Farms](products/farms/how-to-use-farms.md)
+* [Pooling](products/pooling.md)
+* [Farming](products/farming.md)
 * [Staking](products/staking.md)
-* [🥳 StableSwap](products/stableswap/README.md)
-  * [How to perform StableSwap?](products/stableswap/how-to-perform-stableswap.md)
-  * [How to swap from one stable to another?](products/stableswap/how-to-swap-from-one-stable-to-another.md)
-  * [How to add liquidity to the Sauce Pool](products/stableswap/how-to-add-liquidity-to-the-sauce-pool.md)
-  * [How to remove liquidity from the SAUCE Pool?](products/stableswap/how-to-remove-liquidity-from-the-sauce-pool.md)
+
+## SECURITY <a href="#developers" id="developers"></a>
+
+* [Contracts](developers/contracts.md)
+* [Audits](developers/audits.md)
+* [Bug Bounty](developers/bug-bounty.md)
 
 ## DEVELOPERS
 
-* [Contracts](developers/contracts.md)
-* [Bug Bounty](developers/bug-bounty.md)
-
-***
-
-* [Contact us](contact-us.md)
+* [CLI Trading](developers-1/cli-trading.md)
+* [CLI Farming](developers-1/cli-farming.md)
