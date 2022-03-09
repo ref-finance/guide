@@ -1,8 +1,8 @@
 # Contracts
 
-All contracts are on Near Protocol. The source code of Ref Finance can be found on [Github](https://github.com/ref-finance).
+All contracts are on NEAR Protocol. The source code of Ref Finance can be found on [Github](https://github.com/ref-finance).
 
-Find below the list of contracts and addresses that have directly managed or currently manage the affairs of Ref Finance.
+Find below the list of all accounts that have directly managed or currently manage the affairs of Ref Finance.
 
 | Address                              | Type                    | Mission                                                                                   | Locked?          |
 | ------------------------------------ | ----------------------- | ----------------------------------------------------------------------------------------- | ---------------- |

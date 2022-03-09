@@ -6,7 +6,7 @@ description: Farming printer goes BRRR
 
 Farming or Yield Farming is defined as the process of staking your LP tokens into a farm, to earn additional rewards, on top of your existing liquidity position(s) swap fee revenue.
 
-Like pools, all farms are contained in one single contract (v2.ref-farming.near). Plus, a farm can support up to 16 different reward tokens on Ref Finance.
+Like pools, all farms are contained in one single contract (v2.ref-farming.near). Plus, a farm can support up to 16 different reward tokens.
 
 Liquidity incentives are usually used by projects' owners to attract liquidity and to facilitate trading.
 

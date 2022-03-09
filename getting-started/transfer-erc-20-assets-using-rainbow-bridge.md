@@ -11,7 +11,7 @@ The Rainbow Bridge allows you to transfer tokens between **Ethereum**, **NEAR** 
 The following guide will show you how to use it:
 
 1. Prepare ERC-20 assets in your non-custodial Wallet (Metamask, Coin98, etc.)
-2. Use the Rainbow Bridge to transfer tokens to NEAR Protocol Blockchain
+2. Use the Rainbow Bridge to transfer tokens to NEAR Protocol
 3. Access [https://rainbowbridge.app/transfer](https://rainbowbridge.app/transfer), connect your NEAR Wallet and MetaMask Wallet
 
 ### Step 1: Choose Ethereum <> NEAR route and connect both wallets

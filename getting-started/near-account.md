@@ -12,6 +12,6 @@ Please follow the official guide: [https://near.org/blog/getting-started-with-th
 
 ## **Using Sender Wallet**
 
-Sender is a browser extension wallet built for NEAR protocol, aiming at providing a secure and easy-to-use wallet for DeFi and NFT users.&#x20;
+Sender is a browser extension wallet built for NEAR Protocol, aiming at providing a secure and easy-to-use wallet for DeFi and NFT users.&#x20;
 
 Download the browser extension: [https://senderwallet.io/](https://senderwallet.io)

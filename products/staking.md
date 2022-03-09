@@ -27,7 +27,7 @@ Lik any liquidity provider, Ref Finance collects its shares (16% of the total po
 Converting protocol LP tokens, resulting from the trading fees, involves the following actions:
 
 1. Remove liquidity from pools
-2. Withdraw tokens from Ref Finance (v2.ref-finance.near) to the DAO (ref-finance.sputnik-dao.near)
+2. Withdraw corresponding tokens from Ref Finance (v2.ref-finance.near) to the DAO (ref-finance.sputnik-dao.near)
 3. Send tokens from the DAO to a specific execution account&#x20;
 4. Buy (back) REF tokens (with the execution account)
 5. Send REF tokens to the staking contract (xtoken.ref-finance.near)
@@ -38,7 +38,7 @@ The process happens on a quarterly basis.
 The first buy back involved as many as 35 DAO proposals&#x20;
 {% endhint %}
 
-Because the conversion from LP to  REF tokens happens on a quarterly basis, and because the tokens collected might be very volatile on the same period, there might be a significant difference between the daily 'observable' revenue and the 'realised' revenue, after conversion.
+Because the conversion from LP to REF tokens happens on a quarterly basis, and because the tokens collected might be very volatile on the same period, there might be a significant difference between the daily 'observable' revenue and the 'realised' revenue, after conversion.
 
 Finally, rewards are being released linearly on a quarterly basis, and will have boosted markups for the first three years (subject to change):
 

@@ -17,7 +17,7 @@ Link: [https://app.ref.finance/](https://app.ref.finance)
 * REF <> SKYWARD
 * CELO <> REF
 
-In addition to the above direct routes/pools, please note that our Smart Router delivers further possibilites, including, but not limited to:
+In addition to the above direct routes/pools, please note that our Auto-Router delivers further possibilites, including, but not limited to:
 
 * REF <> DAI
 * REF <> USDC

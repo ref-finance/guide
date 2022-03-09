@@ -10,7 +10,13 @@ When you trade (swap) on Ref Finance you will pay the pool fee (trading fee), wh
 
 ![](<../.gitbook/assets/Mind Map(3).jpg>)
 
-For traders, the fee is always taken on the amount paid in. The Protocol and Referral fees translate into LP shares.
+For traders, the fee is always taken on the amount paid in. The Protocol and Referral fees translate into LP tokens.
+
+{% hint style="info" %}
+For regular pools (Swap function), if there is no account to receive the Referral Fee, it goes to all LPs of that pool as a form of increased LP tokens
+
+For stablecoin pools (StableSwap function), if there is no account to receive the Referral Fee, it goes to the Protocol Fee as a form of increased LP tokens
+{% endhint %}
 
 ## Start Trading
 

@@ -10,13 +10,19 @@ A liquidity pool is a pool of two or three tokens, e.g. NEAR and REF tokens. Thi
 
 Contrary to the Stableswap pool or Tri-Pool (three tokens, cf. [Stableswap function](overview.md)), only liquidity pools with two tokens are fully permissionless. Anyone can create a two-token liquidity pool on Ref Finance.
 
-Users can earn a share of the trading fees by depositing tokens into the pool (also known as "adding liquidity"). Users will receive a LP token, representing their share of the pool.&#x20;
+Users can earn a share of the trading fees by depositing tokens into the pool (also known as "adding liquidity"). Users will receive LP tokens, representing their share of the pool.&#x20;
 
 ## Pool APR
 
-Pool APR is the yield you accrue by adding liquidity to a pool. You earn 80% of the pool fee for all trades on the associated pair (or triple) proportional to your share of the pool.&#x20;
+Pool APR is the yield you accrue by adding liquidity to a pool. You earn 80% of the pool fee for all trades on the associated pair (or triple for stablecoin pool) proportional to your share of the pool.&#x20;
 
 ![](<../.gitbook/assets/Mind Map(3) (2).jpg>)
+
+{% hint style="info" %}
+For regular pools (Swap function), if there is no account to receive the Referral Fee, it goes to all LPs of that pool as a form of increased LP tokens
+
+For stablecoin pools (StableSwap function), if there is no account to receive the Referral Fee, it goes to the Protocol Fee as a form of increased LP tokens
+{% endhint %}
 
 Fees are added to the pool, accrue in real-time, and can be claimed when you withdraw your Liquidity.
 
@@ -72,7 +78,7 @@ First, make sure that you are connected to Ref Finance with your wallet.
 
 When do you need to create a new pool on Ref Finance? Usually when:
 
-1. The pool exists but you are not satisfied with the pool fee: either you think the pool fee is too high or too low
+1. The pool exists but you are not satisfied with the existing pool fee: either you think the pool fee is too high or too low
 2. The pool exists but you think the ratio (reserves token A to reserves token B) is not accurate&#x20;
 3. The pool simply does not exist yet
 
