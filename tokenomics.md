@@ -17,6 +17,8 @@ REF **** is a Governance token that also rewards its holders with a protocol rev
 
 ## **Token Allocation**
 
+****
+
 | Categories                     | Allocation | Release Schedule                                                            |
 | ------------------------------ | ---------- | --------------------------------------------------------------------------- |
 | Liquidity Incentives           | 60%        | <p>Year 1: 25%</p><p>Year 2: 18.3%</p><p>Year 3: 11.7%</p><p>Year 4: 5%</p> |
@@ -28,6 +30,41 @@ REF **** is a Governance token that also rewards its holders with a protocol rev
 | REF Token Liquidity Provisions | 2.5%       | N/A                                                                         |
 | Strategic Airdrop              | 2%         | N/A                                                                         |
 
+![](.gitbook/assets/imageLikeEmbed.png)
+
+## **Private Fundraising**
+
+In March 2022, Ref Finance has closed a strategic Over-the-Counter (OTC) deal with professional investors as well as business angels.
+
+Professional investors are:
+
+* [Jump Crypto](https://jumpcrypto.com) (Lead)
+* [Alameda Research](https://www.alameda-research.com)
+* [Dragonfly Capital](https://www.dcp.capital)
+* [D1 Ventures](https://www.d1.ventures)
+* [OKX BlockDream Ventures](https://www.okx.com/blockdream-ventures)
+* [Kucoin Ventures](https://www.kucoin.com/land/kucoinlabs)
+* [SevenX Ventures](http://www.7xvc.com)
+* [Woo Network](https://woo.org)
+* [Move Capital](https://move-capital.com/en/)
+* [Puzzle Ventures](https://puzzle.ventures)
+
+The objective of the fundraising is to support **** and cover the development cost of the solution for at least 24 months, starting from March 2022.
+
+The total amount raised was $4.5m in stablecoins in exchange for 3,664,943 REF tokens, leading to an average price of 1.227 REF per stable.
+
+The stablecoins breakdown is as follows:
+
+* $3.6m USDC
+* $0.9m USDT
+
+### Terms
+
+* Price: 7-day market Time-weighted Average Price (TWAP) at a 20% discount
+* Lockup: 1-year linear release every quarter
+
+More details can be found in the [Ref governance forum](https://gov.ref.finance/t/a-strategic-ref-otc-wip/448).
+
 ## **Token Utility**
 
 1. **Speculation**: Users who buy REF tokens with the objective to sell at a higher price in the future
@@ -35,3 +72,4 @@ REF **** is a Governance token that also rewards its holders with a protocol rev
 3. **Pooling**: Users who provide liquidity with any REF token pairs earn swap fee from the associated pool(s)
 4. **Farming**: Users who stake their LP tokens into different farms, thus earning additional revenue
 5. **Governance** (Under Development): Users who stake xREF to participate in the governance and vote on key proposals
+
