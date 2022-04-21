@@ -22,7 +22,7 @@ Every swap executed on Ref Finance generates revenue for the protocol.&#x20;
 
 ## Execution <a href="#6306" id="6306"></a>
 
-Lik any liquidity provider, Ref Finance collects its shares (16% of the total pool fee) in real-time and will be paid when it removes liquidity from the pool.&#x20;
+Like any liquidity provider, Ref Finance collects its shares (16% of the total pool fee) in real-time and will be paid when it removes liquidity from the pool.&#x20;
 
 Converting protocol LP tokens, resulting from the trading fees, involves the following actions:
 
