@@ -5,6 +5,7 @@
 * [Tokenomics](tokenomics.md)
 * [Governance](governance.md)
 * [Community](community.md)
+* [Team](team.md)
 * [Getting Started](getting-started/README.md)
   * [Setup Wallet](getting-started/near-account.md)
   * [Using the Rainbow Bridge](getting-started/transfer-erc-20-assets-using-rainbow-bridge.md)
