@@ -16,6 +16,8 @@ The team is composed of eleven fulltime members, covered/paid by the Dev DAO (da
 | Harry  | Assistant Product Manager |                                                             |
 | Fauve  | Lead Marketing            | [Link](https://www.linkedin.com/in/fauve-altman/)           |
 
+Although not considered as a fulltime member of the team, ve$RUST (from Proximity Labs) is one of the leaders of the project and is very involved in Product Design, Business, Marketing, Strategy and Growth.
+
 The team is a mix of both pseudonymous and non-pseudonymous people. Within the crypto space, being pseudonymous can mitigate the risks of conducting an activity that is not considered as regulated in a specific country, for example. For more details on the topic, the team recommends the following read: [Sputnik DAO: Empowering Communities](https://medium.com/sputnikdao/sputnik-dao-empowering-communities-e55ac65f4433).
 
 The team does not stop to the above list. As a community-driven project, many community members are contributing, on a regular basis, to different aspects of the project, such as Marketing, end-to-end community testing, etc.&#x20;
