@@ -25,6 +25,7 @@
 ## SECURITY <a href="#developers" id="developers"></a>
 
 * [Contracts](developers/contracts.md)
+* [Guardians](developers/guardians.md)
 * [Audits](developers/audits.md)
 * [Bug Bounty](developers/bug-bounty.md)
 
