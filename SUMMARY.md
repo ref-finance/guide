@@ -26,6 +26,7 @@
 
 * [Contracts](developers/contracts.md)
 * [Guardians](developers/guardians.md)
+* [Oracles](developers/oracles.md)
 * [Audits](developers/audits.md)
 * [Bug Bounty](developers/bug-bounty.md)
 

@@ -20,3 +20,11 @@ Find below the list of all accounts that have directly managed or currently mana
 | token.ref-finance.near               | Fungible Token Contract | v1 (obsolete) - Mint REF token                                                            | Yes              | N/A                                                                                             | N/A                                                                                    |
 | refchef.near                         | Simple Address          | Manage inter-account transactions                                                         | N/A              | N/A                                                                                             | N/A                                                                                    |
 | ref-dev-teller.near                  | Simple Address          | Manage inter-account transactions                                                         | N/A              | N/A                                                                                             | N/A                                                                                    |
+
+## Timelock
+
+Timelocks are a smart contract feature that states that some actions will only be performed after a certain period of time rather than immediately.&#x20;
+
+Ref Finance does not use/have a timelock feature. Ref contracts are directly upgraded from the DAO (ref-finance.sputnik-dao.near), thus providing time to users, via the voting period of the associated proposal, to protect their funds in case they identify suspicious activities.
+
+DAO proposals usually take from 48 to 72 hours either to get approved or rejected.
