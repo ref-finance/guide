@@ -1,5 +1,7 @@
 # Bug Bounty
 
-The bug bounty program is a discretionary rewards program for the Ref Finance community to encourage and reward those who are helping to improve the platform. It is not a competition.&#x20;
+Ref Finance bug bounty program is on [Immunefi](https://immunefi.com).
 
-The rewards are at the sole discretion of the Ref Finance DAO (v2.ref-finance.near).
+Details about the program, payouts, and assets in scope can be found on the following [link](https://immunefi.com/bounty/reffinance/).
+
+If you have found a vulnerability, please make sure to submit it through Immunefi platform.
