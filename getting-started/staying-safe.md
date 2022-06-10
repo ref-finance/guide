@@ -18,7 +18,7 @@ We will **NEVER**:
 
 ## ALWAYS use Ref Finance verified domains <a href="#always-use-trader-joe-verified-domains" id="always-use-trader-joe-verified-domains"></a>
 
-Bookmark: [https://app.ref.finance/](https://app.ref.finance)
+Bookmark: [https://app.ref.finance/](https://app.ref.finance/)
 
 If you ever have any doubt of the URL, please use our linked URL on the official Ref Finance Twitter profile or alternatively, reach out to a Moderator in our [official social channels](../community.md).
 

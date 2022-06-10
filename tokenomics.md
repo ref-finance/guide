@@ -22,7 +22,7 @@ REF **** is a Governance token that also rewards its holders with a protocol rev
 | Categories                     | Allocation | Release Schedule                                                            |
 | ------------------------------ | ---------- | --------------------------------------------------------------------------- |
 | Liquidity Incentives           | 60%        | <p>Year 1: 25%</p><p>Year 2: 18.3%</p><p>Year 3: 11.7%</p><p>Year 4: 5%</p> |
-| Community Contributions        | 20%        | N/A                                                                         |
+| Treasury                       | 20%        | N/A                                                                         |
 | Development Fund               | 10%        | 4-year linear release                                                       |
 | Early Users Airdrop            | 1%         | 3-month vesting with 3-month cliff                                          |
 | Future Airdrop(s)              | 2%         | TBD                                                                         |
@@ -38,16 +38,16 @@ In March 2022, Ref Finance has closed a strategic Over-the-Counter (OTC) deal wi
 
 Professional investors are:
 
-* [Jump Crypto](https://jumpcrypto.com) (Lead)
-* [Alameda Research](https://www.alameda-research.com)
-* [Dragonfly Capital](https://www.dcp.capital)
-* [D1 Ventures](https://www.d1.ventures)
+* [Jump Crypto](https://jumpcrypto.com/) (Lead)
+* [Alameda Research](https://www.alameda-research.com/)
+* [Dragonfly Capital](https://www.dcp.capital/)
+* [D1 Ventures](https://www.d1.ventures/)
 * [OKX BlockDream Ventures](https://www.okx.com/blockdream-ventures)
 * [Kucoin Ventures](https://www.kucoin.com/land/kucoinlabs)
-* [SevenX Ventures](http://www.7xvc.com)
-* [Woo Network](https://woo.org)
+* [SevenX Ventures](http://www.7xvc.com/)
+* [Woo Network](https://woo.org/)
 * [Move Capital](https://move-capital.com/en/)
-* [Puzzle Ventures](https://puzzle.ventures)
+* [Puzzle Ventures](https://puzzle.ventures/)
 
 The objective of the fundraising is to support **** and cover the development cost of the solution for at least 24 months, starting from March 2022.
 

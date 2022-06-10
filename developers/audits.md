@@ -6,21 +6,35 @@ description: Audit reports for the Ref Finance platform
 
 Ref Finance is currenlty being audited.
 
-The team is actively looking for a second audit review.
-
 ## Jita
 
-Auditor: Jita&#x20;
+Auditor: Jita
 
-Website: [https://jitadigital.com/](https://jitadigital.com)
+Website: [https://jitadigital.com/](https://jitadigital.com/)
 
-Date: February - March 2022
+Date: February - June 2022
+
+Status: Completed
 
 Scope:
 
-* Ref Exchange contract: v2.ref-finance.near
+* Ref Exchange: v2.ref-finance.near
 * Ref Farming: v2.ref-farming.near
 
-Report
+First Report:
 
 {% file src="../.gitbook/assets/Ref Finance Security Audit-1.pdf" %}
+
+Second Report:
+
+{% file src="../.gitbook/assets/Ref Finance Security Audit-2.pdf" %}
+
+## Kudelski
+
+Auditor: Kudelski
+
+Website: [https://kudelskisecurity.com/](https://kudelskisecurity.com/)
+
+Date: June - September 2022
+
+Status: Ongoing

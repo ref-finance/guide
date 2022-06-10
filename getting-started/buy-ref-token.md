@@ -8,7 +8,7 @@ description: REF is Ref Finance's native token, which comes with inbuilt utility
 
 ### Ref Finance
 
-Link: [https://app.ref.finance/](https://app.ref.finance)
+Link: [https://app.ref.finance/](https://app.ref.finance/)
 
 #### Trading pairs
 

@@ -70,7 +70,7 @@ Stakers can have different objectives and belong to specific subgroups:
 There are many ways Ref Finance can be used by developers, some examples include:
 
 * UX/UI experiments and front-ends built to give users access to the backend functionalities
-* Data and analytics (e.g. [https://stats.ref.finance/](https://stats.ref.finance))
+* Data and analytics (e.g. [https://stats.ref.finance/](https://stats.ref.finance/))
 * Liquidity aggregation
 * Yield aggregation
 * DeFi dashboard projects (e.g. [https://app.depocket.com/dashboard](https://app.depocket.com/dashboard))
