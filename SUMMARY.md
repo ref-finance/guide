@@ -18,6 +18,7 @@
 * [Overview](products/overview.md)
 * [Trading](products/swap.md)
 * [Auto Router](products/auto-router.md)
+* [Multi-chain Router](products/multi-chain-router.md)
 * [Pooling](products/pooling.md)
 * [Farming](products/farming.md)
 * [Staking](products/staking.md)
