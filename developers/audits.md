@@ -29,11 +29,11 @@ Second Report:
 
 {% file src="../.gitbook/assets/Ref Finance Security Audit-2.pdf" %}
 
-## Kudelski
+## BlockSec
 
-Auditor: Kudelski
+Auditor: BlockSec
 
-Website: [https://kudelskisecurity.com/](https://kudelskisecurity.com/)
+Website: [https://blocksec.com/](https://blocksec.com/)
 
 Date: June - September 2022
 
