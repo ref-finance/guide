@@ -8,6 +8,7 @@ Inspired by Uniswap v2 and Curve Finance, Ref Finance is an automated liquidity 
 
 * Swap function: x \* y = k
 * StableSwap function: χDn−1 \* ∑ xi + ∏ xi = χDn + ( D / n )n&#x20;
+* StableSwap function for yield-bearing tokens (Rated pools)
 
 For more information, please refer to:
 
@@ -15,6 +16,11 @@ For more information, please refer to:
   * Uniswap v2 Whitepaper: [https://uniswap.org/whitepaper.pdf](https://uniswap.org/whitepaper.pdf)
 * StableSwap function
   * Curve StableSwap Whitepaper: [https://curve.fi/files/stableswap-paper.pdf](https://curve.fi/files/stableswap-paper.pdf)
+* StableSwap function for yield-bearing tokens (Rated pools)
+
+{% file src="../.gitbook/assets/Rated_pools_pools_designed_for_yield-bearing_tokens.pdf" %}
+Rated pools document
+{% endfile %}
 
 Ref Finance is implemented on the NEAR blockchain. The platform is fully permissionless and removes the need for trusted intermediaries, prioritising decentralisation and censorship resistance. Anyone can trade and/or become a liquidity provider (LP) for a pool by depositing an equivalent value of each underlying token in return for pool tokens (LP tokens). These tokens track pro-rata LP shares of the total reserves, and can be redeemed for the underlying assets at any time.
 
