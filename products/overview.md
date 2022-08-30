@@ -32,13 +32,14 @@ When a LP creates a new pool, the pool fee is customisable. Every pool has the s
 
 ## Ecosystem Participants
 
-![](<../.gitbook/assets/Mind Map(6).jpg>)
+![](<../.gitbook/assets/Ref Ecosystem Participants(2).jpg>)
 
-The Ref Finance ecosystem is primarily comprised of four types of users: traders, liquidity providers, stakers and developers.&#x20;
+The Ref Finance ecosystem is primarily comprised of five types of users: traders, liquidity providers, stakers, voters and developers.&#x20;
 
 * Traders can swap [NEP-141](https://nomicon.io/Standards/FungibleToken/Core) tokens
 * Liquidity providers are incentivised to provide these tokens to liquidity pools
 * Stakers are receiving pro-rata shares of the shared protocol revenue
+* Voters can participate in the governance of the project and the allocation of liquidity incentives
 * Developers can integrate directly with Ref Finance smart contracts to empower users in their interactions with tokens, trading interfaces, trading strategies, and more
 
 ### Traders
@@ -62,6 +63,7 @@ Liquidity providers, or LPs, are a fragmented group, mainly made of:
 * Passive LPs are token holders who passively invest to accumulate trading fees, they generally do not actively monitore their positions and divergence loss
 * Sophisticated LPs are focused on market making as their primary strategy, they usually develop custom tools and monitore actively their positions and divergence loss
 * Token projects sometimes choose to become LPs to 'initiate' liquidity, by creating a liquid pool for their token
+* Protocol-oriented or 'politicised' LPs are focused primarily on the REF<>NEAR pool and the vetoken [model](voting.md),  allowing them to participate in the governance of the protocol (also see Voters)
 
 ### Stakers
 
@@ -69,7 +71,17 @@ Stakers can have different objectives and belong to specific subgroups:
 
 * Long-term stakers are usually interested in a more predictable source of revenue, deriving from the protocol revenue, while holding the protocol token and participating in the governance (Under Development)
 * Short-term or intra-strategy stakers are staking for a limited period of time, with the objective to optimise their returns, generally until the underlying token (REF) needs to be sold or used for a different purpose (i.e., liquidity provision)
-* Voting-only stakers can be identified as users that stake only to vote the associated proposal(s), they are generally interested in participating/influencing the future of the protocol by voting on specific proposals &#x20;
+* Voting-only stakers can be identified as users that stake only to vote the associated proposal(s), they are generally interested in participating/influencing the future of the protocol by voting on specific proposals
+
+### Voters
+
+VeToken holders can participate in the governance of the projects by voting on key governance proposals and by voting on the allocation of REF tokens to specific farms for additional farming rewards.
+
+Voters can be:
+
+* Community members, organisations, or investors that are interested in participating in the development and strategic orientation of the project
+* Project owners who want to support/grow their community by voting on the allocation of additional rewards for their corresponding farm
+* Short-term farmers who want to maximise their farming APR by voting on the allocation of additional rewards for their corresponding farm
 
 ### Developers
 
@@ -79,7 +91,8 @@ There are many ways Ref Finance can be used by developers, some examples include
 * Data and analytics (e.g. [https://stats.ref.finance/](https://stats.ref.finance/))
 * Liquidity aggregation
 * Yield aggregation
-* DeFi dashboard projects (e.g. [https://app.depocket.com/dashboard](https://app.depocket.com/dashboard))
+* DeFi dashboard projects (e.g. [https://app.odyssey.fi/](https://app.odyssey.fi/), [https://app.depocket.com/dashboard](https://app.depocket.com/dashboard))
+* Trading bots
 
 ### Ref Finance Team and Community
 

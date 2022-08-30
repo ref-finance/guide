@@ -18,9 +18,9 @@ When you stake LP tokens into a farm, you also continue to earn trading fees fro
 
 First, make sure that you are connected to Ref Finance with your wallet.
 
-### Step 1: Click on Farms
+### Step 1: Click on Farms and choose a relevent pool
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.37.39.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 13.10.22.png>)
 
 In the Farms section, you can view all old, live, and future farms and filter them by different criteria.
 
@@ -30,23 +30,25 @@ To farm, you need LP tokens, which means you need to provide liquidity initially
 Farms are limited to a certain number of pools, not all pools have a yield farming option &#x20;
 {% endhint %}
 
-You can check the associated pool of a farm by either clicking on Detail or Stake > Get LP shares.
+You can check the associated pool of a farm by either clicking on the pool, choosing Add liquidity or Get LP Tokens
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.39.14.png>) ![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.39.46.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 13.14.28.png>)
 
-### Step 2: Click on Stake for the relevant farm
+### Step 2: Click on Stake after adding liquidity
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.42.15.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 13.22.35.png>)
+
+
 
 ### Step 3: Enter the amount of LP tokens you want to stake
 
 Note that you can do some yield simulations by clicking on ROI calculator. Please be careful as the simulations are 'other things being equal' (i.e. not taking into account potential Divergence Loss).
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.44.24.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 13.27.57.png>)
 
 ### Step 4: Stake
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.44.24 (1).png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 13.29.01.png>)
 
 ### Step 5: Approve the transaction (i.e. using NEAR wallet)
 
@@ -56,20 +58,20 @@ Note that you can do some yield simulations by clicking on ROI calculator. Pleas
 
 First, make sure that you are connected to Ref Finance with your wallet.
 
-### Step 1: Click on Farms and select Your Farms
+### Step 1: Click on Farms and select Yours
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.46.21.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 13.32.08.png>)
 
 ### Step 2: Claim your rewards
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.47.34.png>)
+<figure><img src="../.gitbook/assets/Screen Shot 2022-08-22 at 23.11.51.png" alt=""><figcaption></figcaption></figure>
 
-Once claimed, your rewards are still in the contract (v2.ref-farming.near) and can be seen in the left dashboard.&#x20;
+Once claimed, your rewards are still in the contract (boostfarm.ref-labs.near) and can be seen in the left dashboard.&#x20;
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.48.22.png>)
+<figure><img src="../.gitbook/assets/Screen Shot 2022-08-22 at 23.16.28.png" alt=""><figcaption></figcaption></figure>
 
-### Step 3: Withdraw your rewards
+### Step 3: Withdraw your reward
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.49.17.png>)
+<figure><img src="../.gitbook/assets/Screen Shot 2022-08-22 at 23.17.20.png" alt=""><figcaption></figcaption></figure>
 
-Once withdrawn, rewards are transfered to your wallet.
+Once withdrawn, rewards are transferred to your wallet.

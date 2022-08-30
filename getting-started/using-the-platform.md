@@ -6,7 +6,7 @@ description: One platform, many things you can do
 
 Ref Finance is a fully permissionless exchange, meaning that any token on NEAR can be swapped or pooled on the platform.
 
-When visiting the platform, you will be required to confirm the connection between Ref Finance and your wallet. <mark style="color:green;">This is completely normal and safe</mark>. Once confirmed, you can start using Ref Finance to **Trade**, **Pool**, **Farm** and **Stake**.
+When visiting the platform, you will be required to confirm the connection between Ref Finance and your wallet. <mark style="color:green;">This is completely normal and safe</mark>. Once confirmed, you can start using Ref Finance to **Trade**, **Pool**, **Farm,** **Stake** and **Vote**.
 
 Ref Finance has designed a simple tool to swap any token on NEAR, often being the first and unique place to get an exposure to new NEAR-native projects. Simply ensure Ref Finance has permission to 'spend' your tokens and enjoy instantaneous, low-cost transactions.
 

@@ -40,20 +40,20 @@ First, make sure that you are connected to Ref Finance with your wallet.
 
 ### Step 1: Turning on Swap Pro
 
-![](../.gitbook/assets/0\_YgixU6kJ4Y\_7pEeO.png)
+![](<../.gitbook/assets/Screen Shot 2022-08-21 at 14.12.29.png>)
 
-### Step 2: Choose the pair you want to swap first, for example, wNEAR to stNEAR
+### Step 2: Choose the pair you want to swap first, for example, NEAR to stNEAR
 
-![](<../.gitbook/assets/Screen Shot 2022-06-20 at 16.05.07.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-21 at 14.14.21.png>)
 
 ### Step 3: Check and adjust (if needed) your Transaction Settings
 
-![](../.gitbook/assets/ref-finance-transaction-setting.png)
+![](<../.gitbook/assets/Screen Shot 2022-08-21 at 14.15.05.png>)
 
 ### Step 4: Enter the amount you want to swap and Click on Request For Quote
 
-![](<../.gitbook/assets/Screen Shot 2022-06-20 at 16.08.53.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 12.20.56.png>)
 
 ### Step 5: Verify the elements of the transaction and Confirm the swap
 
-![](<../.gitbook/assets/Screen Shot 2022-06-20 at 16.08.25.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 12.23.32.png>)

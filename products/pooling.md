@@ -42,35 +42,37 @@ First, make sure that you are connected to Ref Finance with your wallet.
 
 ### Step 1: Open the list of pools by Clicking on Pools > View Pools
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 20.52.27.png>) ![](<../.gitbook/assets/Screen Shot 2022-03-07 at 20.52.55.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 23.01.01 (1).png>)
+
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 12.37.03.png>)
 
 ### Step 2: Find the pool you want to add tokens into, you can use the search bar function
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.01.17.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 12.42.55.png>)
 
 ### Step 3: After finding the corresponding pool, verify the details of the pool (i.e. Pool Fee)&#x20;
 
 If you cannot find the pool you want to provide liquidity into OR if you are not satisfied with the pool fee and/or pool ratio, please go to [How to create a pool](pooling.md#how-to-create-a-pool)? &#x20;
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.03.23 (1).png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 12.44.28.png>)
 
 ### Step 4: Click on Add Liquidity
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.11.33.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 12.46.09.png>)
 
 ### Step 5: Enter the amount you want
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.16.16 (1).png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 12.49.09 (1).png>)
 
 ### Step 6: Select Add Liquidity
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.16.16.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 12.49.37.png>)
 
 ### Step 7: Approve the transaction (i.e. using NEAR wallet)
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.17.53.png>)
 
-Congrats, you are now a liquidity provider on Ref Finance!
+Congrats, you are now a liquidity provider (LP) on Ref Finance!
 
 ## How to create a pool?
 
@@ -82,27 +84,27 @@ When do you need to create a new pool on Ref Finance? Usually when:
 2. The pool exists but you think the ratio (reserves token A to reserves token B) is not accurate&#x20;
 3. The pool simply does not exist yet
 
-### Step 1: Click on Pools > Create New Pool
+### Step 1: Click on Pools > View Pools > Create Pool
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.20.04.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 12.54.42.png>)
 
 ### Step 2: Select both tokens
 
 Order does not matter. For example, if you want to provide REF and DAI tokens. You can select REF in the left field and DAI in the right field.&#x20;
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.21.36.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 12.56.43.png>)
 
 ### Step 3: Select the pool fee
 
 As a LP, you need to find the right balance between having an attractive/competitive swap fee for traders and mitigating the risk of your Divergence Loss, by increasing the pool APR with higher fee, for example.
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.25.39.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 12.57.52.png>)
 
 ### Step 4: Verify information
 
 ### Step 5: Click on Create
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.26.41.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 12.58.40.png>)
 
 ### Step 6: Approve the transaction (i.e. using NEAR wallet)
 
@@ -116,7 +118,7 @@ First, make sure that you are connected to Ref Finance with your wallet.
 
 ### Step 1: Click on Pools > Your Liquidity
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.29.45.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 13.00.32.png>)
 
 ## How to remove liquidity from a pool?
 
@@ -124,19 +126,19 @@ First, make sure that you are connected to Ref Finance with your wallet.
 
 ### Step 1: Click on Pools > Your Liquidity
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.29.45.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 13.00.32.png>)
 
 ### Step 2: Select the pool you want to remove liquidity from&#x20;
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.29.45 (1).png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 13.04.38 (1).png>)
 
 ### Step 3: Enter the amount of LP tokens (shares) you want to remove
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.34.21.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 13.06.50.png>)
 
 ### Step 4: Click on Remove Liquidity
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 23.34.37.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-22 at 13.07.42.png>)
 
 ### Step 5: Approve the transaction (i.e. using NEAR wallet)
 

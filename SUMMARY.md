@@ -21,7 +21,9 @@
 * [Multi-chain Router](products/multi-chain-router.md)
 * [Pooling](products/pooling.md)
 * [Farming](products/farming.md)
+* [Boosted Farming](products/boosted-farming.md)
 * [Staking](products/staking.md)
+* [Voting](products/voting.md)
 
 ## SECURITY <a href="#developers" id="developers"></a>
 

@@ -53,15 +53,15 @@ First, make sure that you are connected to Ref Finance with your wallet.
 
 ### Step 1: Click on xREF and select Stake
 
-![](<../.gitbook/assets/Screen Shot 2022-03-08 at 00.01.52.png>)
+<figure><img src="../.gitbook/assets/Screen Shot 2022-08-23 at 00.04.12.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2: Enter the amount of REF tokens you want to stake
 
-![](<../.gitbook/assets/Screen Shot 2022-03-08 at 00.03.01 (1).png>)
+<figure><img src="../.gitbook/assets/Screen Shot 2022-08-23 at 00.15.56.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 3: Stake
 
-![](<../.gitbook/assets/Screen Shot 2022-03-08 at 00.03.01.png>)
+<figure><img src="../.gitbook/assets/Screen Shot 2022-08-23 at 00.20.31.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 4: Approve the transaction (i.e. using NEAR wallet)
 
@@ -71,21 +71,21 @@ First, make sure that you are connected to Ref Finance with your wallet.
 
 And how much REF you will get by unstaking
 
-![](<../.gitbook/assets/Screen Shot 2022-03-08 at 00.22.45.png>)
+<figure><img src="../.gitbook/assets/Screen Shot 2022-08-23 at 00.23.12.png" alt=""><figcaption></figcaption></figure>
 
 ## Unstake
 
 ### Step 1: Click on xREF and select Unstake
 
-![](<../.gitbook/assets/Screen Shot 2022-03-08 at 00.04.52.png>)
+<figure><img src="../.gitbook/assets/Screen Shot 2022-08-23 at 00.25.23.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2: Enter the amount of xREF tokens you want to unstake
 
-![](<../.gitbook/assets/Screen Shot 2022-03-08 at 00.07.40.png>)
+<figure><img src="../.gitbook/assets/Screen Shot 2022-08-23 at 00.31.18.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 3: Unstake
 
-![](<../.gitbook/assets/Screen Shot 2022-03-08 at 00.07.40 (2).png>)
+<figure><img src="../.gitbook/assets/Screen Shot 2022-08-23 at 00.34.08.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 4: Approve the transaction (i.e. using NEAR wallet)
 
