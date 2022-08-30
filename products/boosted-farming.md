@@ -1,5 +1,5 @@
 ---
-description: Earn extra BRRR
+description: Earn extra Ref
 ---
 
 # Boosted Farming
