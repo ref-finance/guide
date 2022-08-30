@@ -1,5 +1,5 @@
 ---
-description: Earn extra Ref
+description: Earn extra rewards
 ---
 
 # Boosted Farming
