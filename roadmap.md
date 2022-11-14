@@ -21,4 +21,4 @@ Early well-known contributors are:
   * Mikedotexe: https://github.com/mikedotexe
 * Business, Strategy and Product
   * ve$RUST at Proximity Labs (ex NEAR core team)
-  * Kendall at Proximity Labs (ex NEAR core team
+  * Kendall at Proximity Labs (ex NEAR core team)

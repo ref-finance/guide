@@ -16,8 +16,9 @@ The team is composed of fifteen fulltime members, covered/paid by the Dev DAO (d
 | Mency  | Designer & UX             |                                                             |
 | Didier | Product Manager           | [Link](https://www.linkedin.com/in/didier-pironi-68940066/) |
 | Harry  | Assistant Product Manager |                                                             |
-| San    | Business Developer        |                                                             |
+| San    | Lead Business Development |                                                             |
 | Fay    | Researcher Analyst        |                                                             |
+| Ray    | Researcher Analyst        |                                                             |
 | Fauve  | Lead Marketing            | [Link](https://www.linkedin.com/in/fauve-altman/)           |
 
 Although not considered as a fulltime member of the team, ve$RUST (from Proximity Labs) is one of the leaders of the project and is very involved in Product Design, Business, Marketing, Strategy and Growth.

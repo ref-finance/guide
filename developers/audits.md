@@ -35,9 +35,9 @@ Auditor: BlockSec
 
 Website: [https://blocksec.com/](https://blocksec.com/)
 
-Date: June - October 2022
+Date: June - November 2022
 
-Status: Ongoing
+Status: Completed
 
 Scope:
 
@@ -53,3 +53,11 @@ Ref Farming v2 Report:
 Ref veTokenomics Report:
 
 {% file src="../.gitbook/assets/main-signed-ve.pdf" %}
+
+Ref Exchange:
+
+{% file src="../.gitbook/assets/blocksec_ref_finance_exchange_v1.0_signed.pdf" %}
+
+xRef Report:
+
+{% file src="../.gitbook/assets/blocksec_ref_finance_xref_v1.0_signed.pdf" %}
