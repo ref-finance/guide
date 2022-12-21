@@ -35,7 +35,7 @@ Auditor: BlockSec
 
 Website: [https://blocksec.com/](https://blocksec.com/)
 
-Date: June - November 2022
+Date: June - December 2022
 
 Status: Completed
 
@@ -45,6 +45,7 @@ Scope:
 * Ref veTokenomics: ref-ve.ref-labs.near
 * Ref Exchange: v2.ref-finance.near
 * xRef: xtoken.ref-finance.near
+* Ref v2 (Concentrated Liquidity): dcl.ref-labs.near
 
 Ref Farming v2 Report:
 
@@ -58,6 +59,12 @@ Ref Exchange:
 
 {% file src="../.gitbook/assets/blocksec_ref_finance_exchange_v1.0_signed.pdf" %}
 
+{% file src="../.gitbook/assets/blocksec_ref_finance_exchange_v2.0_signed.pdf" %}
+
 xRef Report:
 
 {% file src="../.gitbook/assets/blocksec_ref_finance_xref_v1.0_signed.pdf" %}
+
+Ref v2 (Concentrated Liquidity):
+
+{% file src="../.gitbook/assets/blocksec_ref_finance_dcl_v1.0_signed.pdf" %}
