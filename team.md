@@ -2,24 +2,23 @@
 
 The team is composed of fifteen fulltime members, covered/paid by the Dev DAO (dao.ref-dev-team.near).
 
-| Member | Position                  | Linkedin                                                    |
-| ------ | ------------------------- | ----------------------------------------------------------- |
-| Marco  | Lead Backend Developer    |                                                             |
-| Joe    | Lead Frontend Developer   |                                                             |
-| Gordon | Senior Backend Developer  |                                                             |
-| ZQ     | Senior Fullstack Dev      |                                                             |
-| Dom    | DevOps                    |                                                             |
-| Max    | Frontend Developer        |                                                             |
-| Nature | Frontend Developer        |                                                             |
-| Willa  | Lead QA Engineer          |                                                             |
-| Amy    | QA Engineer               |                                                             |
-| Mency  | Designer & UX             |                                                             |
-| Didier | Product Manager           | [Link](https://www.linkedin.com/in/didier-pironi-68940066/) |
-| Harry  | Assistant Product Manager |                                                             |
-| San    | Lead Business Development |                                                             |
-| Fay    | Researcher Analyst        |                                                             |
-| Ray    | Researcher Analyst        |                                                             |
-| Fauve  | Lead Marketing            | [Link](https://www.linkedin.com/in/fauve-altman/)           |
+| Member | Position                  | Linkedin                                          |
+| ------ | ------------------------- | ------------------------------------------------- |
+| Marco  | Lead Backend Developer    |                                                   |
+| Joe    | Lead Frontend Developer   |                                                   |
+| Gordon | Senior Backend Developer  |                                                   |
+| ZQ     | Senior Fullstack Dev      |                                                   |
+| Dom    | DevOps                    |                                                   |
+| Max    | Frontend Developer        |                                                   |
+| Nature | Frontend Developer        |                                                   |
+| Willa  | Lead QA Engineer          |                                                   |
+| Amy    | QA Engineer               |                                                   |
+| Mency  | Designer & UX             |                                                   |
+| Ben    | Product & Project Manager |                                                   |
+| Harry  | Assistant Product Manager |                                                   |
+| Fay    | Researcher Analyst        |                                                   |
+| Ray    | Researcher Analyst        |                                                   |
+| Fauve  | Lead Marketing            | [Link](https://www.linkedin.com/in/fauve-altman/) |
 
 Although not considered as a fulltime member of the team, ve$RUST (from Proximity Labs) is one of the leaders of the project and is very involved in Product Design, Business, Marketing, Strategy and Growth.
 
