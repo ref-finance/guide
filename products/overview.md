@@ -4,11 +4,12 @@
 
 Ref Finance is an open-source software.&#x20;
 
-Inspired by Uniswap v2 and Curve Finance, Ref Finance is an automated liquidity protocol powered by two constant product functions:
+Inspired by Uniswap v2, Curve Finance, and iZiSwap, Ref Finance is an automated liquidity protocol powered by two constant product functions, and a discretized concentrated liquidity function:
 
 * Swap function: x \* y = k
 * StableSwap function: χDn−1 \* ∑ xi + ∏ xi = χDn + ( D / n )n&#x20;
 * StableSwap function for yield-bearing tokens (Rated pools)
+* iZiSwap function for Discretized Concentrated Liquidity Pools (Ref v2)
 
 For more information, please refer to:
 
@@ -21,6 +22,9 @@ For more information, please refer to:
 {% file src="../.gitbook/assets/Rated_pools_pools_designed_for_yield-bearing_tokens.pdf" %}
 Rated pools document
 {% endfile %}
+
+* Discretized Concentrated Liquidity
+  * iZiSwap Discretized Concentrated Liquidity Whitepaper: [https://izumi.finance/paper/dswap.pdf](https://izumi.finance/paper/dswap.pdf)
 
 Ref Finance is implemented on the NEAR blockchain. The platform is fully permissionless and removes the need for trusted intermediaries, prioritising decentralisation and censorship resistance. Anyone can trade and/or become a liquidity provider (LP) for a pool by depositing an equivalent value of each underlying token in return for pool tokens (LP tokens). These tokens track pro-rata LP shares of the total reserves, and can be redeemed for the underlying assets at any time.
 

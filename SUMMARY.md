@@ -20,6 +20,8 @@
 * [Auto Router](products/auto-router.md)
 * [Multi-chain Router](products/multi-chain-router.md)
 * [Pooling](products/pooling.md)
+* [Pooling - Ref v2](products/pooling-ref-v2.md)
+* [Limit Orders](products/limit-orders.md)
 * [Farming](products/farming.md)
 * [Boosted Farming](products/boosted-farming.md)
 * [Staking](products/staking.md)
