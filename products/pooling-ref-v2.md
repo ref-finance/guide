@@ -34,7 +34,7 @@ To deposit liquidity in a DCL pool, first go to the "V2 Pools" tab on the Pools 
 
 Choose a minimum and maximum rate that your assets can be used for swaps, and the amounts to deposit. There may be pools with multiple "Fee Tiers" to choose from. The higher the fee, the more you make from swaps that utilize your pool, but your pool is less likely to be selected for swaps than pools with lower fees.&#x20;
 
-<figure><img src="../.gitbook/assets/add_liquidity.png" alt=""><figcaption><p>The Add Liquidity form for a DCL pool.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/add_liquidity (1).png" alt=""><figcaption><p>The Add Liquidity form for a DCL pool.</p></figcaption></figure>
 
 ### Claiming Swap Fees
 

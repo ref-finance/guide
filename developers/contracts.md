@@ -4,6 +4,8 @@ All contracts are on the NEAR Protocol. The source code of Ref Finance can be fo
 
 Find below the list of all accounts that have directly managed or currently manage the affairs of Ref Finance.
 
+### Mainnet Contracts
+
 | Address                                                          | Type                                     | Mission                                                                                   | Locked?          | Owner                                                                                           | Source Code                                                                            |
 | ---------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | v2.ref-finance.near                                              | Exchange Contract                        | Manage the Automated Market Maker functions; Swap and Provide Liquidity                   | Yes              | ref-finance.sputnik-dao.near                                                                    | [Link](https://github.com/ref-finance/ref-contracts/tree/main/ref-exchange)            |
@@ -17,7 +19,7 @@ Find below the list of all accounts that have directly managed or currently mana
 | ref.ref-dev-fund.near                                            | Vesting Contract                         | Manage REF vesting contracts of Dev DAO members                                           | Yes              | dao.ref-dev-team.near                                                                           | [Link](https://github.com/ref-finance/ref-dev-fund/tree/session\_vault/session\_vault) |
 | s01.ref-airdrop.near                                             | Airdrop Contract                         | Manage first REF airdrop                                                                  | Yes              | N/A                                                                                             | [Link](https://github.com/skyward-finance/contracts/tree/master/lockup)                |
 | ref-bug-bounty-1.near                                            | Simple Address                           | Manage one-time bug bounty payments                                                       | N/A              | N/A                                                                                             | N/A                                                                                    |
-| token.v2.ref-finance.near                                        | Fungible Token Contract                  | Mint REF token                                                                            | Yes              | N/A                                                                                             | [Link](https://github.com/ref-finance/ref-token/tree/deployed-ref-token/ref-token)     |
+| token.v2.ref-finance.near                                        | $REF Fungible Token Contract             | Mint REF token                                                                            | Yes              | N/A                                                                                             | [Link](https://github.com/ref-finance/ref-token/tree/deployed-ref-token/ref-token)     |
 | ref-finance.near                                                 | Exchange Contract                        | v1 (obsolete) - Manage the Automated Market Maker functions; Swap and Provide Liquidity   | No               | N/A                                                                                             | [Link](https://github.com/ref-finance/ref-contracts/tree/main/ref-exchange)            |
 | token.ref-finance.near                                           | Fungible Token Contract                  | v1 (obsolete) - Mint REF token                                                            | Yes              | N/A                                                                                             | N/A                                                                                    |
 | v2.ref-farming.near                                              | Farming Contract                         | v2 (obsolete) - Manage liquidity incentives                                               | Yes              | ref-finance.sputnik-dao.near                                                                    | [Link](https://github.com/ref-finance/ref-contracts/tree/main/ref-farming)             |
@@ -29,6 +31,17 @@ Find below the list of all accounts that have directly managed or currently mana
 | ref-dev-teller.near                                              | Simple Address                           | Manage inter-account transactions                                                         | N/A              | N/A                                                                                             | N/A                                                                                    |
 | 0x102d7FaD37A4e0266A0AFDcDc90A04408F9ac091                       | Simple Address (Ethereum)                | Manage TRI<>REF Liquidity Provision on Tri Solaris                                        | N/A              | N/A                                                                                             | N/A                                                                                    |
 | 0x45d76fa8498239ed5fc4dcd7377f92beec5c48d6                       | <p>Simple Address<br>(Ethereum)</p>      | Manage strategic OTC [deal](https://gov.ref.finance/t/a-strategic-ref-otc-wip/448) (2022) | N/A              | N/A                                                                                             | N/A                                                                                    |
+
+### Testnet Contracts
+
+| Address                       | Type                                     | Mainnet counterpart       |
+| ----------------------------- | ---------------------------------------- | ------------------------- |
+| ref-finance-101.testnet       | Exchange Contract                        | v2.ref-finance.near       |
+| boostfarm.ref-finance.testnet | Farming Contract                         | boostfarm.ref-labs.near   |
+| v010.refve.testnet            | Vetokenomics Contract                    | ref-ve.ref-labs.near      |
+| xref.ref-finance.testnet      | Staking Contract                         | xtoken.ref-finance.near   |
+| dclv2.ref-dev.testnet         | Concentrated Liquidity Contract (Ref v2) | dclv2.ref-labs.near       |
+| ref.fakes.testnet             | $REF Fungible Token Contract             | token.v2.ref-finance.near |
 
 ## Timelock
 
