@@ -17,6 +17,7 @@
 
 * [Overview](products/overview.md)
 * [Trading](products/swap.md)
+* [Orderbook](products/orderbook.md)
 * [Auto Router](products/auto-router.md)
 * [Multi-chain Router](products/multi-chain-router.md)
 * [Pooling](products/pooling.md)
