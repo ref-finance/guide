@@ -28,7 +28,7 @@ Provide liquidity and earn revenue from swap fee
 
 **🌾** **Farm**
 
-Stake LP tokens into farms and earn rewards **** in return
+Stake LP tokens into farms and earn rewards in return
 
 🚀​ **Boost Farm**
 

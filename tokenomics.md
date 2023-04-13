@@ -6,7 +6,7 @@ description: Information about our Governance token, REF
 
 ## **General Information**
 
-REF **** is a Governance token that also rewards its holders with a protocol revenue sharing model.
+REF is a Governance token that also rewards its holders with a protocol revenue sharing model.
 
 * Token name: Ref Finance
 * Ticker: REF
@@ -17,7 +17,7 @@ REF **** is a Governance token that also rewards its holders with a protocol rev
 
 ## **Token Allocation**
 
-****
+
 
 | Categories                     | Allocation | Release Schedule                                                            |
 | ------------------------------ | ---------- | --------------------------------------------------------------------------- |
@@ -49,7 +49,7 @@ Professional investors are:
 * [Move Capital](https://move-capital.com/en/)
 * [Puzzle Ventures](https://puzzle.ventures/)
 
-The objective of the fundraising is to support **** and cover the development cost of the solution for at least 24 months, starting from March 2022.
+The objective of the fundraising is to support and cover the development cost of the solution for at least 24 months, starting from March 2022.
 
 The total amount raised was $4.5m in stablecoins in exchange for 3,664,943 REF tokens, leading to an average price of 1.227 REF per stable.
 

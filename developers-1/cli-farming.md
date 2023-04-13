@@ -4,6 +4,10 @@ description: Commande-Line Interface Usage for Ref Farming
 
 # CLI Farming
 
+{% hint style="info" %}
+**Always** check that a wallet has a sufficient [storage deposit](https://nomicon.io/Standards/StorageManagement#example-1-fungible-token-contract) on a token's smart contract **before** initiating swaps, withdrawing liquidity, or withdrawing rewards. Failure to do so may result in the tokens being placed in the contract's "owner" account, requiring a vote by the Ref Community DAO to remove them.&#x20;
+{% endhint %}
+
 You can setup the following parameters:
 
 ```
@@ -42,8 +46,6 @@ near view $FARMING list_seeds_info '{"from_index": 0, "limit": 100}'
 ```
 near view $FARMING list_rewards_info '{"from_index": 0, "limit": 100}'
 ```
-
-
 
 ## View single seed information
 

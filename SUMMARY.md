@@ -40,3 +40,8 @@
 
 * [CLI Trading](developers-1/cli-trading.md)
 * [CLI Farming](developers-1/cli-farming.md)
+
+## SUPPORT
+
+* [FAQ](support/faq.md)
+* [Help](support/help.md)

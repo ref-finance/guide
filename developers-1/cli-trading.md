@@ -1,8 +1,12 @@
 ---
-description: Commande-Line Interface Usage for Ref Exchange
+description: Command-Line Interface Usage for Ref Exchange
 ---
 
 # CLI Trading
+
+{% hint style="info" %}
+**Always** check that a wallet has a sufficient [storage deposit](https://nomicon.io/Standards/StorageManagement#example-1-fungible-token-contract) on a token's smart contract **before** initiating swaps, withdrawing liquidity, or withdrawing rewards. Failure to do so may result in the tokens being placed in the contract's "owner" account, requiring a vote by the Ref Community DAO to remove them.&#x20;
+{% endhint %}
 
 The following guide will help you to make actions on the contracts of Ref Finance via CLI.
 
