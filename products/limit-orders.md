@@ -6,7 +6,7 @@ description: Limit Orders using Ref v2's DCL Pools
 
 ### Introduction
 
-In addition to the improvements that [Discretized Concentrated Liquidity](pooling-ref-v2.md) (DCL) brings, Ref v2 also includes a built-in limit order functionality, that allows for a Centralised Exchange-like trading experience. Consequently, this means that a limit order can only be placed when a DCL pool exists containing both the "buy" and "sell" tokens.  &#x20;
+In addition to the improvements that [Discretized Concentrated Liquidity](pooling/ref-v2-pools.md) (DCL) brings, Ref v2 also includes a built-in limit order functionality, that allows for a Centralised Exchange-like trading experience. Consequently, this means that a limit order can only be placed when a DCL pool exists containing both the "buy" and "sell" tokens.  &#x20;
 
 ### Creating Limit Orders
 
@@ -14,7 +14,7 @@ To create a limit order, go to the Limit Order tab on the Trade page, and select
 
 <figure><img src="../.gitbook/assets/limit_order_tab.png" alt=""><figcaption><p>Limit orders can be created on the Limit Order tab of the Trade page.</p></figcaption></figure>
 
-When creating a limit order, you must choose a swap rate that has a corresponding bin within the DCL pool (see [Pooling - DCL Pools](pooling-ref-v2.md) for more info). This is not a real issue, because the difference separating one bin from the next is very small, and if you enter a rate that does not have a corresponding bin, the site will automatically change it to the closest rate that does.
+When creating a limit order, you must choose a swap rate that has a corresponding bin within the DCL pool (see [Pooling - DCL Pools](pooling/ref-v2-pools.md) for more info). This is not a real issue, because the difference separating one bin from the next is very small, and if you enter a rate that does not have a corresponding bin, the site will automatically change it to the closest rate that does.
 
 <figure><img src="../.gitbook/assets/limit_order_bins.gif" alt=""><figcaption><p>There is no bin with a rate of 1.6, so the site selects the next closest bin</p></figcaption></figure>
 
