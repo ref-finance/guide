@@ -64,7 +64,7 @@ Click "Pool Stats" at the bottom of the Add Liquidity form to see details about 
 
 You can see all pools you have liquidity in by going to the Your Liquidity page. You can get to the Your Liquidity page by clicking Earn > Your Liquidity in the main menu of the site.&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Unstake shares from a farm, if necessary
 
@@ -72,7 +72,7 @@ If your shares are staked on a farm you must unstake them before you can remove 
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Pool shares are currently staked on a Farm and must be unstaked in order to remove tokens from the pool.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>No pool shares are staked on a Farm, allowing the liquidity for all the user's shares to be removed from the pool.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption><p>No pool shares are staked on a Farm, allowing the liquidity for all the user's shares to be removed from the pool.</p></figcaption></figure>
 
 ### 3. Use the Remove Liquidity form to withdraw tokens from the pool
 

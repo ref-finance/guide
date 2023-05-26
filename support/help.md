@@ -33,7 +33,7 @@ Although rare, there are times when it appears that tokens have been lost or are
 
 After claiming rewards, you need to go to the [main Farms page](https://app.ref.finance/v2farms) and withdraw them to your wallet.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>After claiming rewards, click Withdraw on the Farms page to transfer them to your wallet.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>After claiming rewards, click Withdraw on the Farms page to transfer them to your wallet.</p></figcaption></figure>
 
 ### _**I'm trying to swap NEAR, or deposit it into a pool, but the site says I don't have enough in my wallet even though I do**_
 

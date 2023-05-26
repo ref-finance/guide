@@ -19,16 +19,7 @@ REF is a Governance token that also rewards its holders with a protocol revenue 
 
 
 
-| Categories                     | Allocation | Release Schedule                                                            |
-| ------------------------------ | ---------- | --------------------------------------------------------------------------- |
-| Liquidity Incentives           | 60%        | <p>Year 1: 25%</p><p>Year 2: 18.3%</p><p>Year 3: 11.7%</p><p>Year 4: 5%</p> |
-| Treasury                       | 20%        | N/A                                                                         |
-| Development Fund               | 10%        | 4-year linear release                                                       |
-| Early Users Airdrop            | 1%         | 3-month vesting with 3-month cliff                                          |
-| Future Airdrop(s)              | 2%         | TBD                                                                         |
-| IDO (Skyward Auction)          | 2.5%       | 1-week auction                                                              |
-| REF Token Liquidity Provisions | 2.5%       | N/A                                                                         |
-| Strategic Airdrop              | 2%         | N/A                                                                         |
+<table><thead><tr><th width="261.2851934609063">Categories</th><th width="150">Allocation</th><th>Release Schedule</th></tr></thead><tbody><tr><td>Liquidity Incentives</td><td>60%</td><td><p>Year 1: 25%</p><p>Year 2: 18.3%</p><p>Year 3: 11.7%</p><p>Year 4: 5%</p></td></tr><tr><td>Treasury</td><td>20%</td><td>N/A</td></tr><tr><td>Development Fund</td><td>10%</td><td>4-year linear release</td></tr><tr><td>Early Users Airdrop</td><td>1%</td><td>3-month vesting with 3-month cliff</td></tr><tr><td>Future Airdrop(s)</td><td>2%</td><td>TBD</td></tr><tr><td>IDO (Skyward Auction)</td><td>2.5%</td><td>1-week auction</td></tr><tr><td>REF Token Liquidity Provisions</td><td>2.5%</td><td>N/A</td></tr><tr><td>Strategic Airdrop</td><td>2%</td><td>N/A</td></tr></tbody></table>
 
 ![](.gitbook/assets/imageLikeEmbed.png)
 

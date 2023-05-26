@@ -6,15 +6,7 @@ description: Our community is strong, and growing
 
 Where you can find and engage with us.
 
-| Platform         | Objectives                                                                               | Link                                                                                   |
-| ---------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| Forum            | Get informed about key community topics, share ideas, challenge and debate DAO proposals | [https://gov.ref.finance/](https://gov.ref.finance/)                                   |
-| Discord          | Get informed, ask questions, engage                                                      | [https://discord.gg/SJBGcfMxJz](https://discord.gg/SJBGcfMxJz)                         |
-| Telegram General | Get informed, ask questions, engage                                                      | [https://t.me/ref\_finance](https://t.me/ref\_finance)                                 |
-| Telegram Dev     | Ask technical questions                                                                  | [https://t.me/dev\_on\_ref\_finance](https://t.me/dev\_on\_ref\_finance)               |
-| Medium           | Get informed, read general and specific contents                                         | [https://ref-finance.medium.com/](https://ref-finance.medium.com/)                     |
-| Twitter          | Get informed, engage, and share contents                                                 | [https://twitter.com/finance\_ref](https://twitter.com/finance\_ref)                   |
-| Linkedin         | Get informed, engage, and share contents                                                 | [https://www.linkedin.com/company/80312710](https://www.linkedin.com/company/80312710) |
+<table><thead><tr><th>Platform</th><th width="267.3333333333333">Objectives</th><th>Link</th></tr></thead><tbody><tr><td>Forum</td><td>Get informed about key community topics, share ideas, challenge and debate DAO proposals</td><td><a href="https://gov.ref.finance/">https://gov.ref.finance/</a></td></tr><tr><td>Discord</td><td>Get informed, ask questions, engage</td><td><a href="https://discord.gg/SJBGcfMxJz">https://discord.gg/SJBGcfMxJz</a></td></tr><tr><td>Telegram General</td><td>Get informed, ask questions, engage</td><td><a href="https://t.me/ref_finance">https://t.me/ref_finance</a></td></tr><tr><td>Telegram Dev</td><td>Ask technical questions</td><td><a href="https://t.me/dev_on_ref_finance">https://t.me/dev_on_ref_finance</a></td></tr><tr><td>Medium</td><td>Get informed, read general and specific contents</td><td><a href="https://ref-finance.medium.com/">https://ref-finance.medium.com/</a></td></tr><tr><td>Twitter</td><td>Get informed, engage, and share contents</td><td><a href="https://twitter.com/finance_ref">https://twitter.com/finance_ref</a></td></tr><tr><td>Linkedin</td><td>Get informed, engage, and share contents</td><td><a href="https://www.linkedin.com/company/80312710">https://www.linkedin.com/company/80312710</a></td></tr></tbody></table>
 
 Anyone is welcomed, not matter of:
 

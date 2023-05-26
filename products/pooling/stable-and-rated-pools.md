@@ -63,7 +63,7 @@ Once you have entered the amounts you wish to add, click "Add Liquidity" to depo
 
 You can see all pools you have liquidity in by going to the Your Liquidity page. You can get to the Your Liquidity page by clicking Earn > Your Liquidity in the main menu of the site.&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Unstake shares from a farm, if necessary
 

@@ -34,14 +34,7 @@ Find below the list of all accounts that have directly managed or currently mana
 
 ### Testnet Contracts
 
-| Address                       | Type                                     | Mainnet counterpart       |
-| ----------------------------- | ---------------------------------------- | ------------------------- |
-| ref-finance-101.testnet       | Exchange Contract                        | v2.ref-finance.near       |
-| boostfarm.ref-finance.testnet | Farming Contract                         | boostfarm.ref-labs.near   |
-| v010.refve.testnet            | Vetokenomics Contract                    | ref-ve.ref-labs.near      |
-| xref.ref-finance.testnet      | Staking Contract                         | xtoken.ref-finance.near   |
-| dclv2.ref-dev.testnet         | Concentrated Liquidity Contract (Ref v2) | dclv2.ref-labs.near       |
-| ref.fakes.testnet             | $REF Fungible Token Contract             | token.v2.ref-finance.near |
+<table><thead><tr><th width="283.3333333333333">Address</th><th>Type</th><th>Mainnet counterpart</th></tr></thead><tbody><tr><td>ref-finance-101.testnet</td><td>Exchange Contract</td><td>v2.ref-finance.near</td></tr><tr><td>boostfarm.ref-finance.testnet</td><td>Farming Contract</td><td>boostfarm.ref-labs.near</td></tr><tr><td>v010.refve.testnet</td><td>Vetokenomics Contract</td><td>ref-ve.ref-labs.near</td></tr><tr><td>xref.ref-finance.testnet</td><td>Staking Contract</td><td>xtoken.ref-finance.near</td></tr><tr><td>dclv2.ref-dev.testnet</td><td>Concentrated Liquidity Contract (Ref v2)</td><td>dclv2.ref-labs.near</td></tr><tr><td>ref.fakes.testnet</td><td>$REF Fungible Token Contract</td><td>token.v2.ref-finance.near</td></tr></tbody></table>
 
 ## Timelock
 
