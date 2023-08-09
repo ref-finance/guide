@@ -16,7 +16,7 @@ The DAO has two different roles:
 2. **Community**: Community members can vote on proposals. If the majority of the Community confirms or rejects a proposal, that decision will stand. For most proposals, the Council will defer to the Community's decision, and refrain from voting
 
 {% hint style="info" %}
-In addition to the above Sputnik DAO, veToken holders can participate in the governance of the protocol, by [voting](products/voting.md) on key proposals.&#x20;
+In addition to the above Sputnik DAO, veToken holders can participate in the governance of the protocol, by [voting](broken-reference) on key proposals.&#x20;
 {% endhint %}
 
 ## Core Values <a href="#9a26" id="9a26"></a>

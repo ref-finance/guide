@@ -22,12 +22,12 @@ Ref Finance's Auto Router aims to find the best price for a trade. The algorithm
 In a nutshell, the solution determines the best **allocation** across pools of the same pairs, and the best **path** using one hop or intermediary pool.
 
 {% hint style="info" %}
-The Auto Router also leverages the [StableSwap function](overview.md), therefore combining both, normal and stable pools as potential intermediary pools
+The Auto Router also leverages the [StableSwap function](../overview.md), therefore combining both, normal and stable pools as potential intermediary pools
 {% endhint %}
 
 Find below a high-level description of the Auto Router.
 
-![](../.gitbook/assets/smart-routing-2.jpg)
+![](../../.gitbook/assets/smart-routing-2.jpg)
 
 
 
@@ -41,15 +41,15 @@ For more details, please refer to:
 * Parallel Swap solution: [https://github.com/giddyphysicist/ParallelSwapForRefFinance](https://github.com/giddyphysicist/ParallelSwapForRefFinance)
 * Parallel Swap Liquidity Threshold Research Paper
 
-{% file src="../.gitbook/assets/Liquidity Threshold.pdf" %}
+{% file src="../../.gitbook/assets/Liquidity Threshold.pdf" %}
 
 * Smart Routing Multi Swap Optimization Research Paper
 
-{% file src="../.gitbook/assets/PAPER_Smart_Routing_Multi_Swap_Optimization.pdf" %}
+{% file src="../../.gitbook/assets/Smart Routing v2.pdf" %}
 
 * Smart Routing Test Plan
 
-{% file src="../.gitbook/assets/Ref Finance Smart Routing V2 Test Plan.pdf" %}
+{% file src="../../.gitbook/assets/Ref Finance Smart Routing V2 Test Plan.pdf" %}
 
 ## **Credit** <a href="#853e" id="853e"></a>
 

@@ -4,7 +4,7 @@ description: Liquidity Pools
 
 # Pooling
 
-Ref Finance offers [several types of Liquidity Pools](../overview.md), Classic, Stable, Rated, and DCL. Classic pools are based on the Uniswap v2 algorithm; Stable pools, which can contain two or more tokens, use Curve's StableSwap algorithm; Rated pools are for yield-bearing tokens, and are based on a variation of Curve's StableSwap algorithm; and [Ref v2's "DCL" Pools](ref-v2-pools.md), which are based on [iZUMi Finance’s Discretized Liquidity AMM](#user-content-fn-1)[^1].
+Ref Finance offers [several types of Liquidity Pools](../overview.md), Classic, Stable, Rated, and DCL. Classic pools are based on the Uniswap v2 algorithm; Stable pools, which can contain two or more tokens, use Curve's StableSwap algorithm; Rated pools are for yield-bearing tokens, and are based on a variation of Curve's StableSwap algorithm; and [Ref v2's "DCL" Pools](../guides/add-liquidity/ref-v2-pools.md), which are based on [iZUMi Finance’s Discretized Liquidity AMM](#user-content-fn-1)[^1].
 
 Classic pools are fully permissionless, meaning that anyone can create a Classic pool, and set the fee for that pool. Currently only [Guardians](../../developers/guardians.md) can create Stable, Rated, and DCL pools.
 

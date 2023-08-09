@@ -38,11 +38,12 @@ When a LP creates a new pool, the pool fee is customisable. Every pool has the s
 
 ![](<../.gitbook/assets/Ref Ecosystem Participants(2).jpg>)
 
-The Ref Finance ecosystem is primarily comprised of five types of users: traders, liquidity providers, stakers, voters and developers.&#x20;
+The Ref Finance ecosystem is primarily comprised of five types of users: traders, liquidity providers, stakers, lenders & borrowers, voters and developers.&#x20;
 
 * Traders can swap [NEP-141](https://nomicon.io/Standards/FungibleToken/Core) tokens
 * Liquidity providers are incentivised to provide these tokens to liquidity pools
 * Stakers are receiving pro-rata shares of the shared protocol revenue
+* Lenders & Borrowers can unlock the liquidity of Near Ecosystem
 * Voters can participate in the governance of the project and the allocation of liquidity incentives
 * Developers can integrate directly with Ref Finance smart contracts to empower users in their interactions with tokens, trading interfaces, trading strategies, and more
 
@@ -67,7 +68,7 @@ Liquidity providers, or LPs, are a fragmented group, mainly made of:
 * Passive LPs are token holders who passively invest to accumulate trading fees, they generally do not actively monitore their positions and divergence loss
 * Sophisticated LPs are focused on market making as their primary strategy, they usually develop custom tools and monitore actively their positions and divergence loss
 * Token projects sometimes choose to become LPs to 'initiate' liquidity, by creating a liquid pool for their token
-* Protocol-oriented or 'politicised' LPs are focused primarily on the REF<>NEAR pool and the vetoken [model](voting.md),  allowing them to participate in the governance of the protocol (also see Voters)
+* Protocol-oriented or 'politicised' LPs are focused primarily on the REF<>NEAR pool and the vetoken [model](broken-reference),  allowing them to participate in the governance of the protocol (also see Voters)
 
 ### Stakers
 
@@ -77,15 +78,26 @@ Stakers can have different objectives and belong to specific subgroups:
 * Short-term or intra-strategy stakers are staking for a limited period of time, with the objective to optimise their returns, generally until the underlying token (REF) needs to be sold or used for a different purpose (i.e., liquidity provision)
 * Voting-only stakers can be identified as users that stake only to vote the associated proposal(s), they are generally interested in participating/influencing the future of the protocol by voting on specific proposals
 
+### Lender & Borrowers
+
+Lenders & Borrowers are the key components in every DeFi Ecosystem, which can exist in all the following groups:
+
+* Retail Investors: They have access to the current layer of liquidity and play a crucial role in accelerating DeFi activities within the ecosystem.
+* Venture Capitalists: This group includes entities such as Maker Maker or any institution that can access the NEAR Ecosystem liquidity. They employ various DeFi strategies such as hedging, asset optimization, and flash loans to maximize their returns.
+
+Please note that the information provided is based on general knowledge about DeFi ecosystems and may not reflect the latest developments or specific details about individual projects.
+
 ### Voters
 
-VeToken holders can participate in the governance of the projects by voting on key governance proposals and by voting on the allocation of REF tokens to specific farms for additional farming rewards.
+$REF holders can participate in the governance of the projects by voting on key governance proposals and by voting on the allocation of REF tokens to specific farms for additional farming rewards.
 
 Voters can be:
 
 * Community members, organisations, or investors that are interested in participating in the development and strategic orientation of the project
 * Project owners who want to support/grow their community by voting on the allocation of additional rewards for their corresponding farm
 * Short-term farmers who want to maximise their farming APR by voting on the allocation of additional rewards for their corresponding farm
+
+Once the veTokenomics function is released, this feature will become accessible.
 
 ### Developers
 

@@ -12,37 +12,37 @@ Classic pools are based on the Uniswap v2 algorithm. They are fully permissionle
 
 The Liquidity Pools page can be found in the top menu under "Earn"
 
-<figure><img src="../../.gitbook/assets/earn_01_menu.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/earn_01_menu.png" alt=""><figcaption></figcaption></figure>
 
 Make sure you are on the "Classic Pools" tab.&#x20;
 
-<figure><img src="../../.gitbook/assets/earn_02_poolspage.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/earn_02_poolspage.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Locate a specific pool
 
 There's a search box to filter pools by token, and check boxes to filter by characteristics, such as pools with Farms
 
-<figure><img src="../../.gitbook/assets/earn_02b_poolspage_searchfilter.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/earn_02b_poolspage_searchfilter.png" alt=""><figcaption></figcaption></figure>
 
 Incentivized pools have a "Farms" tag next to their token pairs, and those with multiple reward tokens will include a special icon within the tag.&#x20;
 
-<figure><img src="../../.gitbook/assets/earn_02_poolspage_farmsicons.png" alt=""><figcaption><p>The REF-NEAR pool has farms with multiple reward tokens, the other two have farms with one reward token.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/earn_02_poolspage_farmsicons.png" alt=""><figcaption><p>The REF-NEAR pool has farms with multiple reward tokens, the other two have farms with one reward token.</p></figcaption></figure>
 
 ### 3. Open the "Details" page for a pool&#x20;
 
 Clicking on a pool on the Pools page opens that pool's "Details" page. The pool's Details page shows, well, details about the pool, like the current and historical TVL and 24-hour volume. The pool's Details page also includes an "Add Liquidity" button to open the form for depositing tokens into the pool.
 
-<figure><img src="../../.gitbook/assets/earn_03_poolpage.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/earn_03_poolpage.png" alt=""><figcaption></figcaption></figure>
 
 The pool's Details page has an "Add Liquidity" button that, when clicked, will open the form for depositing tokens into the pool. If you currently have liquidity in the pool, the button will be named simply "Add", and there will be a "Remove" button next to it.&#x20;
 
 <div>
 
-<figure><img src="../../.gitbook/assets/earn_03b_poolpage_addliqbutton.png" alt=""><figcaption><p>If a user has no liquidity in a pool, only the "Add Liquidity" button will be shown.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/earn_03b_poolpage_addliqbutton.png" alt=""><figcaption><p>If a user has no liquidity in a pool, only the "Add Liquidity" button will be shown.</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/earn_03c_poolpage_add_remove_liqbuttons.png" alt=""><figcaption><p>If a user has liquidity in a pool, there will be "Add" and "Remove" buttons.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/earn_03c_poolpage_add_remove_liqbuttons.png" alt=""><figcaption><p>If a user has liquidity in a pool, there will be "Add" and "Remove" buttons.</p></figcaption></figure>
 
 </div>
 
@@ -52,11 +52,11 @@ After clicking the the "Add Liquidity" button on the pool's Detail page, the Add
 
 If you click the "Max" button next to a token symbol, the form will enter the full amount of that token that is in your wallet.&#x20;
 
-<figure><img src="../../.gitbook/assets/earn_04_addtokens.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/earn_04_addtokens.png" alt=""><figcaption></figcaption></figure>
 
 Click "Pool Stats" at the bottom of the Add Liquidity form to see details about the pool, including the balance of tokens, and the fee for swaps that take place on that pool.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 ## Removing liquidity from a pool
 
@@ -64,21 +64,21 @@ Click "Pool Stats" at the bottom of the Add Liquidity form to see details about 
 
 You can see all pools you have liquidity in by going to the Your Liquidity page. You can get to the Your Liquidity page by clicking Earn > Your Liquidity in the main menu of the site.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Unstake shares from a farm, if necessary
 
 If your shares are staked on a farm you must unstake them before you can remove your liquidity from the pool. If only some shares are staked, you will be able to remove the liquidity for the unstaked portion. See [Farming](../farming.md) for more details about staking and unstaking shares.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Pool shares are currently staked on a Farm and must be unstaked in order to remove tokens from the pool.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Pool shares are currently staked on a Farm and must be unstaked in order to remove tokens from the pool.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption><p>No pool shares are staked on a Farm, allowing the liquidity for all the user's shares to be removed from the pool.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption><p>No pool shares are staked on a Farm, allowing the liquidity for all the user's shares to be removed from the pool.</p></figcaption></figure>
 
 ### 3. Use the Remove Liquidity form to withdraw tokens from the pool
 
 After clicking the Remove button, the Remove Liquidity form will appear. You can enter an amount of shares to remove, or click the "MAX" button to remove the liquidity for all your shares.
 
-<figure><img src="../../.gitbook/assets/earn_04b_removetokens.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/earn_04b_removetokens.png" alt=""><figcaption></figcaption></figure>
 
 Increase the slippage tolerance If you receive slippage related errors when attempting to remove liquidity from a pool. This may be necessary if there are a lot of swaps occurring on the pool at that time, especially if the pool does not have a lot of liquidity in it.
 
@@ -94,11 +94,11 @@ There are several reasons why you may want to create a new Classic pool on Ref F
 
 The Liquidity Pools page can be found in the top menu under "Earn"
 
-<figure><img src="../../.gitbook/assets/earn_12a_createpool.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/earn_12a_createpool.png" alt=""><figcaption></figcaption></figure>
 
 Make sure you are on the "Classic Pools" tab.&#x20;
 
-<figure><img src="../../.gitbook/assets/earn_12b_createpool_classic.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/earn_12b_createpool_classic.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Use the "Create New Pool" form to configure the new pool
 
@@ -108,11 +108,11 @@ To set the total fee, click on one of the three predefined fees (0.20%, 0.30%, 0
 
 <div>
 
-<figure><img src="../../.gitbook/assets/earn_13_createpoolform.png" alt=""><figcaption><p>The total fee has been set to 0.01%, instead of one of the predefined fees.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/earn_13_createpoolform.png" alt=""><figcaption><p>The total fee has been set to 0.01%, instead of one of the predefined fees.</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/earn_13b_createpoolform_predefinedfee.png" alt=""><figcaption><p>The total fee has been set to one of the predefined fees.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/earn_13b_createpoolform_predefinedfee.png" alt=""><figcaption><p>The total fee has been set to one of the predefined fees.</p></figcaption></figure>
 
 </div>
 
@@ -122,7 +122,7 @@ When trades occur on a Classic pool, 80% of the total fee will be shared among l
 
 After the new pool is created, you will be taken to the pool's Details page. Since this pool has just been created, all values are set to zero.
 
-<figure><img src="../../.gitbook/assets/earn_14_createpool_newpooldetails.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/earn_14_createpool_newpooldetails.png" alt=""><figcaption></figcaption></figure>
 
 ### 4. Use the Add Liquidity form to add tokens to the new pool
 
