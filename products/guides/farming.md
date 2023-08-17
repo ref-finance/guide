@@ -24,7 +24,7 @@ First, make sure that you are connected to Ref Finance with your wallet.
 
 In the Farms section, you can view all old, live, and future farms and filter them by different criteria.
 
-To farm, you need LP tokens, which means you need to provide liquidity initially for the corresponding pool. To provide liquidity, please refer to the [Pooling section](../concept/pooling.md).&#x20;
+To farm, you need LP tokens, which means you need to provide liquidity initially for the corresponding pool. To provide liquidity, please refer to the [Pooling section](../concepts/pooling.md).&#x20;
 
 {% hint style="info" %}
 Farms are limited to a certain number of pools, not all pools have a yield farming option &#x20;

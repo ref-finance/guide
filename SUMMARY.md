@@ -16,11 +16,11 @@
 ## Ref Finance <a href="#products" id="products"></a>
 
 * [Overview](products/overview.md)
-* [Concept](products/concept/README.md)
-  * [Auto Router](products/concept/auto-router.md)
-  * [Multi-chain Router](products/concept/multi-chain-router.md)
-  * [Pooling](products/concept/pooling.md)
-  * [Staking](products/concept/staking.md)
+* [Concepts](products/concepts/README.md)
+  * [Auto Router](products/concepts/auto-router.md)
+  * [Multi-chain Router](products/concepts/multi-chain-router.md)
+  * [Pooling](products/concepts/pooling.md)
+  * [Staking](products/concepts/staking.md)
 * [Guides](products/guides/README.md)
   * [Trading](products/guides/swap/README.md)
     * [Lite/ Pro Swap](products/guides/swap/lite-pro-swap.md)
@@ -45,6 +45,7 @@
 
 * [CLI Trading](developers-1/cli-trading.md)
 * [CLI Farming](developers-1/cli-farming.md)
+* [REF SDK](developers-1/ref-sdk.md)
 
 ## SUPPORT
 
