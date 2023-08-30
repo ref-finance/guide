@@ -54,7 +54,7 @@ If you want to trade cross-chain, remember to enable the cross-chain options.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-23 at 22.29.32.png" alt=""><figcaption><p>By default, the route of best price is chosen and you are free to choose another route you like(if there are more).</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>If you choose the Orderly route, please proceed to Orderbook page to place the order. Also, the Orderly price is for reference only and the final price of the transaction will be determined by the execution price of your order.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>If you choose the Orderly route, please proceed to Orderbook page to place the order. Also, the Orderly price is for reference only and the final price of the transaction will be determined by the execution price of your order.</p></figcaption></figure>
 
 ### Step 4: Initiate the swap.
 

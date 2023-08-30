@@ -16,7 +16,7 @@ layout:
 
 The Lite and Pro tabs are two versions available for trading one token for another. The Lite version offers a user-friendly swap interface where you can select the two tokens you wish to exchange and click the swap button. On the other hand, the Pro version provides additional advanced functions to assist you with more comprehensive trade signals.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Pro Version</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Pro Version</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-25 at 22.08.59 (2).png" alt=""><figcaption><p>Lite Version</p></figcaption></figure>
 

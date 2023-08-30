@@ -32,6 +32,7 @@
     * [Ref v2 Pools](products/guides/add-liquidity/ref-v2-pools.md)
   * [Farming](products/guides/farming.md)
   * [Staking](products/guides/staking.md)
+  * [Lending & Borrowing](products/guides/lending-and-borrowing.md)
 
 ## SECURITY <a href="#developers" id="developers"></a>
 
