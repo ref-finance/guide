@@ -99,7 +99,7 @@ Step 3: Verify all the details and confirm the transaction
 
 Step 1: Click on Repay Button
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Step 2: Enter an appropriate amount&#x20;
 
@@ -119,7 +119,7 @@ Step 1: Select the token you wish to withdraw and click "Withdraw" button
 
 Step 2:  Choose an appropriate amount
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Step 3: Verify the details and confirm your transaction
 

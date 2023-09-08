@@ -4,7 +4,7 @@ description: Liquidity Pools
 
 # Pooling
 
-Ref Finance offers [several types of Liquidity Pools](../overview.md), Classic, Stable, Rated, and DCL. Classic pools are based on the Uniswap v2 algorithm; Stable pools, which can contain two or more tokens, use Curve's StableSwap algorithm; Rated pools are for yield-bearing tokens, and are based on a variation of Curve's StableSwap algorithm; and [Ref v2's "DCL" Pools](../guides/add-liquidity/ref-v2-pools.md), which are based on [iZUMi Finance’s Discretized Liquidity AMM](#user-content-fn-1)[^1].
+Ref Finance offers [several types of Liquidity Pools](./), Classic, Stable, Rated, and DCL. Classic pools are based on the Uniswap v2 algorithm; Stable pools, which can contain two or more tokens, use Curve's StableSwap algorithm; Rated pools are for yield-bearing tokens, and are based on a variation of Curve's StableSwap algorithm; and [Ref v2's "DCL" Pools](../liquidity-management/ref-v2-pools.md), which are based on [iZUMi Finance’s Discretized Liquidity AMM](#user-content-fn-1)[^1].
 
 Classic pools are fully permissionless, meaning that anyone can create a Classic pool, and set the fee for that pool. Currently only [Guardians](../../developers/guardians.md) can create Stable, Rated, and DCL pools.
 
@@ -44,7 +44,7 @@ You can see all pools you have liquidity in by going to the Your Liquidity page.
 
 You can see details like how many shares you have, the USD value of your shares, and the amount of each token your shares are worth. There are also buttons to add more liquidity and remove liquidity from the pool.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### The Portfolio page
 

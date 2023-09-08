@@ -22,7 +22,7 @@ Ref Finance's Auto Router aims to find the best price for a trade. The algorithm
 In a nutshell, the solution determines the best **allocation** across pools of the same pairs, and the best **path** using one hop or intermediary pool.
 
 {% hint style="info" %}
-The Auto Router also leverages the [StableSwap function](../overview.md), therefore combining both, normal and stable pools as potential intermediary pools
+The Auto Router also leverages the [StableSwap function](./), therefore combining both, normal and stable pools as potential intermediary pools
 {% endhint %}
 
 Find below a high-level description of the Auto Router.

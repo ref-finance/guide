@@ -19,7 +19,7 @@ For more information, please refer to:
   * Curve StableSwap Whitepaper: [https://curve.fi/files/stableswap-paper.pdf](https://curve.fi/files/stableswap-paper.pdf)
 * StableSwap function for yield-bearing tokens (Rated pools)
 
-{% file src="../.gitbook/assets/Rated_pools_pools_designed_for_yield-bearing_tokens.pdf" %}
+{% file src="../../.gitbook/assets/Rated_pools_pools_designed_for_yield-bearing_tokens.pdf" %}
 Rated pools document
 {% endfile %}
 
@@ -32,11 +32,11 @@ Unlike Uniswap, Ref Finance smart contract (v2.ref-finance.near), which manages 
 
 When a LP creates a new pool, the pool fee is customisable. Every pool has the same fee structure, as shown below.
 
-![](<../.gitbook/assets/Mind Map(5).jpg>)
+![](<../../.gitbook/assets/Mind Map(5).jpg>)
 
 ## Ecosystem Participants
 
-![](<../.gitbook/assets/Ref Ecosystem Participants(2).jpg>)
+![](<../../.gitbook/assets/Ref Ecosystem Participants(2).jpg>)
 
 The Ref Finance ecosystem is primarily comprised of five types of users: traders, liquidity providers, stakers, lenders & borrowers, voters and developers.&#x20;
 
