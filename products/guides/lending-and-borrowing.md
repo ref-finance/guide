@@ -6,7 +6,7 @@ Operating natively on the NEAR blockchain, which is a proof-of-stake, sharded bl
 
 The primary objective of Burrow is to enhance liquidity for interest-earning assets, with a specific focus on layer 1 staking derivatives like stNEAR and stETH. Users can deposit stNEAR as collateral, subsequently borrowing additional NEAR to create a leveraged staking position or even borrow a stablecoin to establish a self-repaying position.
 
-Full Burrow Docs ( [https://docs.burrow.cash/product-docs/introduction/burrow](https://docs.burrow.cash/product-docs/introduction/burrow) )
+Full Burrow Docs ([https://docs.burrow.finance/product-docs/introduction/burrow](https://docs.burrow.finance/product-docs/introduction/burrow))
 
 ## Ref Overseas Burrow
 
