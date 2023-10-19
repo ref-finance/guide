@@ -119,7 +119,7 @@ Step 1: Select the token you wish to withdraw and click "Withdraw" button
 
 Step 2:  Choose an appropriate amount
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Step 3: Verify the details and confirm your transaction
 

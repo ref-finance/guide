@@ -6,21 +6,21 @@
 
 Any token you wish to sell, or use to buy another token, must first be deposited into your Orderly account. This can be achieved by clicking the Deposit or Withdraw buttons in the panel located in the upper-right corner of the Spot page.
 
-<figure><img src="../../../.gitbook/assets/orderly_06_balances.png" alt=""><figcaption><p>Closeup showing token balances, and Deposit/Withdraw buttons. </p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/orderly_06_balances.png" alt=""><figcaption><p>Closeup showing token balances, and Deposit/Withdraw buttons. </p></figcaption></figure>
 
 Along with the Deposit and Withdraw buttons, the panel shows the amounts for the tokens of the selected trading pair that are in your Near wallet and Orderly account. Clicking the “See all” button will open a window showing the balances for all tokens capable of being traded on Orderly.
 
-<figure><img src="../../../.gitbook/assets/orderly_06b_all_balances.png" alt=""><figcaption><p>Account balance for all tokens that can be traded on the Orderbook.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/orderly_06b_all_balances.png" alt=""><figcaption><p>Account balance for all tokens that can be traded on the Orderbook.</p></figcaption></figure>
 
 Clicking the Deposit or Withdraw button will open a form that allows you to perform that particular action. Each form allows you to select the token you wish to deposit or withdraw, and the amount as a number or percentage.
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/orderly_07a_depositnear.png" alt=""><figcaption><p>Deposit token form.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/orderly_07a_depositnear.png" alt=""><figcaption><p>Deposit token form.</p></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/orderly_07b_withdrawusdc.png" alt=""><figcaption><p>Withdraw token form.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/orderly_07b_withdrawusdc.png" alt=""><figcaption><p>Withdraw token form.</p></figcaption></figure>
 
 </div>
 
@@ -30,7 +30,7 @@ Any token you wish to sell, or use for a Buy order, must first be deposited into
 
 The far right of the Orderbook page contains the panel that allows you to place an order to buy or sell the currently selected token. There are two types of orders that you can place, Limit and Market.
 
-<figure><img src="../../../.gitbook/assets/order.png" alt="" width="303"><figcaption><p>Token balances and order form.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/order.png" alt="" width="303"><figcaption><p>Token balances and order form.</p></figcaption></figure>
 
 #### Limit Orders
 
@@ -40,11 +40,11 @@ To place a Limit Order, make sure “Limit” is selected as the Order Type, ent
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/limit order to buy.png" alt=""><figcaption><p>Limit order to buy NEAR</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/limit order to buy.png" alt=""><figcaption><p>Limit order to buy NEAR</p></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/limit order to sell.png" alt=""><figcaption><p>Limit order to sell NEAR</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/limit order to sell.png" alt=""><figcaption><p>Limit order to sell NEAR</p></figcaption></figure>
 
 </div>
 
@@ -56,11 +56,11 @@ To place a Market Order, choose “Market” as the Order Type, and enter the qu
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/market buy.png" alt=""><figcaption><p>Market order to buy NEAR.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/market buy.png" alt=""><figcaption><p>Market order to buy NEAR.</p></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/market sell.png" alt=""><figcaption><p>Market order to sell NEAR.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/market sell.png" alt=""><figcaption><p>Market order to sell NEAR.</p></figcaption></figure>
 
 </div>
 
@@ -68,4 +68,4 @@ To place a Market Order, choose “Market” as the Order Type, and enter the qu
 
 The bottom panel allows you to cancel any open orders. If an order has been partially filled, then only the unfilled portion will be cancelled.
 
-<figure><img src="../../../.gitbook/assets/orderly_11_currentorders.png" alt=""><figcaption><p>Open orders capable of being cancelled </p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/orderly_11_currentorders.png" alt=""><figcaption><p>Open orders capable of being cancelled </p></figcaption></figure>

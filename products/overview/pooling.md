@@ -4,9 +4,21 @@ description: Liquidity Pools
 
 # Pooling
 
-Ref Finance offers [several types of Liquidity Pools](./), Classic, Stable, Rated, and DCL. Classic pools are based on the Uniswap v2 algorithm; Stable pools, which can contain two or more tokens, use Curve's StableSwap algorithm; Rated pools are for yield-bearing tokens, and are based on a variation of Curve's StableSwap algorithm; and [Ref v2's "DCL" Pools](../liquidity-management/ref-v2-pools.md), which are based on [iZUMi Finance’s Discretized Liquidity AMM](#user-content-fn-1)[^1].
+Ref Finance offers [several types of Liquidity Pools](./), Classic, Stable, Rated, and DCL. Classic pools are based on the Uniswap v2 algorithm; Stable pools, which can contain two or more tokens, use Curve's StableSwap algorithm; Rated pools are for yield-bearing tokens, and are based on a variation of Curve's StableSwap algorithm; and [Ref v2's "DCL" Pools](../guides/liquidity-management/ref-v2-pools.md), which are based on [iZUMi Finance’s Discretized Liquidity AMM](#user-content-fn-1)[^1].
 
 Classic pools are fully permissionless, meaning that anyone can create a Classic pool, and set the fee for that pool. Currently only [Guardians](../../developers/guardians.md) can create Stable, Rated, and DCL pools.
+
+## Stablepool
+
+Stable Pools are designed for assets that are expected to regularly trade either very close to parity or at a predetermined exchange rate. The Algorithm design is based on [Stableswap](https://classic.curve.fi/files/stableswap-paper.pdf) (introduce by Curve Finance), which enable significant size swap to occur without triggering considerable price impact, greatly enhancing capital efficiency for swaps involving similar or correlated assets.
+
+Ref Finance offers a variety of pool types, including:&#x20;
+
+* 4 pools: support USDT Native, USDC Native, USDT.e and USDC.e
+* 3 pools: USDT.e, USDC.e and DAI
+* Correlated Assets: tokens that swap near 1:R with some slowly changing exchange rate R (stNEAR, LINEAR, NearX)
+
+To understand more about logic design behind the contracts, refer to this [paper](https://classic.curve.fi/files/stableswap-paper.pdf) from the Curve Finance Team.
 
 ## Trading Fees
 
