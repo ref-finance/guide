@@ -45,7 +45,7 @@ Scope:
 * Ref veTokenomics: ref-ve.ref-labs.near
 * Ref Exchange: v2.ref-finance.near
 * xRef: xtoken.ref-finance.near
-* Ref v2 (Concentrated Liquidity): dcl.ref-labs.near
+* Ref v2 (Concentrated Liquidity): dclv2.ref-labs.near
 
 Ref Farming v2 Report:
 
@@ -68,3 +68,5 @@ xRef Report:
 Ref v2 (Concentrated Liquidity):
 
 {% file src="../.gitbook/assets/blocksec_ref_finance_dcl_v1.0_signed.pdf" %}
+
+{% file src="../.gitbook/assets/blocksec_ref_finance_dcl_v2.0_signed.pdf" %}
