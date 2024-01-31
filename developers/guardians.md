@@ -6,7 +6,7 @@ description: Protocol's pause control procedure
 
 ## Problem
 
-When something is going poorly (performance issue, critical bug, malicious attempts, etc.), it is important that Ref Finance has a plan to mitigate (i) the risks of contagion and (ii) the impact of such an event (including potential loss of funds).
+When issues arise (performance issue, critical bug, malicious attempts, etc.), it is important that Ref Finance has a plan to mitigate (i) the risks of contagion and (ii) the impact of such an event (including potential loss of funds).
 
 Often, turning off the frontend/user interface is not good enough because it does not prevent bots from operating, for example.
 
