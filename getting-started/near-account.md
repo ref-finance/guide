@@ -4,11 +4,11 @@ description: The wallet allows you to interact with the NEAR blockchain
 
 # Setup Wallet
 
-## **Using** NEAR Wallet
+## **Using My**Near Wallet
 
-The NEAR Wallet is a non-custodial, web-based wallet for the NEAR blockchain.&#x20;
+The MyNear Wallet is a non-custodial, web-based wallet for the NEAR blockchain.&#x20;
 
-Please follow the official guide: [https://near.org/blog/getting-started-with-the-near-wallet/](https://near.org/blog/getting-started-with-the-near-wallet/)
+Please follow the official guide: [https://app.mynearwallet.com/](https://app.mynearwallet.com/)
 
 ## **Using Sender Wallet**
 

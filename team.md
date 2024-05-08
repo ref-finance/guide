@@ -2,7 +2,7 @@
 
 The team is composed of fifteen fulltime members, covered/paid by the Dev DAO (dao.ref-dev-team.near).
 
-<table><thead><tr><th>Member</th><th width="252.42297650130547">Position</th><th>Linkedin</th></tr></thead><tbody><tr><td>Marco</td><td>Lead Backend Developer</td><td></td></tr><tr><td>Joe</td><td>Lead Frontend Developer</td><td></td></tr><tr><td>Gordon</td><td>Senior Backend Developer</td><td></td></tr><tr><td>ZQ</td><td>Senior Fullstack Dev</td><td></td></tr><tr><td>Dom</td><td>DevOps</td><td></td></tr><tr><td>Max</td><td>Frontend Developer</td><td></td></tr><tr><td>Nature</td><td>Frontend Developer</td><td></td></tr><tr><td>Willa</td><td>Lead QA Engineer</td><td></td></tr><tr><td>Amy</td><td>QA Engineer</td><td></td></tr><tr><td>Mency</td><td>Designer &#x26; UX</td><td></td></tr><tr><td>Ben</td><td>Product &#x26; Project Manager</td><td></td></tr><tr><td>Harry</td><td>Assistant Product Manager</td><td></td></tr><tr><td>Fay</td><td>Researcher Analyst</td><td></td></tr><tr><td>Ray</td><td>Researcher Analyst</td><td></td></tr><tr><td>Fauve</td><td>Lead Marketing</td><td><a href="https://www.linkedin.com/in/fauve-altman/">Link</a></td></tr></tbody></table>
+<table><thead><tr><th width="181">Member</th><th width="302.42297650130547">Position</th><th>Link</th></tr></thead><tbody><tr><td>Marco</td><td>Lead Backend Developer</td><td></td></tr><tr><td>Joe</td><td>Lead Frontend Developer</td><td></td></tr><tr><td>Gordon</td><td>Senior Backend Developer</td><td></td></tr><tr><td>Dom</td><td>DevOps</td><td></td></tr><tr><td>Nature</td><td>Frontend Developer</td><td></td></tr><tr><td>Luke</td><td>Frontend Developer</td><td></td></tr><tr><td>Willa</td><td>Lead QA Engineer</td><td></td></tr><tr><td>Amy</td><td>QA Engineer</td><td></td></tr><tr><td>Mency</td><td>Designer &#x26; UX</td><td></td></tr><tr><td>Zero</td><td>Product &#x26; Project Manager</td><td><a href="https://github.com/zerochl">GitHub</a></td></tr><tr><td>Ray</td><td>Researcher Analyst</td><td></td></tr><tr><td>Anne</td><td>Lead Marketing</td><td><a href="https://www.linkedin.com/in/anne-nguyen-5ba5a720a/">https://www.linkedin.com/in/anne-nguyen-5ba5a720a/</a></td></tr></tbody></table>
 
 Although not considered as a fulltime member of the team, ve$RUST (from Proximity Labs) is one of the leaders of the project and is very involved in Product Design, Business, Marketing, Strategy and Growth.
 
@@ -21,7 +21,6 @@ Ref Finance's Legendary Mods:
 
 | Username | Telegram Handle |
 | -------- | --------------- |
-| Ben      | @benstg         |
 | Cudam    | @cudam321       |
 | Larry    | @Larry\_Lang    |
 | Rim      | @rimberjack     |
