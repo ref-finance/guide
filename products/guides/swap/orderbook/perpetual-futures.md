@@ -36,7 +36,7 @@ When you are ready to close a position, you can either place an order that is op
 
 <figure><img src="../../../../.gitbook/assets/close position.png" alt=""><figcaption><p>Close your position by clicking "Close".</p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (8).png" alt="" width="342"><figcaption><p>Confirm your closing order.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8) (1).png" alt="" width="342"><figcaption><p>Confirm your closing order.</p></figcaption></figure>
 
 Please note that after closing a position, the realized profit and loss won't automatically be transferred to your spot trading account. You need to settle your profit and loss so that they are reflected in your balance.&#x20;
 

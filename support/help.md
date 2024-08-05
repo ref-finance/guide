@@ -12,7 +12,7 @@ Try withdrawing only 2-3 tokens at a time.
 
 Enable _**Support Ledger**_ on the swap from.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _**We highly recommend** that instead of enabling Support Ledger, users should use a hot wallet to transfer tokens to/from when needing to swap._
 

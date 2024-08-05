@@ -36,6 +36,7 @@
     * [Ref v2 Pools](products/guides/liquidity-management/ref-v2-pools.md)
   * [Farming](products/guides/farming.md)
   * [Staking](products/guides/staking.md)
+  * [Aggregator Bridge](products/guides/aggregator-bridge.md)
 
 ## SECURITY <a href="#developers" id="developers"></a>
 

@@ -41,30 +41,30 @@ For example, if a LP deposits USDC.e and NEAR within the range of 2.23572 - 2.73
 
 To deposit liquidity in a DCL pool, first go to the "V2 Pools" tab on the Pools Page, click on a pool, and then click "Add liquidity".
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>DCL Pools are found in the "V2 Pools" tab of the Pools Page.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>DCL Pools are found in the "V2 Pools" tab of the Pools Page.</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>The "Add Liquidity" button is on each pool's detail page. </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>The "Add Liquidity" button is on each pool's detail page. </p></figcaption></figure>
 
 Choose a minimum and maximum rate that your assets can be used for swaps, and the amounts to deposit. There may be pools with multiple "Fee Tiers" to choose from. The higher the fee, the more you make from swaps that utilize your pool, but your pool is less likely to be selected for swaps than pools with lower fees.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>The Add Liquidity form for a DCL pool.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>The Add Liquidity form for a DCL pool.</p></figcaption></figure>
 
 ### Claiming Swap Fees
 
 With Ref v2's DCL Pools, your share of the swap fees are immediately allocated to your account, and are not part of the pool’s liquidity. You can “claim” your share of the fees at any time, without removing any liquidity from the pool. However, adding or removing liquidity will automatically transfer any unclaimed tokens to your wallet. &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clicking the "Claim" button will transfer your share of the swap fees to your wallet.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clicking the "Claim" button will transfer your share of the swap fees to your wallet.</p></figcaption></figure>
 
 ### Adding More Liquidity
 
 If you want to add more liquidity to a pool, you will be given two choices. You can add more liquidity to your existing position, or you can create a new position and select a different range to deposit your liquidity in.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>You are presented with this form when adding liquidity to a pool that you already have a position in.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>You are presented with this form when adding liquidity to a pool that you already have a position in.</p></figcaption></figure>
 
 ### Removing Liquidity
 
 After clicking the "Remove" button on the pool page, you will have the option of removing all your liquidity, or only a portion of it. Removing any liquidity will automatically transfer any unclaimed tokens from swap fees to your wallet.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>You can remove some or all of your liquidity.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>You can remove some or all of your liquidity.</p></figcaption></figure>
 
 [^1]: [https://izumi.finance/paper/dswap.pdf](https://izumi.finance/paper/dswap.pdf)

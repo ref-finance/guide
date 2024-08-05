@@ -70,3 +70,7 @@ Ref v2 (Concentrated Liquidity):
 {% file src="../.gitbook/assets/blocksec_ref_finance_dcl_v1.0_signed.pdf" %}
 
 {% file src="../.gitbook/assets/blocksec_ref_finance_dcl_v2.0_signed.pdf" %}
+
+Stargate/Rainbow Bridge transit contract:
+
+{% file src="../.gitbook/assets/stargate.pdf" %}

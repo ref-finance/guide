@@ -58,7 +58,7 @@ The important part: 0.25N **will not** be deducted from your account, or locked 
 
 You need to approve a 0.25N Network Fee whenever you connect your wallet to **any** dapp, not just Ref's.&#x20;
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Fee Allowance allows the dapp to use up to a total of 0.25N for gas fees on certain types of transactions without you having to approve it. The Network Fee **can only be used to pay for gas**. Once a dapp has spent all of the 0.25N, you will need to approve another 0.25N. Ref cannot do anything else with any tokens in your wallet without your approval.
 

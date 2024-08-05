@@ -4,7 +4,7 @@ The Orderbook page (including Spot and Perpetuals)  is a graphical user interfac
 
 The Orderly Porfolio page can be accessed through the  Porfolio menu at the top of the Ref site.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (9) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 There are four main parts of the portfolio.
 
