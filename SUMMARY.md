@@ -21,6 +21,7 @@
   * [Pooling](products/overview/pooling.md)
   * [Staking](products/overview/staking.md)
   * [Ref V2 & DCL Pools](products/overview/ref-v2-and-dcl-pools.md)
+  * [Aggregator Bridge](products/overview/aggregator-bridge.md)
 * [Guides](products/guides/README.md)
   * [Lending & Borrowing](products/guides/lending-and-borrowing.md)
   * [Trade](products/guides/swap/README.md)

@@ -1,6 +1,6 @@
 # Aggregator Bridge
 
-**Aggregator Bridge** is an important link between the Near ecosystem and external ecosystems. It will aggregate all existing bridges within the Near ecosystem, including **Stargate**, **Rainbow**, **TokenBridge**, and **AllBridge**.
+
 
 ### How to bridge?
 
