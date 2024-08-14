@@ -73,4 +73,4 @@ Ref v2 (Concentrated Liquidity):
 
 Stargate/Rainbow Bridge transit contract:
 
-{% file src="../.gitbook/assets/stargate.pdf" %}
+[https://github.com/blocksecteam/audit-reports/blob/main/rust/blocksec\_ref\_bridge\_v1.0-signed.pdf](https://github.com/blocksecteam/audit-reports/blob/main/rust/blocksec\_ref\_bridge\_v1.0-signed.pdf)
