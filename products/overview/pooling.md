@@ -56,13 +56,13 @@ You can see all pools you have liquidity in by going to the Your Liquidity page.
 
 You can see details like how many shares you have, the USD value of your shares, and the amount of each token your shares are worth. There are also buttons to add more liquidity and remove liquidity from the pool.
 
-<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 ### The Portfolio page
 
 The "Your Liquidity" tab of the Portfolio page shows you your current liquidity positions. You can get to the Portfolio page by clicking "Portfolio" on the main menu. Each item has a drop-down icon that, when clicked, will reveal details about the position.
 
-<figure><img src="../../.gitbook/assets/portfolio_yourliq.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (91).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Risks
 

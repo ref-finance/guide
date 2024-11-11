@@ -10,16 +10,7 @@ Try withdrawing only 2-3 tokens at a time.
 
 ### _**I am using a ledger, and get UNKNOWN\_ERROR (0x6990) when swapping tokens**_
 
-Enable _**Support Ledger**_ on the swap from.
-
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-_**We highly recommend** that instead of enabling Support Ledger, users should use a hot wallet to transfer tokens to/from when needing to swap._
-
-With _Support Ledger_ enabled, **you will be responsible** for determining whether it is better to swap one token directly for another (Token A -> Token B), or if you should do a series of swaps (Token A -> Token C ... Token C -> Token B). **This is especially important** when there isn't a pool with sufficient liquidity for those token pairs.&#x20;
-
-_Background_: \
-By design, Ledger cannot handle large transactions (i.e. Auto Router: trade across multiple pools at once) because of its memory limitation. _Support Ledger_ will limit transactions to their simplest form, resulting in swap tx's small enough to use your Ledger (**to the detriment of potential optimal prices found by our Auto Router**)
+Update your ledger firmware to latest version.
 
 ### _**Something went wrong when I swapped, or added/removed tokens from a pool, and now I don't see my tokens or pool shares**_
 
@@ -33,7 +24,7 @@ Although rare, there are times when it appears that tokens have been lost or are
 
 After claiming rewards, you need to go to the [main Farms page](https://app.ref.finance/v2farms) and withdraw them to your wallet.
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>After claiming rewards, click Withdraw on the Farms page to transfer them to your wallet.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 ### _**I'm trying to swap NEAR, or deposit it into a pool, but the site says I don't have enough in my wallet even though I do**_
 
