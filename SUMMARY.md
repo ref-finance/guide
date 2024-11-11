@@ -38,6 +38,7 @@
   * [Farming](products/guides/farming.md)
   * [Staking](products/guides/staking.md)
   * [Aggregator Bridge](products/guides/aggregator-bridge.md)
+  * [Vault](products/guides/vault.md)
 
 ## SECURITY <a href="#developers" id="developers"></a>
 
