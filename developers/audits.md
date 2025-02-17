@@ -73,4 +73,8 @@ Ref v2 (Concentrated Liquidity):
 
 Stargate/Rainbow Bridge transit contract:
 
-[https://github.com/blocksecteam/audit-reports/blob/main/rust/blocksec\_ref\_bridge\_v1.0-signed.pdf](https://github.com/blocksecteam/audit-reports/blob/main/rust/blocksec\_ref\_bridge\_v1.0-signed.pdf)
+{% embed url="https://github.com/blocksecteam/audit-reports/blob/main/rust/blocksec_ref_bridge_v1.0-signed.pdf" %}
+
+### Bug Bounty
+
+{% embed url="https://immunefi.com/bug-bounty/reffinance/" %}
