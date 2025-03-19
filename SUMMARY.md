@@ -35,6 +35,7 @@
   * [Staking](products/guides/staking.md)
   * [Aggregator Bridge](products/guides/aggregator-bridge.md)
   * [Vault](products/guides/vault.md)
+  * [RHEA Point System](products/guides/rhea-point-system.md)
 
 ## SECURITY <a href="#developers" id="developers"></a>
 
