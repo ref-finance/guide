@@ -85,13 +85,3 @@ Users can earn bonus points by maintaining long-term engagement on Margin Tradin
 
 <table><thead><tr><th width="183.46875">Activity Streak</th><th>Point Multiplier Applied (After 10 Days)</th><th>Point Multiplier Applied  (After 20 Days)</th></tr></thead><tbody><tr><td>$100 LP supplied for 1 day = 200 points</td><td>1.2x</td><td>1.5x</td></tr></tbody></table>
 
-
-
-### Reputation Tiers & Rewards
-
-| Tier     | Reputation oRHEA | RHEA Token Conversion                    |
-| -------- | ---------------- | ---------------------------------------- |
-| Unranked | 0 – 999          | 1 x token conversion based on the yield  |
-| Bronze   | 1,000 – 4,999    | 1.2x token conversion based on the yield |
-| Sliver   | 5,000 – 19,999   | 1.3x token conversion based on the yield |
-| Gold     | 20,000 – 49,999  | 1.4x token conversion based on the yield |
