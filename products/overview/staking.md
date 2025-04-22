@@ -8,7 +8,7 @@ xREF is the main staking contract (xtoken.ref-finance.near) on the platform. Whe
 There is no Divergence Loss when you stake REF for xREF tokens
 {% endhint %}
 
-Every swap executed on Ref Finance generates revenue for the protocol.&#x20;
+Every swap executed on RHEA Finance generates revenue for the protocol.&#x20;
 
 * 100% of the protocol fee will be used to buy back REF tokens, of which:
   * 75% will be transferred to the xREF contract (xtoken.ref-finance.near) and released linearly over time&#x20;
@@ -16,14 +16,14 @@ Every swap executed on Ref Finance generates revenue for the protocol.&#x20;
 
 ![](<../../.gitbook/assets/Mind Map(7).jpg>)
 
-## Execution <a href="#6306" id="6306"></a>
+## Execution <a href="#id-6306" id="id-6306"></a>
 
-Like any liquidity provider, Ref Finance collects its shares (16% of the total pool fee) in real-time and will be paid when it removes liquidity from the pool.&#x20;
+Like any liquidity provider, RHEA Finance collects its shares (16% of the total pool fee) in real-time and will be paid when it removes liquidity from the pool.&#x20;
 
 Converting protocol LP tokens, resulting from the trading fees, involves the following actions:
 
 1. Remove liquidity from pools
-2. Withdraw corresponding tokens from Ref Finance (v2.ref-finance.near) to the DAO (ref-finance.sputnik-dao.near)
+2. Withdraw corresponding tokens from RHEA Finance (v2.ref-finance.near) to the DAO (ref-finance.sputnik-dao.near)
 3. Send tokens from the DAO to a specific execution account&#x20;
 4. Buy (back) REF tokens (with the execution account)
 5. Send REF tokens to the staking contract (xtoken.ref-finance.near)

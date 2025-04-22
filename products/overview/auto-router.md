@@ -4,17 +4,17 @@ description: Better prices, better liquidity utilisation
 
 # Auto Router
 
-Auto Router, also known as Smart Routing, can be defined as the ability to find better prices for traders on Ref Finance. This includes splitting the trade across multiple pools at once.
+Auto Router, also known as Smart Routing, can be defined as the ability to find better prices for traders on RHEA Finance. This includes splitting the trade across multiple pools at once.
 
 The Auto Router delivers a unique value proposition. Value that will be accumulated over time by Ref's users, in the form of better prices and liquidity utilisation.
 
 {% hint style="info" %}
-The Auto Router algorithm is open source, and available at the frontend/interface level of Ref Finance
+The Auto Router algorithm is open source, and available at the frontend/interface level of RHEA Finance
 {% endhint %}
 
 ## High-Level Design&#x20;
 
-Ref Finance's Auto Router aims to find the best price for a trade. The algorithm takes advantage of all liquidity, using, when available:
+RHEA Finance's Auto Router aims to find the best price for a trade. The algorithm takes advantage of all liquidity, using, when available:
 
 1. Parallel pools
 2. Intermediary pools
@@ -51,7 +51,7 @@ For more details, please refer to:
 
 {% file src="../../.gitbook/assets/Ref Finance Smart Routing V2 Test Plan.pdf" %}
 
-## **Credit** <a href="#853e" id="853e"></a>
+## **Credit** <a href="#id-853e" id="id-853e"></a>
 
 The Auto Router is the result of a successful collaboration between the team and Giddy & Dave.
 

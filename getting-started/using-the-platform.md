@@ -4,15 +4,15 @@ description: One platform, many things you can do
 
 # Using the Platform
 
-Ref Finance is a fully permissionless exchange, meaning that any token on NEAR can be swapped or pooled on the platform.
+RHEA Finance is a fully permissionless exchange, meaning that any token on NEAR can be swapped or pooled on the platform.
 
-When visiting the platform, you will be required to confirm the connection between Ref Finance and your wallet. <mark style="color:green;">This is completely normal and safe</mark>. Once confirmed, you can start using Ref Finance to **Trade**, **Pool**, **Farm,** **Stake** and **Vote**.
+When visiting the platform, you will be required to confirm the connection between RHEA Finance and your wallet. <mark style="color:green;">This is completely normal and safe</mark>. Once confirmed, you can start using RHEA Finance to **Trade**, **Pool**, **Farm,** **Stake** and **Vote**.
 
-Ref Finance has designed a simple tool to swap any token on NEAR, often being the first and unique place to get an exposure to new NEAR-native projects. Simply ensure Ref Finance has permission to 'spend' your tokens and enjoy instantaneous, low-cost transactions.
+RHEA Finance has designed a simple tool to swap any token on NEAR, often being the first and unique place to get an exposure to new NEAR-native projects. Simply ensure RHEA Finance has permission to 'spend' your tokens and enjoy instantaneous, low-cost transactions.
 
 ## Increase your Yields
 
-There is a number of ways to earn rewards on Ref Finance.
+There is a number of ways to earn rewards on RHEA Finance.
 
 **Pooling** tokens facilitates trading, ensuring that there is enough liquidity for traders. This works by providing two tokens (such as REF and NEAR) or three tokens (such as USDC, DAI and USDT for the Tri-Pool) to a pool in return for LP tokens, which can then be farmed. Not all pools can be farmed, but you will still earn a percentage of the trading fees in proportion to your share of the pool.&#x20;
 

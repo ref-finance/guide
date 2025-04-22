@@ -53,13 +53,14 @@ Users earn points by supplying assets to liquidity pools or borrowing assets.
 
 **Example Calculation:**
 
-*   Provide a total of $1,000 in the USDC-NEAR pool:
+* Provide a total of $1,000 in the USDC-NEAR pool:
+  * Base points: **(1,000 x 2) = 2000 points**
+  * **50% boost** for $1,000+ swap: **+1000 points**
+  * **Total: 3000 points**
 
-    * Base points: **(1,000 x 2) = 2000 points**
-    * **50% boost** for $1,000+ swap: **+1000 points**
-    * **Total: 3000 points**
 
 
+> Note: Locked LP from users will not count toward points as Locked LP is intended for LP deployers to utilize the feature and provide a sense of safety for the community.
 
 ### 3. Community Points
 

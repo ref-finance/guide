@@ -12,7 +12,7 @@ Classic pools are based on the Uniswap v2 algorithm. They are fully permissionle
 
 The Liquidity Pools page can be found in the top menu under "Earn"
 
-<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-04-17 at 1.41.41 AM.png" alt=""><figcaption></figcaption></figure>
 
 Make sure you are on the "Classic Pools" tab.&#x20;
 
@@ -22,35 +22,35 @@ Make sure you are on the "Classic Pools" tab.&#x20;
 
 There's a search box to filter pools by token, and check boxes to filter by characteristics, such as pools with Farms
 
-<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-04-17 at 1.44.04 AM.png" alt=""><figcaption></figcaption></figure>
 
 Incentivized pools have a "Farms" tag next to their token pairs, and those with multiple reward tokens will include a special icon within the tag.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-04-17 at 1.44.49 AM.png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Open the "Details" page for a pool&#x20;
 
 Clicking on a pool on the Pools page opens that pool's "Details" page. The pool's Details page shows, well, details about the pool, like the current and historical TVL and 24-hour volume. The pool's Details page also includes an "Add Liquidity" button to open the form for depositing tokens into the pool.
 
-<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-04-17 at 1.47.17 AM.png" alt=""><figcaption></figcaption></figure>
 
 The pool's Details page has an "Add Liquidity" button that, when clicked, will open the form for depositing tokens into the pool. If you currently have liquidity in the pool, the button will be named simply "Add", and there will be a "Remove" button next to it.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (42).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-04-17 at 1.48.17 AM.png" alt="" width="494"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (43).png" alt="" width="365"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-04-17 at 1.48.55 AM.png" alt="" width="497"><figcaption></figcaption></figure>
 
 ### 4. Use the Add Liquidity form to add tokens to the pool
 
 After clicking the the "Add Liquidity" button on the pool's Detail page, the Add Liquidity Form will open. Use this form to enter the amount of tokens you want to deposit. The amounts must be in the same proportion as the balance of the pool at that point in time. When you enter an amount for one token, the form will automatically set the proper amount for the second token. You must have **both** tokens in your wallet to add liquidity to a classic pool.
 
-If you click the "Max" button next to a token symbol, the form will enter the full amount of that token that is in your wallet.&#x20;
+If you click on the numbers to the text "Balance", the form will automatically enter the balanced amount of that token that is maxed in your wallet.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (44).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-04-17 at 1.53.08 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Click "Pool Stats" at the bottom of the Add Liquidity form to see details about the pool, including the balance of tokens, and the fee for swaps that take place on that pool.
 
-<figure><img src="../../../.gitbook/assets/image (45).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-04-17 at 1.53.22 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Removing liquidity from a pool
 
@@ -58,13 +58,13 @@ Click "Pool Stats" at the bottom of the Add Liquidity form to see details about 
 
 You can see all pools you have liquidity in by going to the Your Liquidity page. You can get to the Your Liquidity page by clicking Earn > Your Liquidity in the main menu of the site.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-04-17 at 1.56.04 AM.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Unstake shares from a farm, if necessary
 
 If your shares are staked on a farm you must unstake them before you can remove your liquidity from the pool. If only some shares are staked, you will be able to remove the liquidity for the unstaked portion. See [Farming](../farming.md) for more details about staking and unstaking shares.
 
-<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-04-17 at 1.57.29 AM.png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Use the Remove Liquidity form to withdraw tokens from the pool
 
@@ -84,13 +84,11 @@ There are several reasons why you may want to create a new Classic pool on Ref F
 
 ### 1. Click the "Create Pool" button on the Pools page.
 
-The Liquidity Pools page can be found in the top menu under "Earn"
+The Liquidity Pools page can be found in the top menu under "Earn". Make sure you are on the "[Classic Pools](https://dex.rhea.finance/pools?activeTab=classic)" tab.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-04-17 at 1.59.52 AM.png" alt=""><figcaption></figcaption></figure>
 
-Make sure you are on the "Classic Pools" tab.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Use the "Create New Pool" form to configure the new pool
 
@@ -108,7 +106,7 @@ When trades occur on a Classic pool, 80% of the total fee will be shared among l
 
 After the new pool is created, you will be taken to the pool's Details page. Since this pool has just been created, all values are set to zero.
 
-<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-04-17 at 2.04.48 AM.png" alt=""><figcaption></figcaption></figure>
 
 ### 4. Use the Add Liquidity form to add tokens to the new pool
 

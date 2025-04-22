@@ -6,7 +6,7 @@ description: Stay alert ⚠️ 👀, always
 
 ## NEVER trust someone pretending to work for the 'Customer Support Team' <a href="#trader-joe-has-no-formal-customer-support-team" id="trader-joe-has-no-formal-customer-support-team"></a>
 
-<mark style="color:red;">Ref Finance has NO formal 'Customer Support Team'.</mark>
+<mark style="color:red;">RHEA Finance has NO formal 'Customer Support Team'.</mark>
 
 We will **NEVER**:
 
@@ -18,7 +18,7 @@ We will **NEVER**:
 
 ## ALWAYS use Ref Finance verified domains <a href="#always-use-trader-joe-verified-domains" id="always-use-trader-joe-verified-domains"></a>
 
-Bookmark: [https://app.ref.finance/](https://app.ref.finance/)
+Bookmark: [https://www.rhea.finance/](https://www.rhea.finance/)
 
 If you ever have any doubt of the URL, please use our linked URL on the official Ref Finance Twitter profile or alternatively, reach out to a Moderator in our [official social channels](../community.md).
 

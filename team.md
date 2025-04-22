@@ -10,14 +10,14 @@ The team is a mix of both pseudonymous and non-pseudonymous people. Within the c
 
 The team does not stop to the above list. As a community-driven project, many community members are contributing, on a regular basis, to different aspects of the project, such as Marketing, end-to-end community testing, etc.&#x20;
 
-Moderators are also a key piece of the project. They participate in the success and growth of Ref Finance in different areas, such as (not limited to):
+Moderators are also a key piece of the project. They participate in the success and growth of RHEA Finance in different areas, such as (not limited to):
 
 * User onboarding/acquisition
 * User support/guidance
 * Discussion facilitation
 * Removal of unrelated or inappropriate content
 
-Ref Finance's Legendary Mods:
+RHEA Finance's Legendary Mods:
 
 | Username | Telegram Handle |
 | -------- | --------------- |

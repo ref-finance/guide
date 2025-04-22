@@ -4,9 +4,9 @@ description: Answers to Frequently Asked Questions
 
 # FAQ
 
-## _**I am having a problem using the Ref Finance website, what should I do?**_
+## _**I am having a problem using the RHEA Finance website, what should I do?**_
 
-Please go to the [Help page ](help.md)to see if your issue is addressed there. If it is not, post a message to the user-support channel on our [Discord server](https://discord.com/invite/jXByEbCmtW), or [Telegram group](https://t.me/ref\_finance).&#x20;
+Please go to the [Help page ](help.md)to see if your issue is addressed there. If it is not, post a message to the user-support channel on our [Discord server](https://discord.com/invite/jXByEbCmtW), or [Telegram group](https://t.me/ref_finance).&#x20;
 
 ⛔️ **Admins and mods will NEVER dm you first**. If you get a DM from someone claiming to be an admin, mod, or a generic "technical support" account, it is a scam ⛔️
 
@@ -14,10 +14,10 @@ Please go to the [Help page ](help.md)to see if your issue is addressed there. I
 
 You can get REF by swapping for it at [http://app.ref.finance/](http://app.ref.finance/)&#x20;
 
-Here are some centralized exchanges where you can buy REF on**:**&#x20;
+Here are some centralized exchanges where you can buy REF o&#x6E;**:**&#x20;
 
-* Gate.io: [https://www.gate.io/trade/ref\_usdt](https://www.gate.io/trade/ref\_usdt)&#x20;
-* MEXC: [https://www.mexc.com/exchange/REF\_USDT](https://www.mexc.com/exchange/REF\_USDT)
+* Gate.io: [https://www.gate.io/trade/ref\_usdt](https://www.gate.io/trade/ref_usdt)&#x20;
+* MEXC: [https://www.mexc.com/exchange/REF\_USDT](https://www.mexc.com/exchange/REF_USDT)
 * Jubi: [https://www.jbex.com/exchange/REF/USDT](https://www.jbex.com/exchange/REF/USDT)&#x20;
 * CoinEx: [https://www.coinex.com/exchange/ref-usdt](https://www.coinex.com/exchange/ref-usdt)&#x20;
 

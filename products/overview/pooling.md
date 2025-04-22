@@ -4,7 +4,7 @@ description: Liquidity Pools
 
 # Pooling
 
-Ref Finance offers [several types of Liquidity Pools](./), Classic, Stable, Rated, and DCL. Classic pools are based on the Uniswap v2 algorithm; Stable pools, which can contain two or more tokens, use Curve's StableSwap algorithm; Rated pools are for yield-bearing tokens, and are based on a variation of Curve's StableSwap algorithm; and [Ref v2's "DCL" Pools](../guides/liquidity-management/ref-v2-pools.md), which are based on [iZUMi Finance’s Discretized Liquidity AMM](#user-content-fn-1)[^1].
+RHEA Finance offers [several types of Liquidity Pools](./), Classic, Stable, Rated, and DCL. Classic pools are based on the Uniswap v2 algorithm; Stable pools, which can contain two or more tokens, use Curve's StableSwap algorithm; Rated pools are for yield-bearing tokens, and are based on a variation of Curve's StableSwap algorithm; and [Ref v2's "DCL" Pools](../guides/liquidity-management/rhea-v2-pools.md), which are based on [iZUMi Finance’s Discretized Liquidity AMM](#user-content-fn-1)[^1].
 
 Classic pools are fully permissionless, meaning that anyone can create a Classic pool, and set the fee for that pool. Currently only [Guardians](../../developers/guardians.md) can create Stable, Rated, and DCL pools.
 
@@ -12,7 +12,7 @@ Classic pools are fully permissionless, meaning that anyone can create a Classic
 
 Stable Pools are designed for assets that are expected to regularly trade either very close to parity or at a predetermined exchange rate. The Algorithm design is based on [Stableswap](https://classic.curve.fi/files/stableswap-paper.pdf) (introduce by Curve Finance), which enable significant size swap to occur without triggering considerable price impact, greatly enhancing capital efficiency for swaps involving similar or correlated assets.
 
-Ref Finance offers a variety of pool types, including:&#x20;
+RHEA Finance offers a variety of pool types, including:&#x20;
 
 * 4 pools: support USDT Native, USDC Native, USDT.e and USDC.e
 * 3 pools: USDT.e, USDC.e and DAI
@@ -77,13 +77,13 @@ You can see all pools you have liquidity in by going to the Your Liquidity page.
 
 You can see details like how many shares you have, the USD value of your shares, and the amount of each token your shares are worth. There are also buttons to add more liquidity and remove liquidity from the pool.
 
-<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-16 at 5.06.53 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### The Portfolio page
 
 The "Your Liquidity" tab of the Portfolio page shows you your current liquidity positions. You can get to the Portfolio page by clicking "Portfolio" on the main menu. Each item has a drop-down icon that, when clicked, will reveal details about the position.
 
-<figure><img src="../../.gitbook/assets/image (91).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-16 at 5.01.45 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Risks
 

@@ -1,6 +1,6 @@
-# Ref V2 & DCL Pools
+# RHEA V2 & DCL Pools
 
-REF Exchange V2 was built based on the Discretized Concentrated Liquidity (DCL) pool, initially founded by Izumi Team.
+RHEA Exchange V2 was built based on the Discretized Concentrated Liquidity (DCL) pool, initially founded by Izumi Team.
 
 Here, we discuss some concepts and behaviors that are important for users and researchers to have a better understanding of ref-v2.
 

@@ -1,7 +1,5 @@
 ---
-description: >-
-  In the long term, we envision Ref Finance to be fully governed by its
-  community
+description: In the long term, we envision RHEA to be fully governed by its community
 ---
 
 # Governance

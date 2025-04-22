@@ -1,14 +1,14 @@
 ---
-description: Pooling with Ref v2's Discretized Concentrated Liquidity AMM
+description: Pooling with RHEA v2's Discretized Concentrated Liquidity AMM
 ---
 
-# Ref v2 Pools
+# RHEA v2 Pools
 
 ### Introduction
 
-Ref v2's Discretized Concentrated Liquidity (DCL) pools are based on [iZUMi Finance’s Discretized Liquidity AMM](#user-content-fn-1)[^1]. Each DCL Pool is divided into many separate bins, each of which represents a slightly different swap rate between the two tokens in the pool.&#x20;
+RHEA v2's Discretized Concentrated Liquidity (DCL) pools are based on [iZUMi Finance’s Discretized Liquidity AMM](#user-content-fn-1)[^1]. Each DCL Pool is divided into many separate bins, each of which represents a slightly different swap rate between the two tokens in the pool.&#x20;
 
-When a Liquidity Provider (LP) deposits their assets in a DCL Pool, they select a range of swap rates for which their assets can be used for swapping. In other words, their liquidity is “concentrated” within a specific range of swap rates, which is then distributed among separate, or “discrete”, bins along that range. This differs from the pools in Ref v1, where liquidity is evenly distributed throughout the curve of the constant product formula (x \* y = k).
+When a Liquidity Provider (LP) deposits their assets in a DCL Pool, they select a range of swap rates for which their assets can be used for swapping. In other words, their liquidity is “concentrated” within a specific range of swap rates, which is then distributed among separate, or “discrete”, bins along that range. This differs from the pools in RHEA v1, where liquidity is evenly distributed throughout the curve of the constant product formula (x \* y = k).
 
 <figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption><p>Liquidity Distribution in a DCL Pool</p></figcaption></figure>
 
@@ -16,7 +16,7 @@ To determine the swap rate, the exchange uses a virtual constant product curve, 
 
 <figure><img src="../../../.gitbook/assets/RefV2Distribution.png" alt=""><figcaption><p>Virtual vs Real Reserves in DL Pools</p></figcaption></figure>
 
-When a swap takes place against a DCL pool, only the LPs with assets placed within bins utilised for the swap will receive a share of the swap fees, in proportion to their share of the liquidity within those bins. This differs from the pools in Ref v1, where fees are shared among all LPs in proportion to their share of the liquidity within the entire pool. Another way Ref v2 differs is that a LP’s share of the fees is immediately allocated to them, and are not part of the pool’s liquidity.
+When a swap takes place against a DCL pool, only the LPs with assets placed within bins utilised for the swap will receive a share of the swap fees, in proportion to their share of the liquidity within those bins. This differs from the pools in RHEA v1, where fees are shared among all LPs in proportion to their share of the liquidity within the entire pool. Another way RHEA v2 differs is that a LP’s share of the fees is immediately allocated to them, and are not part of the pool’s liquidity.
 
 ### Types of DCL Strategy
 
@@ -49,7 +49,7 @@ Choose a minimum and maximum rate that your assets can be used for swaps, and th
 
 ### Claiming Swap Fees
 
-With Ref v2's DCL Pools, your share of the swap fees are immediately allocated to your account, and are not part of the pool’s liquidity. You can “claim” your share of the fees at any time, without removing any liquidity from the pool. However, adding or removing liquidity will automatically transfer any unclaimed tokens to your wallet. &#x20;
+With RHEA v2's DCL Pools, your share of the swap fees are immediately allocated to your account, and are not part of the pool’s liquidity. You can “claim” your share of the fees at any time, without removing any liquidity from the pool. However, adding or removing liquidity will automatically transfer any unclaimed tokens to your wallet. &#x20;
 
 <figure><img src="../../../.gitbook/assets/image (74).png" alt=""><figcaption><p>Clicking the "Claim" button will transfer your share of the swap fees to your wallet.</p></figcaption></figure>
 

@@ -4,7 +4,7 @@ description: From 0 to 1
 
 # Genesis
 
-Ref Finance was initially created by Illia Polosukhin, co-founder of NEAR Protocol. The first commit on Github was made on March 9, 2021.&#x20;
+RHEA Finance, (formally Ref Finance) was initially created by Illia Polosukhin, co-founder of NEAR Protocol. The first commit on Github was made on March 9, 2021.&#x20;
 
 Following the deployment of the application in April 2021, Proximity Labs, a research and development company focused on NEAR, received a grant from the NEAR Foundation to bootstrap and scale Ref Finance.
 

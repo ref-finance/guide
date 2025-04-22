@@ -1,10 +1,10 @@
 # Overview
 
-## How Ref Finance Works
+## How RHEA Finance Works
 
-Ref Finance is an open-source software.&#x20;
+RHEA Finance is an open-source software.&#x20;
 
-Inspired by Uniswap v2, Curve Finance, and iZiSwap, Ref Finance is an automated liquidity protocol powered by two constant product functions, and a discretized concentrated liquidity function:
+Inspired by Uniswap v2, Curve Finance, and iZiSwap, RHEA Finance is an automated liquidity protocol powered by two constant product functions, and a discretized concentrated liquidity function:
 
 * Swap function: x \* y = k
 * StableSwap function: χDn−1 \* ∑ xi + ∏ xi = χDn + ( D / n )n&#x20;
@@ -26,9 +26,9 @@ Rated pools document
 * Discretized Concentrated Liquidity
   * iZiSwap Discretized Concentrated Liquidity Whitepaper: [https://izumi.finance/paper/dswap.pdf](https://izumi.finance/paper/dswap.pdf)
 
-Ref Finance is implemented on the NEAR blockchain. The platform is fully permissionless and removes the need for trusted intermediaries, prioritising decentralisation and censorship resistance. Anyone can trade and/or become a liquidity provider (LP) for a pool by depositing an equivalent value of each underlying token in return for pool tokens (LP tokens). These tokens track pro-rata LP shares of the total reserves, and can be redeemed for the underlying assets at any time.
+RHEA Finance is implemented on the NEAR blockchain. The platform is fully permissionless and removes the need for trusted intermediaries, prioritising decentralisation and censorship resistance. Anyone can trade and/or become a liquidity provider (LP) for a pool by depositing an equivalent value of each underlying token in return for pool tokens (LP tokens). These tokens track pro-rata LP shares of the total reserves, and can be redeemed for the underlying assets at any time.
 
-Unlike Uniswap, Ref Finance smart contract (v2.ref-finance.near), which manages the automated market maker functions; swap and provide liquidity, contains all pairs or liquidity pools, made of reserves of two or three [NEP-141](https://nomicon.io/Standards/FungibleToken/Core) tokens ([ERC-20](https://eips.ethereum.org/EIPS/eip-20) equivalent on NEAR).
+Unlike Uniswap, RHEA Finance smart contract (v2.ref-finance.near), which manages the automated market maker functions; swap and provide liquidity, contains all pairs or liquidity pools, made of reserves of two or three [NEP-141](https://nomicon.io/Standards/FungibleToken/Core) tokens ([ERC-20](https://eips.ethereum.org/EIPS/eip-20) equivalent on NEAR).
 
 When a LP creates a new pool, the pool fee is customisable. Every pool has the same fee structure, as shown below.
 
@@ -38,14 +38,14 @@ When a LP creates a new pool, the pool fee is customisable. Every pool has the s
 
 ![](<../../.gitbook/assets/Ref Ecosystem Participants(2).jpg>)
 
-The Ref Finance ecosystem is primarily comprised of five types of users: traders, liquidity providers, stakers, lenders & borrowers, voters and developers.&#x20;
+The RHEA Finance ecosystem is primarily comprised of five types of users: traders, liquidity providers, stakers, lenders & borrowers, voters and developers.&#x20;
 
 * Traders can swap [NEP-141](https://nomicon.io/Standards/FungibleToken/Core) tokens
 * Liquidity providers are incentivised to provide these tokens to liquidity pools
 * Stakers are receiving pro-rata shares of the shared protocol revenue
 * Lenders & Borrowers can unlock the liquidity of Near Ecosystem
 * Voters can participate in the governance of the project and the allocation of liquidity incentives
-* Developers can integrate directly with Ref Finance smart contracts to empower users in their interactions with tokens, trading interfaces, trading strategies, and more
+* Developers can integrate directly with RHEA Finance smart contracts to empower users in their interactions with tokens, trading interfaces, trading strategies, and more
 
 ### Traders
 
@@ -101,7 +101,7 @@ Once the veTokenomics function is released, this feature will become accessible.
 
 ### Developers
 
-There are many ways Ref Finance can be used by developers, some examples include:
+There are many ways RHEA Finance can be used by developers, some examples include:
 
 * UX/UI experiments and front-ends built to give users access to the backend functionalities
 * Data and analytics (e.g. [https://stats.ref.finance/](https://stats.ref.finance/))
@@ -110,6 +110,6 @@ There are many ways Ref Finance can be used by developers, some examples include
 * DeFi dashboard projects (e.g. [https://app.odyssey.fi/](https://app.odyssey.fi/), [https://app.depocket.com/dashboard](https://app.depocket.com/dashboard))
 * Trading bots
 
-### Ref Finance Team and Community
+### RHEA Finance Team and Community
 
-Finally, the Ref Finance team along with the DAO (ref-finance.sputnik-dao.near) and the broader community drives development of the protocol and its ecosystem.
+Finally, the RHEA Finance team along with the DAO (ref-finance.sputnik-dao.near) and the broader community drives development of the protocol and its ecosystem.
