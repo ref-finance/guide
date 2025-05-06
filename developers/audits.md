@@ -37,7 +37,7 @@ you can find all reports at their git repo:
 
 [https://github.com/blocksecteam/audit-reports/tree/main/rust](https://github.com/blocksecteam/audit-reports/tree/main/rust)
 
-#### Burrow:
+#### Lending:
 
 {% file src="../.gitbook/assets/blocksec_burrow-margin-trading_v1.2-signed.pdf" %}
 
@@ -53,7 +53,9 @@ burrow\_v2.0 ([audit-reports/rust/blocksec\_burrow\_v2.0\_signed.pdf at main · 
 
 burrow\_v1.0 ([audit-reports/rust/blocksec\_burrow\_v1.0\_signed.pdf at main · blocksecteam/audit-reports](https://github.com/blocksecteam/audit-reports/blob/main/rust/blocksec_burrow_v1.0_signed.pdf) )
 
-#### Ref:
+#### Dex:
+
+rhea\_token\_v1.0([https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec\_rhea\_token\_v1.0-signed.pdf](https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec_rhea_token_v1.0-signed.pdf))
 
 ref\_bridge\_v1.0 ([audit-reports/rust/blocksec\_ref\_bridge\_v1.0-signed.pdf at main · blocksecteam/audit-reports](https://github.com/blocksecteam/audit-reports/blob/main/rust/blocksec_ref_bridge_v1.0-signed.pdf) )
 
