@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [RHEA Finance White Paper](rhea-finance-white-paper.md)
 * [Genesis](roadmap.md)
 * [Tokenomics](tokenomics.md)
 * [Governance](governance.md)

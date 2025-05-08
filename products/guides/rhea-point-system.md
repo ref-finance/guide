@@ -80,7 +80,7 @@ Users can earn bonus points by maintaining long-term engagement on Margin Tradin
 
 ### Supply and Borrow&#x20;
 
-<table><thead><tr><th width="184.37109375">Activity Streak</th><th width="285.75390625">Point Multiplier Applied (After 10 Days)</th><th>Point Multiplier Applied (After 20 Days)</th></tr></thead><tbody><tr><td>$100 TVL supplied for 1 day = 100 points</td><td>1.2x</td><td>1.5x</td></tr><tr><td>$100 TVL borrowed for 1 day = 100 points</td><td>1.2x</td><td>1.5x</td></tr></tbody></table>
+<table><thead><tr><th width="184.37109375">Activity Streak</th><th width="285.75390625">Point Multiplier Applied (After 10 Days)</th><th>Point Multiplier Applied (After 20 Days)</th></tr></thead><tbody><tr><td>$100 TVL supplied for 1 day = 100 points</td><td>1.2x</td><td>1.5x</td></tr><tr><td>$100 TVL borrowed for 1 day = 300 points</td><td>1.2x</td><td>1.5x</td></tr></tbody></table>
 
 ### Liquidity Provider
 
