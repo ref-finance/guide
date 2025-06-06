@@ -37,6 +37,8 @@
       * [Liquidations](products/guides/lending-and-borrowing/how-lending-and-borrowing-works/liquidations.md)
       * [Oracle](products/guides/lending-and-borrowing/how-lending-and-borrowing-works/oracle.md)
     * [Step by Step Guide](products/guides/lending-and-borrowing/step-by-step-guide.md)
+  * [Margin Trading](products/guides/margin-trading/README.md)
+    * [Guide](products/guides/margin-trading/guide.md)
   * [Trade](products/guides/swap/README.md)
     * [Swap](products/guides/swap/swap.md)
     * [Limit Orders](products/guides/swap/limit-orders.md)

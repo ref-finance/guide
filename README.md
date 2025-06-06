@@ -6,7 +6,7 @@ description: >-
 
 # Introduction
 
-![](<.gitbook/assets/Frame 1.svg>)
+<picture><source srcset=".gitbook/assets/Group 1948759187.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/Group 1948759186.png" alt="" width="369"></picture>
 
 RHEA Finance is a community-led, multi-purpose DeFi platform built on the NEAR Protocol.
 
