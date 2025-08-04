@@ -1,6 +1,6 @@
-# RHEA V2 & DCL Pools
+# Concentrated Liquidity Market Maker (CLMM)
 
-RHEA Exchange V2 was built based on the Discretized Concentrated Liquidity (DCL) pool, initially founded by Izumi Team.
+Concentrated Liquidity Market Maker (CLMM) was built based on the Discretized Concentrated Liquidity (DCL) pool, initially founded by Izumi Team.
 
 Here, we discuss some concepts and behaviors that are important for users and researchers to have a better understanding of ref-v2.
 

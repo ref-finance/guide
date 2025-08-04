@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Trade
 
 The liquidity on Ref Finance is provided by Liquidity Providers (LPs) who stake their tokens in the associated 'Pools'. In return, they receive LP (Liquidity Provider) tokens, which can be staked to earn REF and other tokens in the 'Farms'.&#x20;
