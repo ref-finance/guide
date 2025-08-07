@@ -61,6 +61,8 @@ Once Weight is calculated, it’s converted into a Farming Multiplier, which boo
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcK09JUsm53m6a0pSoXwiZeeeyL0UgYuCJCVztKYFq2N_a3BdOQBfLlAgfhbmibp3a-ejRVcZVWRswzD5ZrXZs_KLw33B3edUfFSAFkTtzuD52v6nnvfk5J0z6MMw4ScIVMGhqMTg?key=eHiEe45NobqJ6LiYnRuSDg" alt=""><figcaption></figcaption></figure>
 
+Where:
+
 * Y = user's Weight
 * boost\_suppress\_factor = 100
 * base = 2137469933345.874131511402299392
