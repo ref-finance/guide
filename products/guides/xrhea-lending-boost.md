@@ -14,11 +14,8 @@ Lock xRHEA → Earn Weight → Get Boosted Rewards
 
 The program operates in two sections:
 
-1. Weight Algorithm – Calculates your Weight based on the amount and duration of xRHEA locked.\
-   \
-
-
-Farming Multiplier – Converts your Weight into a reward boost factor.
+1. Weight Algorithm – Calculates your Weight based on the amount and duration of xRHEA locked.
+2. Farming Multiplier Algorithm – Converts your Weight into a reward boost factor.
 
 
 
