@@ -26,9 +26,6 @@ Farming Multiplier – Converts your Weight into a reward boost factor.
 
 Your Weight is determined by:
 
-* X = The amount of xRHEA locked
-* The lock duration (from 30 to 180 days)
-
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcK-zvUam_7OLgZSrZecUvTX29tv-8DFbtOY6-QNkVTB5c8GnGMUsgEs3-E2AuqxlkqffiIBH3xSXW0bhyElyJp3ysTbblAI57GFpYB0r4wmIs3eBngR-4OPKkf1v16e2PwZXFgjw?key=eHiEe45NobqJ6LiYnRuSDg" alt=""><figcaption></figcaption></figure>
 
 
@@ -36,7 +33,8 @@ Your Weight is determined by:
 Where:
 
 * Y = Weight
-* D = Lock duration (in days)
+* X = The amount of xRHEA locked
+* D = Lock duration (from 30 to 180 days)
 * D\_min = 30
 * D\_max = 180
 * M\_min = 10,000
