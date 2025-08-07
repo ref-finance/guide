@@ -65,7 +65,7 @@ Once Weight is calculated, it’s converted into a Farming Multiplier, which boo
 
 * Y = user's Weight
 * boost\_suppress\_factor = 100
-* base = 2137469933345.8741315114022993922.137469933345874131511402299392
+* base = 2137469933345.874131511402299392
 
 
 

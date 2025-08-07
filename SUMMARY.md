@@ -12,7 +12,7 @@
   * [Setup Wallet](getting-started/near-account.md)
   * [Using the Rainbow Bridge](getting-started/transfer-erc-20-assets-using-rainbow-bridge.md)
   * [Using the Platform](getting-started/using-the-platform.md)
-  * [Buy RHEA Token](getting-started/buy-rhea-token.md)
+  * [Buy RHEA Token](getting-started/buy-ref-token.md)
   * [Staying Safe](getting-started/staying-safe.md)
 
 ## RHEA Finance <a href="#products" id="products"></a>
