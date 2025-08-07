@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Team
 
 The team is composed of fifteen fulltime members, covered/paid by the Dev DAO (dao.ref-dev-team.near).

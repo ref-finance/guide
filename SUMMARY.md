@@ -4,6 +4,7 @@
 * [RHEA Finance White Paper](rhea-finance-white-paper.md)
 * [Genesis](roadmap.md)
 * [Tokenomics](tokenomics.md)
+* [RHEA Tokenomics](tokenomics-1.md)
 * [Governance](governance.md)
 * [Community](community.md)
 * [Team](team.md)
@@ -11,7 +12,7 @@
   * [Setup Wallet](getting-started/near-account.md)
   * [Using the Rainbow Bridge](getting-started/transfer-erc-20-assets-using-rainbow-bridge.md)
   * [Using the Platform](getting-started/using-the-platform.md)
-  * [Buy REF Token](getting-started/buy-ref-token.md)
+  * [Buy RHEA Token](getting-started/buy-rhea-token.md)
   * [Staying Safe](getting-started/staying-safe.md)
 
 ## RHEA Finance <a href="#products" id="products"></a>
@@ -25,6 +26,8 @@
   * [Staking](products/overview/staking.md)
   * [Aggregator Bridge](products/overview/aggregator-bridge.md)
 * [Guides](products/guides/README.md)
+  * [xRHEA Lending Boost](products/guides/xrhea-lending-boost.md)
+  * [xRHEA Lending Boost (draft)](products/guides/xrhea-lending-boost-draft.md)
   * [Lending & Borrowing](products/guides/lending-and-borrowing/README.md)
     * [Audits & Risks](products/guides/lending-and-borrowing/audits-and-risks.md)
     * [Supplying](products/guides/lending-and-borrowing/supplying.md)
@@ -50,6 +53,7 @@
   * [Farming](products/guides/farming.md)
   * [Staking](products/guides/staking.md)
   * [Aggregator Bridge](products/guides/aggregator-bridge.md)
+  * [Liquid Staking Tokens (LST)](products/guides/liquid-staking-tokens-lst.md)
   * [Vault](products/guides/vault.md)
   * [RHEA Point System](products/guides/rhea-point-system.md)
 

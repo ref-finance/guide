@@ -1,5 +1,6 @@
 ---
 description: Information about our Governance token, REF
+hidden: true
 ---
 
 # Tokenomics

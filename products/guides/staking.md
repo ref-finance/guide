@@ -1,5 +1,6 @@
 ---
 description: Protocol revenue sharing model
+hidden: true
 ---
 
 # Staking
