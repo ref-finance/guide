@@ -26,6 +26,7 @@
   * [Staking](products/overview/staking.md)
   * [Aggregator Bridge](products/overview/aggregator-bridge.md)
 * [Guides](products/guides/README.md)
+  * [RHEA Point System Season 2](products/guides/rhea-point-system-season-2.md)
   * [xRHEA Lending Boost](products/guides/xrhea-lending-boost.md)
   * [xRHEA Lending Boost (draft)](products/guides/xrhea-lending-boost-draft.md)
   * [Lending & Borrowing](products/guides/lending-and-borrowing/README.md)
@@ -55,7 +56,7 @@
   * [Aggregator Bridge](products/guides/aggregator-bridge.md)
   * [Liquid Staking Tokens (LST)](products/guides/liquid-staking-tokens-lst.md)
   * [Vault](products/guides/vault.md)
-  * [RHEA Point System](products/guides/rhea-point-system.md)
+  * [RHEA Point System (Season 1 Done)](products/guides/rhea-point-system-season-1-done.md)
 
 ## SECURITY <a href="#developers" id="developers"></a>
 

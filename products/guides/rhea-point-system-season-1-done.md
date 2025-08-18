@@ -1,4 +1,8 @@
-# RHEA Point System
+---
+hidden: true
+---
+
+# RHEA Point System (Season 1 Done)
 
 ## **Introduction**
 
