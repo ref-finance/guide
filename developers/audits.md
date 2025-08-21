@@ -89,6 +89,10 @@ ref\_finance\_exchange\_v2.0 ([audit-reports/rust/blocksec\_ref\_finance\_exchan
 
 ref\_finance\_exchange\_v1.0 ([audit-reports/rust/blocksec\_ref\_finance\_exchange\_v1.0\_signed.pdf at main · blocksecteam/audit-reports](https://github.com/blocksecteam/audit-reports/blob/main/rust/blocksec_ref_finance_exchange_v1.0_signed.pdf) )
 
+#### LST-rNear
+
+{% file src="../.gitbook/assets/blocksec_Rhea_rNEAR_V1.0-signed.pdf" %}
+
 ### SigmaPrime <a href="#sigmaprime" id="sigmaprime"></a>
 
 burrow:
