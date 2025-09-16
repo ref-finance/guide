@@ -28,6 +28,7 @@
 * [Guides](products/guides/README.md)
   * [RHEA Point System Season 2](products/guides/rhea-point-system-season-2.md)
   * [Liquid Staking Tokens (LST)](products/guides/liquid-staking-tokens-lst.md)
+  * [xRHEA Farming Boost](products/guides/xrhea-farming-boost.md)
   * [xRHEA Lending Boost](products/guides/xrhea-lending-boost.md)
   * [Lending & Borrowing](products/guides/lending-and-borrowing/README.md)
     * [Audits & Risks](products/guides/lending-and-borrowing/audits-and-risks.md)
@@ -57,6 +58,7 @@
   * [Vault](products/guides/vault.md)
   * [xRHEA Lending Boost (draft)](products/guides/xrhea-lending-boost-draft.md)
   * [RHEA Point System (Season 1 Done)](products/guides/rhea-point-system-season-1-done.md)
+  * [Untitled](products/guides/untitled.md)
 
 ## SECURITY <a href="#developers" id="developers"></a>
 

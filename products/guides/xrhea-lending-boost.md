@@ -6,7 +6,7 @@ xRHEA Lending Boost allows users to lock xRHEA tokens in exchange for boosted in
 
 Note: Boost only affects incentive rewards. It does not impact base lending interest rates.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-08-05 at 9.08.41 PM.png" alt="" width="563"><figcaption><p> <a href="https://t.co/Bk0wJfmeZ8">xRHEA Lending Boost</a> interface with boost ratio range and lock-up period up to 6 months</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-09-15 at 5.54.28 PM.png" alt=""><figcaption><p> <a href="https://t.co/Bk0wJfmeZ8">xRHEA Lending Boost</a> interface with boost ratio range and lock-up period up to 6 months</p></figcaption></figure>
 
 ### How it works
 
