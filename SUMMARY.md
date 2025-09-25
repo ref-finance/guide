@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [RHEA Finance White Paper](rhea-finance-white-paper.md)
+* [RHEA Mica Whitepaper](rhea-mica-whitepaper.md)
 * [Genesis](roadmap.md)
 * [Tokenomics](tokenomics.md)
 * [RHEA Tokenomics](tokenomics-1.md)
