@@ -1,4 +1,8 @@
-# RHEA Point System Season 2
+---
+hidden: true
+---
+
+# Copy of RHEA Point System Season 2 done (with lending borrow LP)
 
 ## **Introduction**
 
@@ -35,7 +39,29 @@ Users earn points through token swaps, using the [aggregator bridge](https://dex
 
 
 
+### 2. Liquidity Pool
 
+Users earn points by supplying assets to liquidity pools or borrowing assets.
+
+#### Lending & Borrowing Rewards
+
+| Action                    | Point Calculation | Rules                |
+| ------------------------- | ----------------- | -------------------- |
+| Supply $100 TVL for 1 Day | 50 Points         | Receives Point Daily |
+| Borrow $100 TVL for 1 Day | 100 Points        | Receives Point Daily |
+
+> \*Note: Minimum deposit & borrow is $100 per transaction, no points for amounts below $100
+
+#### Liquidity Pool Contributions
+
+| Liquidity Pool      | Point Calculation                             | Boosted Pools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ------------------- | --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| $100 TVL in Pool    | 50 points per day                             | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| $10,000 TVL in Pool | 5000 Points per day + 5% Boost = 5250 Points  | <p></p><p>Applies to Selected Pool Tokens:<br></p><ul><li><a href="https://app.rhea.finance/pool/6458">RHEA–NEAR</a></li><li><a href="https://app.rhea.finance/pool/4512">USDC–NEAR</a></li><li><a href="https://app.rhea.finance/sauce/5949">nBTC-NEAR</a></li><li><a href="https://app.rhea.finance/pool/4276">BlackDragon-NEAR</a></li><li><a href="https://app.rhea.finance/pools?activeTab=stable">Stable Pools </a></li><li><a href="https://app.rhea.finance/pool/6503">PUBLIC-NEAR</a></li><li><a href="https://app.rhea.finance/poolV2/17208628f84f5d6ad33f0da3bbbeb27ffcb398eac501a31bd6ad2011e36133a1%3C%3Etoken.rhealab.near@100">RHEA-USDC </a></li></ul><ul><li><a href="https://app.rhea.finance/pool/5154">NEAR-WBNB </a></li><li><a href="https://app.rhea.finance/sauce/6494">rNEAR-NEAR</a></li><li>wBTC Pools </li></ul> |
+
+
+
+> Note: Locked LP from users will not count toward points as Locked LP is intended for LP deployers to utilize the feature and provide a sense of safety for the community.
 
 ### 3. Community Points
 
@@ -63,7 +89,9 @@ Users can earn bonus points by maintaining long-term engagement on Margin Tradin
 
 <table><thead><tr><th width="345.86328125">Activity Streak</th><th>Point Multiplier Applied</th><th data-hidden></th></tr></thead><tbody><tr><td>15 consecutive days of trades</td><td>1.2x every future trades</td><td></td></tr><tr><td>30 consecutive days of trades</td><td>1.5x every future trades</td><td></td></tr><tr><td>60 consecutive days of trades</td><td>2x every future trades</td><td></td></tr></tbody></table>
 
+### Supply and Borrow&#x20;
 
+<table><thead><tr><th width="147.7451171875">Activity Streak</th><th width="285.75390625">Point Multiplier Applied (After 30 Days)</th><th>Point Multiplier Applied (After 60 Days)</th></tr></thead><tbody><tr><td>$100 TVL supplied for 1 day = 50 points</td><td>1.2x</td><td>1.5x</td></tr><tr><td>$100 TVL borrowed for 1 day = 100 points</td><td>1.2x</td><td>1.5x</td></tr></tbody></table>
 
 ### Liquidity Provider
 

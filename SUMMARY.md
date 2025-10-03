@@ -55,6 +55,7 @@
     * [RHEA v2 Pools](products/guides/liquidity-management/rhea-v2-pools.md)
   * [Farming](products/guides/farming.md)
   * [Aggregator Bridge](products/guides/aggregator-bridge.md)
+  * [Copy of RHEA Point System Season 2 done (with lending borrow LP)](products/guides/copy-of-rhea-point-system-season-2-done-with-lending-borrow-lp.md)
   * [Staking](products/guides/staking.md)
   * [Vault](products/guides/vault.md)
   * [xRHEA Lending Boost (draft)](products/guides/xrhea-lending-boost-draft.md)
