@@ -30,14 +30,14 @@ Users earn points through token swaps, using the [aggregator bridge](https://dex
 *   A $1,000 total swap in Selected Pool Tokens:
 
     * Base points: **= 100 points**
-    * **20% boost** for $1,000+ swap = **20 points**
+    * **20% boost** for $1,000 swap = **20 points**
     * **Total: 120 points**
 
 
 
-### 2. Liquidity Pool
+### 2. Lending
 
-Users earn points by supplying assets to liquidity pools or borrowing selected assets.
+Users earn points by supplying or borrowing selected assets.
 
 <table><thead><tr><th>Supply (Points per $100)</th><th width="205.69921875">Borrow (Points per $100)</th><th>Assets</th></tr></thead><tbody><tr><td>50 pts</td><td>50 pts</td><td><a href="https://app.rhea.finance/tokenDetail/xtoken.rhealab.near?pageType=main">xRHEA</a>, <a href="https://app.rhea.finance/tokenDetail/17208628f84f5d6ad33f0da3bbbeb27ffcb398eac501a31bd6ad2011e36133a1?pageType=main">USDC</a>, <a href="https://app.rhea.finance/tokenDetail/usdt.tether-token.near?pageType=main">USDt</a>, <a href="https://app.rhea.finance/tokenDetail/lst.rhealab.near?pageType=main">rNEAR</a>, <a href="https://app.rhea.finance/tokenDetail/6b175474e89094c44da98b954eedeac495271d0f.factory.bridge.near?pageType=main">DAI</a></td></tr><tr><td>25 pts</td><td>50 pts</td><td><a href="https://app.rhea.finance/tokenDetail/nbtc.bridge.near?pageType=main">nBTC</a>, <a href="https://app.rhea.finance/tokenDetail/zec.omft.near?pageType=main">ZEC</a>, <a href="https://app.rhea.finance/tokenDetail/wrap.near?pageType=main">NEAR</a>, <a href="https://app.rhea.finance/tokenDetail/853d955acef822db058eb8505911ed77f175b99e.factory.bridge.near?pageType=main">FRAX</a>, <a href="https://app.rhea.finance/tokenDetail/eth.bridge.near?pageType=main">ETH</a></td></tr></tbody></table>
 
@@ -73,7 +73,7 @@ Users can earn bonus points by maintaining long-term engagement on Margin Tradin
 
 ### Supply and Borrow&#x20;
 
-<table><thead><tr><th width="147.7451171875">Activity Streak</th><th width="285.75390625">Point Multiplier Applied (After 30 Days)</th><th>Point Multiplier Applied (After 60 Days)</th></tr></thead><tbody><tr><td>$100 TVL supplied for 1 day = 50 points</td><td>1.2x</td><td>1.5x</td></tr><tr><td>$100 TVL borrowed for 1 day = 50 points</td><td>1.0x</td><td>1.5x</td></tr></tbody></table>
+<table><thead><tr><th width="147.7451171875">Activity Streak</th><th width="285.75390625">Point Multiplier Applied (After 30 Days)</th><th>Point Multiplier Applied (After 60 Days)</th></tr></thead><tbody><tr><td>$100 TVL supplied for 1 day = 25 points</td><td>1.2x</td><td>1.5x</td></tr><tr><td>$100 TVL borrowed for 1 day = 50 points</td><td>1.2x</td><td>1.5x</td></tr></tbody></table>
 
 
 
