@@ -73,11 +73,11 @@ Users can earn bonus points by maintaining long-term engagement on Margin Tradin
 
 ### Supply and Borrow&#x20;
 
-<table><thead><tr><th width="147.7451171875">Activity Streak</th><th width="285.75390625">Point Multiplier Applied (After 30 Days)</th><th>Point Multiplier Applied (After 60 Days)</th></tr></thead><tbody><tr><td>$100 TVL supplied for 1 day = 25 points</td><td>1.2x</td><td>1.5x</td></tr><tr><td>$100 TVL borrowed for 1 day = 50 points</td><td>1.2x</td><td>1.5x</td></tr></tbody></table>
+<table><thead><tr><th width="439.80645751953125">Activity Streak</th><th width="388.8056640625" align="center">Point Multiplier Applied </th></tr></thead><tbody><tr><td>30 consecutive days of  $100+ TVL in Supply or Borrow</td><td align="center">1.2x (After 30 Days)</td></tr><tr><td>60 consecutive days of  $100+ TVL in Supply or Borrow</td><td align="center">1.5x (After 60 Days)</td></tr></tbody></table>
 
 
 
 ### Liquidity Provider
 
-<table><thead><tr><th width="388.6396484375">Activity Streak</th><th>Point Multiplier Applied (After 30 Days)</th></tr></thead><tbody><tr><td>$100 LP supplied for 1 day = 100 points</td><td>1.2x</td></tr></tbody></table>
+<table><thead><tr><th width="440.23272705078125">Activity Streak</th><th align="center">Point Multiplier Applied</th></tr></thead><tbody><tr><td>30 consecutive days of $100+ in LP Supply</td><td align="center">1.2x (After 30 Days)</td></tr></tbody></table>
 
