@@ -30,4 +30,4 @@ RHEA Finance's Legendary Mods:
 | Rim      | @rimberjack     |
 | Sanket   | @SanketN81      |
 
-Fore more details on how to contribute, please see our [Community section](community.md).
+Fore more details on how to contribute, please see our [Community section](community/official-links.md).

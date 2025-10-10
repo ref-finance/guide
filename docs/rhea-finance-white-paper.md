@@ -10,7 +10,7 @@ Rhea now serves as the primary liquidity hub and chain-abstracted liquidity laye
 
 ## Products and Services
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Rhea is not just a rebrand — it's a product to showcase NEAR Protocol’s core infrastructure and technical innovation.
 

@@ -4,6 +4,20 @@ description: The wallet allows you to interact with the NEAR blockchain
 
 # Setup Wallet
 
+## **Using Hot Wallet**
+
+HOT Wallet — a multichain wallet seamlessly integrating both EVM and non-EVM blockchains.
+
+Download the browser extension: [https://hot-labs.org/wallet/](https://hot-labs.org/wallet/)
+
+## **Using Meteor** Wallet
+
+A powerful, self-custody wallet built to connect you to the decentralized web — safely and securely
+
+Get Started: [https://meteorwallet.app/](https://meteorwallet.app/)&#x20;
+
+
+
 ## **Using My**Near Wallet
 
 The MyNear Wallet is a non-custodial, web-based wallet for the NEAR blockchain.&#x20;

@@ -1,8 +1,23 @@
-# Overview
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
 
-## How RHEA Finance Works
+# How RHEA Finance Works
 
-RHEA Finance is an open-source software.&#x20;
+### RHEA Finance is an open-source software.&#x20;
 
 Inspired by Uniswap v2, Curve Finance, and iZiSwap, RHEA Finance is an automated liquidity protocol powered by two constant product functions, and a discretized concentrated liquidity function:
 

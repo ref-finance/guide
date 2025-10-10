@@ -1,8 +1,4 @@
----
-description: Our community is strong, and growing
----
-
-# Community
+# Official Links
 
 Where you can find and engage with us.
 

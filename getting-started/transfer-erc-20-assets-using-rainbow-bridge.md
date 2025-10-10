@@ -1,5 +1,6 @@
 ---
 description: Transfer tokens between Ethereum, NEAR and Aurora networks
+hidden: true
 ---
 
 # Using the Rainbow Bridge

@@ -1,9 +1,8 @@
 ---
 description: From 0 to 1
-hidden: true
 ---
 
-# Copy of History
+# Genesis
 
 RHEA Finance, (formally Ref Finance) was initially created by Illia Polosukhin, co-founder of NEAR Protocol. The first commit on Github was made on March 9, 2021.&#x20;
 

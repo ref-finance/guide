@@ -1,45 +1,18 @@
----
-description: Audit reports for the Ref Finance platform
----
+# Previous Audits
 
-# Audits
+### SigmaPrime <a href="#sigmaprime" id="sigmaprime"></a>
 
-Ref Finance is currenlty being audited.
+Smart Contract
 
-## Jita
+{% file src="../../.gitbook/assets/Sigma_Prime_NEAR_Burrowland_Security_Assessment_Report_v2.0.pdf" %}
 
-Auditor: Jita
 
-Website: [https://jitadigital.com/](https://jitadigital.com/)
 
-Date: February - June 2022
-
-Status: Completed
-
-Scope:
-
-* Ref Exchange: v2.ref-finance.near
-* Ref Farming: v2.ref-farming.near
-
-First Report:
-
-{% file src="../.gitbook/assets/Ref Finance Security Audit-1.pdf" %}
-
-Second Report:
-
-{% file src="../.gitbook/assets/Ref Finance Security Audit-2.pdf" %}
-
-## BlockSec
-
-### BlockSec <a href="#blocksec" id="blocksec"></a>
+### Blocksec
 
 you can find all reports at their git repo:
 
 [https://github.com/blocksecteam/audit-reports/tree/main/rust](https://github.com/blocksecteam/audit-reports/tree/main/rust)
-
-#### Lending:
-
-{% file src="../.gitbook/assets/blocksec_burrow-margin-trading_v1.2-signed.pdf" %}
 
 burrow-margin-trading\_v1.0 ([audit-reports/rust/blocksec\_burrow\_margin\_trade\_v1.0-signed.pdf at main · blocksecteam/audit-reports](https://github.com/blocksecteam/audit-reports/blob/main/rust/blocksec_burrow_margin_trade_v1.0-signed.pdf) )
 
@@ -89,22 +62,28 @@ ref\_finance\_exchange\_v2.0 ([audit-reports/rust/blocksec\_ref\_finance\_exchan
 
 ref\_finance\_exchange\_v1.0 ([audit-reports/rust/blocksec\_ref\_finance\_exchange\_v1.0\_signed.pdf at main · blocksecteam/audit-reports](https://github.com/blocksecteam/audit-reports/blob/main/rust/blocksec_ref_finance_exchange_v1.0_signed.pdf) )
 
-#### LST-rNear
 
-{% file src="../.gitbook/assets/blocksec_Rhea_rNEAR_V1.0-signed.pdf" %}
 
-### SigmaPrime <a href="#sigmaprime" id="sigmaprime"></a>
+## Jita
 
-burrow:
+Auditor: Jita
 
-{% file src="../.gitbook/assets/Sigma_Prime_NEAR_Burrowland_Security_Assessment_Report_v2.0.pdf" %}
+Website: [https://jitadigital.com/](https://jitadigital.com/)
 
-### trailofbit <a href="#trailofbit" id="trailofbit"></a>
+Date: February - June 2022
 
-ref:
+Status: Completed
 
-{% file src="../.gitbook/assets/Ref_Finance_DeFi_Protocol_Smart_Contracts_Final_Comprehensive_Report.pdf" %}
+Scope:
 
-## Bug Bounty
+* Ref Exchange: v2.ref-finance.near
+* Ref Farming: v2.ref-farming.near
 
-{% embed url="https://immunefi.com/bug-bounty/reffinance/" %}
+First Report:
+
+{% file src="../../.gitbook/assets/Ref Finance Security Audit-1.pdf" %}
+
+Second Report:
+
+{% file src="../../.gitbook/assets/Ref Finance Security Audit-2.pdf" %}
+

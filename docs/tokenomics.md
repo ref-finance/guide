@@ -27,7 +27,7 @@ All value accrual mechanisms, fees, and growth are ultimately directed to $RHEA 
 
 ## **Token Distribution Breakdown**
 
-<figure><img src=".gitbook/assets/q.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/q.png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="261.2851934609063">Categories</th><th width="150">Allocation</th></tr></thead><tbody><tr><td>Team &#x26; Advisors</td><td>11.80%</td></tr><tr><td>REF and BRRR Conversion</td><td>37.00%</td></tr><tr><td>Airdrop and Incentives</td><td>30.60%</td></tr><tr><td>Liquidity Provision</td><td>8.60%</td></tr><tr><td>Marketing</td><td>6.00%</td></tr><tr><td>Token Operation Treasury</td><td>6.00%</td></tr><tr><td>Total</td><td>100.00%</td></tr></tbody></table>
 
@@ -43,7 +43,7 @@ This ensures full alignment with the protocol’s long-term success and communit
 * **Strengthens protocol credibility and investor trust**
 * **Signals strong, long-term commitment from the core team**
 
-<figure><img src=".gitbook/assets/6060063829930396310 1.png" alt=""><figcaption><p>Vesting schedule up to 36 months</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/6060063829930396310 1.png" alt=""><figcaption><p>Vesting schedule up to 36 months</p></figcaption></figure>
 
 
 

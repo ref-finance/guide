@@ -14,12 +14,12 @@ We will **NEVER**:
 
 ❌ Ask you for your private key or recovery phrase&#x20;
 
-​If you're having trouble, please contact us directly via our [official social channels](../community.md).
+​If you're having trouble, please contact us directly via our [official social channels](../community/official-links.md).
 
-## ALWAYS use Ref Finance verified domains <a href="#always-use-trader-joe-verified-domains" id="always-use-trader-joe-verified-domains"></a>
+## ALWAYS use RHEA Finance verified domains <a href="#always-use-trader-joe-verified-domains" id="always-use-trader-joe-verified-domains"></a>
 
 Bookmark: [https://www.rhea.finance/](https://www.rhea.finance/)
 
-If you ever have any doubt of the URL, please use our linked URL on the official Ref Finance Twitter profile or alternatively, reach out to a Moderator in our [official social channels](../community.md).
+If you ever have any doubt of the URL, please use our linked URL on the official Ref Finance Twitter profile or alternatively, reach out to a Moderator in our [official social channels](../community/official-links.md).
 
 If you believe that you have been scammed, please report it to one of our moderators.
