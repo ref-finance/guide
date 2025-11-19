@@ -1,10 +1,10 @@
 ---
-description: Multi-chain Account Whitepaper
+description: Cross-chain Account Whitepaper
 ---
 
-# RHEA Finance Multi-Chain Lending Litepaper
+# RHEA Finance Cross-Chain Lending Litepaper
 
-This is a NEAR blockchain-based multichain account protocol solution designed to provide NEAR ecosystem applications with the capability to extend to multichain business operations. It doesn't rely on any side-chain or light client entities, but leveraging the abiltity of on-chain signture verification on NEAR network.
+This is a NEAR blockchain-based Cross-Chain account protocol solution designed to provide NEAR ecosystem applications with the capability to extend to crosschain business operations. It doesn't rely on any side-chain or light client entities, but leveraging the abiltity of on-chain signture verification on NEAR network.
 
 The core of the protocol is to dynamically deploy an McA contract on the NEAR chain for each user, linking the user's wallet addresses or public keys across various chains. Around this core, the protocol also provides a series of components and services that enable:
 
@@ -12,7 +12,7 @@ On one hand, users can manipulate their dedicated McA contracts to interact with
 
 On the other hand, users can bridge assets between their McA contracts and wallets through any asset bridge, and even execute related business operations in a one-click manner through message asset bridges (such as Near Intents) while performing cross-chain asset transfers.
 
-As an example usecase, we make Rhea Burrow to a multichain lending protocol on top of our multichain account system.
+As an example usecase, we make Rhea Burrow to a crosschain lending protocol on top of our crosschain account system.
 
 ### Related Technologies <a href="#related-technologies" id="related-technologies"></a>
 
@@ -31,8 +31,8 @@ Message asset bridges enable message passing along with the asset bridging. This
 ### Component Architecture <a href="#component-architecture" id="component-architecture"></a>
 
 * Account Management (AM) contract
-* Multichain Account (McA) contract
-* MultiChain Account Frontend
+* Crosschain Account (McA) contract
+* CrossChain Account Frontend
 * User native wallet
 * Signed Business Relayer (SBR)
 * Near Intents
@@ -40,14 +40,14 @@ Message asset bridges enable message passing along with the asset bridging. This
 
 #### AM <a href="#am" id="am"></a>
 
-The Account Manager is the registry and factory for Multichain Accounts. It maintains wallet-to-McA mappings and manages configuration.\
+The Account Manager is the registry and factory for Crosschain Accounts. It maintains wallet-to-McA mappings and manages configuration.\
 It's also the deploy point under which the upgradable McA global contract is published globally.
 
 In onboarding period, new users access AM via Near Intents, to actually create their McA contracts. And if any bridged token leftover, AM will pass it to the newly created McA with possible business message along with the bridging.
 
 #### McA <a href="#mca" id="mca"></a>
 
-Each Multichain Account is an individual smart contract refered from the same NEAR Global Contract deployed on AM account. It can be upgraded by the management DAO, and applied immediately to all McA.
+Each Crosschain Account is an individual smart contract refered from the same NEAR Global Contract deployed on AM account. It can be upgraded by the management DAO, and applied immediately to all McA.
 
 It records user wallets information (on-chain storage), so has the ability to verify user signature on those actions. Therefore, MCA can securely execute business actions signed by the user's linked wallets.
 
@@ -61,7 +61,7 @@ Another intersting feature on McA is that, it supports aliases of those reliable
 
 Besides the basic duties as a wallet, such as showing user's assets in McA, fetching user data from any NEAR dApps, Frontend is mainly responsible for building business actions, having users sign on business message through wallets, passing the signed message to AM or McA via relayers or some message asset bridge. It also responsible for waiting and parsing business execution results for users.
 
-Frontend is actually a public role. Anyone can build their own frontend to access the Multichain Account system.
+Frontend is actually a public role. Anyone can build their own frontend to access the Crosschain Account system.
 
 #### User Native Wallet <a href="#user-native-wallet" id="user-native-wallet"></a>
 
@@ -71,7 +71,7 @@ Such as metamask, phantom and etc, those wallets are used for signing business m
 
 Relayer submits user-signed business messages to their corresponding McAs on-chain. It's an public role, and anyone can build their own relayers, especially to cooperate with their own frontend.
 
-As McA has implemented Near Intents OnAuth interface, the Auth pure message delivery service can also be taken as a public SBR for Multichain Account system.
+As McA has implemented Near Intents OnAuth interface, the Auth pure message delivery service can also be taken as a public SBR for Crosschain Account system.
 
 #### Near Intents <a href="#near-intents" id="near-intents"></a>
 

@@ -78,7 +78,7 @@
 * [RHEA Tokenomics](docs/tokenomics.md)
 * [RHEA Mica Whitepaper](docs/rhea-mica-whitepaper.md)
 * [RHEA Finance White Paper](docs/rhea-finance-white-paper.md)
-* [RHEA Finance Multi-Chain Lending Litepaper](docs/rhea-finance-multi-chain-lending-litepaper.md)
+* [RHEA Finance Cross-Chain Lending Litepaper](docs/rhea-finance-cross-chain-lending-litepaper.md)
 
 ## SUPPORT
 
