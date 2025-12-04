@@ -66,6 +66,7 @@
 * [Audits](developers/audits/README.md)
   * [Previous Audits](developers/audits/previous-audits.md)
 * [Bug Bounty](developers/bug-bounty.md)
+* [Incident Response Plan and Escalation Procedures](developers/incident-response-plan-and-escalation-procedures.md)
 
 ## DEVELOPERS
 
