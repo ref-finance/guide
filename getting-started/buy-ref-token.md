@@ -2,13 +2,21 @@
 
 ## DEX Routes
 
+CA on Binance Smart Chain&#x20;
+
+* 0x4c067DE26475E1CeFee8b8d1f6E2266b33a2372E
+
+CA on NEAR Protocol&#x20;
+
+* token.rhealab.near
+
 ### RHEA Finance
 
 Link: [https://app.rhea.finance/swap](https://app.rhea.finance/swap)
 
-Trading Pair includes a wide range of assets including $NEAR, $USDT,  $USDC, $DAI, $ZEC and more.
+### Pancake Swap
 
-
+Link: [https://bit.ly/3YIKlJr](https://bit.ly/3YIKlJr)&#x20;
 
 ### GemPump
 
@@ -21,6 +29,33 @@ Trading pair:
 
 
 ## CEX Routes
+
+
+
+### **Binance Alpha**&#x20;
+
+Link: [https://www.binance.com/en/alpha/bsc/0x4c067de26475e1cefee8b8d1f6e2266b33a2372e](https://www.binance.com/en/alpha/bsc/0x4c067de26475e1cefee8b8d1f6e2266b33a2372e)&#x20;
+
+### GATE US&#x20;
+
+Link: [https://www.gate.com/en-us/trade/RHEA\_USDT](https://www.gate.com/en-us/trade/RHEA_USDT)&#x20;
+
+### Bitget
+
+Link: [https://www.bitget.com/spot/RHEAUSDT?utmSource=Twitter](https://www.bitget.com/spot/RHEAUSDT?utmSource=Twitter)
+
+Trading pair:
+
+* RHEA <> USDT
+
+### Kraken
+
+Link: [app.kraken.com/JDNW/RHEA](https://t.co/o3pTff1xQQ)
+
+Trading pair:
+
+* RHEA <> USD
+* RHEA <> EUR&#x20;
 
 ### Gate io
 
@@ -38,16 +73,6 @@ Trading pair:
 
 * RHEA <> USDT
 
-### Bitget
-
-Link: [https://www.bitget.com/spot/RHEAUSDT?utmSource=Twitter](https://www.bitget.com/spot/RHEAUSDT?utmSource=Twitter)
-
-Trading pair:
-
-* RHEA <> USDT
-
-
-
 ### LBank
 
 Link: [https://www.lbank.com/trade/rhea\_usdt](https://www.lbank.com/trade/rhea_usdt)
@@ -55,8 +80,6 @@ Link: [https://www.lbank.com/trade/rhea\_usdt](https://www.lbank.com/trade/rhea_
 Trading pair:
 
 * RHEA <> USDT
-
-
 
 ### Ourbit
 
@@ -66,8 +89,6 @@ Trading pair:
 
 * RHEA <> USDT
 
-
-
 ### BitMart
 
 Link: [https://www.bitmart.com/trade/en-US?symbol=RHEA\_USDT](https://www.bitmart.com/trade/en-US?symbol=RHEA_USDT)
@@ -76,8 +97,6 @@ Trading pair:
 
 * RHEA <> USDT
 
-
-
 ### Bingx
 
 Link: [https://bingx.com/en/spot/RHEAUSDT](https://bingx.com/en/spot/RHEAUSDT)
@@ -85,18 +104,6 @@ Link: [https://bingx.com/en/spot/RHEAUSDT](https://bingx.com/en/spot/RHEAUSDT)
 Trading pair:
 
 * RHEA <> USDT
-
-
-
-### Woox
-
-Link: [https://woox.io/en/trade/RHEA\_USDT](https://woox.io/en/trade/RHEA_USDT)
-
-Trading pair:
-
-* RHEA <> USDT
-
-
 
 ### HIBT
 

@@ -12,19 +12,19 @@ Built on NEAR’s fast and low-cost infrastructure, RHEA enables seamless swaps,
 
 ## Quick Links&#x20;
 
-<table data-view="cards"><thead><tr><th align="center"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Explore RHEA</strong></td><td>Dive into the user guides for each RHEA product and feature. </td><td><a href=".gitbook/assets/Frame 1597880039 (1).png">Frame 1597880039 (1).png</a></td><td><a href="guides/">guides</a></td></tr><tr><td align="center"><strong>Build with RHEA</strong></td><td>Check out developer resources to start integrating RHEA or building on the platform.</td><td><a href=".gitbook/assets/Frame 1597880040 (1).png">Frame 1597880040 (1).png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td align="center"><strong>Join the Community</strong></td><td>Connect with other users and the RHEA team on Discord</td><td><a href=".gitbook/assets/Frame 1597880041 (1).png">Frame 1597880041 (1).png</a></td><td><a href="community/official-links.md">official-links.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Explore RHEA</strong></td><td>Dive into the user guides for each RHEA product and feature. </td><td><a href=".gitbook/assets/Frame 1597880039 (1).png">Frame 1597880039 (1).png</a></td><td><a href="near-chain-guides/">near-chain-guides</a></td></tr><tr><td align="center"><strong>Build with RHEA</strong></td><td>Check out developer resources to start integrating RHEA or building on the platform.</td><td><a href=".gitbook/assets/Frame 1597880040 (1).png">Frame 1597880040 (1).png</a></td><td><a href="/broken/pages/P25JfkJv8ybgeJowiaFS">Broken link</a></td></tr><tr><td align="center"><strong>Join the Community</strong></td><td>Connect with other users and the RHEA team on Discord</td><td><a href=".gitbook/assets/Frame 1597880041 (1).png">Frame 1597880041 (1).png</a></td><td><a href="community/official-links.md">official-links.md</a></td></tr></tbody></table>
 
 ## Overview of RHEA Finance&#x20;
 
-{% content-ref url="guides/how-rhea-finance-works/" %}
-[how-rhea-finance-works](guides/how-rhea-finance-works/)
+{% content-ref url="near-chain-guides/how-rhea-finance-works/" %}
+[how-rhea-finance-works](near-chain-guides/how-rhea-finance-works/)
 {% endcontent-ref %}
 
-{% content-ref url="guides/how-rhea-finance-works/auto-router.md" %}
-[auto-router.md](guides/how-rhea-finance-works/auto-router.md)
+{% content-ref url="near-chain-guides/how-rhea-finance-works/auto-router.md" %}
+[auto-router.md](near-chain-guides/how-rhea-finance-works/auto-router.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/how-rhea-finance-works/multi-chain-router.md" %}
-[multi-chain-router.md](guides/how-rhea-finance-works/multi-chain-router.md)
+{% content-ref url="near-chain-guides/how-rhea-finance-works/multi-chain-router.md" %}
+[multi-chain-router.md](near-chain-guides/how-rhea-finance-works/multi-chain-router.md)
 {% endcontent-ref %}
 
