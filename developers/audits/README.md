@@ -48,7 +48,13 @@ Report
 
 {% file src="../../.gitbook/assets/blocksec_burrow-margin-trading_v1.2-signed.pdf" %}
 
+### RHEA X Chain Lending and Trading  <a href="#trailofbit" id="trailofbit"></a>
 
+{% file src="../../.gitbook/assets/Audit_Report_RHEA-MCA_FINAL_21.pdf" %}
+
+{% file src="../../.gitbook/assets/Audit_Report_RHEA-ZTV_FINAL_21.pdf" %}
+
+{% file src="../../.gitbook/assets/Audit_Report_RHEA-LSP_FINAL_21.pdf" %}
 
 ### Smart Contract <a href="#trailofbit" id="trailofbit"></a>
 
