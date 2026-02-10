@@ -61,17 +61,25 @@ To address this, **Credit** is introduced as a new, daily-based redemption unit 
 | ≥ 80                | 3 Credits     |
 | ≥ 160               | 4 Credits     |
 
+Regarding the RHEA Credit Doc. Below are the suggestion for the changes.\
+([https://guide.rhea.finance/x-chain-guides/rhea-credits#daily-points-credit-mapping](https://guide.rhea.finance/x-chain-guides/rhea-credits#daily-points-credit-mapping))
+
 **Notes:**
 
 * Thresholds increase exponentially
-* Extra points beyond a tier do not increase daily Credit
-* Credit gain is capped per day
+* Only tiers successfully reached within the same day are counted toward that day’s Credit total.
+* Credits are earned daily based on achieved tiers, not capped at a fixed maximum.
+* Each new tier requires approximately double the trading volume of the previous tier.
+* Daily Credit calculation resets every day, but total Credits accumulate across the season.
 
 **Examples:**
 
+* 10 Points → 0 Credits
 * 45 Points → 2 Credits
 * 160 Points → 4 Credits
-* 10 Points → 0 Credits
+* ...
+* 2560 Points → 8 Credits
+* ...
 
 ***
 
