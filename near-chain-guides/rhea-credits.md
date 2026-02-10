@@ -61,9 +61,6 @@ To address this, **Credit** is introduced as a new, daily-based redemption unit 
 | ≥ 80                | 3 Credits     |
 | ≥ 160               | 4 Credits     |
 
-Regarding the RHEA Credit Doc. Below are the suggestion for the changes.\
-([https://guide.rhea.finance/x-chain-guides/rhea-credits#daily-points-credit-mapping](https://guide.rhea.finance/x-chain-guides/rhea-credits#daily-points-credit-mapping))
-
 **Notes:**
 
 * Thresholds increase exponentially
