@@ -25,6 +25,7 @@
       * [Interest Rate Model](x-chain-guides/lending-and-borrowing/how-lending-and-borrowing-works/interest-rate-model.md)
       * [Liquidations](x-chain-guides/lending-and-borrowing/how-lending-and-borrowing-works/liquidations.md)
       * [Oracle](x-chain-guides/lending-and-borrowing/how-lending-and-borrowing-works/oracle.md)
+      * [Lending & Borrow Market Limits](x-chain-guides/lending-and-borrowing/how-lending-and-borrowing-works/lending-and-borrow-market-limits.md)
     * [Step by Step Guide](x-chain-guides/lending-and-borrowing/step-by-step-guide.md)
   * [Liquidity Pools](x-chain-guides/liquidity-pools/README.md)
     * [Adaptive Liquidity Market Maker (ALMM)](x-chain-guides/liquidity-pools/adaptive-liquidity-market-maker-almm.md)
