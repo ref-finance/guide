@@ -55,6 +55,7 @@
   * [RHEA Point System (Season 1 Done)](x-chain-guides/rhea-point-system-season-1-done.md)
   * [Untitled](x-chain-guides/untitled.md)
   * [PassKey Account](x-chain-guides/passkey-account.md)
+  * [RHEA Multi-Chain: TRON Energy Rental](x-chain-guides/rhea-multi-chain-tron-energy-rental.md)
 * [ NEAR Chain Guides](near-chain-guides/README.md)
   * [RFQ DEX](near-chain-guides/swap/README.md)
     * [Swap](near-chain-guides/swap/swap.md)
@@ -117,6 +118,7 @@
 * [CLI Trading](developers-1/cli-trading.md)
 * [CLI Farming](developers-1/cli-farming.md)
 * [RHEA SDK](developers-1/rhea-sdk.md)
+* [RHEA Dex Referral Setup](developers-1/rhea-dex-referral-setup.md)
 
 ## Docs
 
