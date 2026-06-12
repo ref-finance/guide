@@ -127,6 +127,8 @@
 * [RHEA Mica Whitepaper](docs/rhea-mica-whitepaper.md)
 * [RHEA Finance White Paper](docs/rhea-finance-white-paper.md)
 * [RHEA Finance Cross-Chain Lending Litepaper](docs/rhea-finance-cross-chain-lending-litepaper.md)
+* [Rhea Finance Privacy Policy](docs/rhea-finance-privacy-policy.md)
+* [Rhea Finance Terms of Services](docs/rhea-finance-terms-of-services.md)
 
 ## SUPPORT
 
